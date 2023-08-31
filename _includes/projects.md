@@ -39,10 +39,11 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.3390/land12071339">Walkability Perceptions and Gender Differences in Urban Fringe New Towns: A Case Study of Shanghai</a></div>
-    <div class="author"><strong>Wenjing Gong</strong></div>, Xiaoran Huang, MW
+    <div class="author"><strong>Wenjing Gong</strong>, Xiaoran Huang, MW
     <div class="periodical"><em>Land, Jun. 2023.</em></div>
-    <ul style="margin:0 0 20px;">
-    <li>Utilized the Network Analysis tool in ArcGIS to obtain the 15-minute walking distance range of 11 communities in Shanghai’s five new towns and the central area based on the road network from Open Street Map.</a></li>
+    
+  <div style="margin:0 0 20px;">
+    <li>Utilized the Network Analysis tool in ArcGIS to obtain the 15-minute walking distance range of 11 communities in Shanghai’s five new towns and the central area based on the road network       from Open Street Map.</a></li>
     </div>
   </div>
 </div>
