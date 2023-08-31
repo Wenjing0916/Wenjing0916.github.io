@@ -129,7 +129,8 @@ a.no-color {
 
 email {
   font-size: 14px;
-  font-family: "Crimson+Pro"; }
+#  font-family: "Crimson+Pro"; 
+      }
 
 .icon-button i {
   background: none;
@@ -222,7 +223,7 @@ papertitle {
   display: none; }
 
 .image.avatar img {
-  border-radius: 20%;
+  border-radius: 50%;
   width: 90%;
   padding: 50px;
   border: 2px solid #ddd;
