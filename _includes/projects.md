@@ -53,7 +53,6 @@
    <div class="author">-Developed Multiscale geographically weighted regression (MGWR) models to capture spatial non-stationary and reveal quantitative effects of related factors at the neighborhood scale.
   </div>
 </div>
-</div>
 </li>
   
 
