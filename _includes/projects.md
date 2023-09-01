@@ -35,14 +35,12 @@
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/nips2023.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">01</abbr>
-  </div>
+ 
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.3390/land12071339">Effects of the Built and Natural Environment on Bike-Sharing Usage: A Station Level Analysis of Citi Bike</a></div>
     <div class="author"><strong>Group Leader</strong>, Research Project, Reviewer: PhD candidate. Rui Jin</div>
     <div class="periodical"><em>2023.05-present</em></div>
-  </div>  
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="author">-Utilized multi-sources data, including sociodemographic, built environment, and natural environment factors to examine their impact on Citi Bike usage in New York City on weekdays and weekends in the year 2022.</div>
     <div class="author">-Processed about 13 million trip data using Python, collected a set of 6,744 street view images through Google API, and then employed PSPNet model for semantic segmentation; processed sociodemographic data at Census Block Groups level, Points of Interest data, weather and air quality data using ArcGIS pro.</div>
     <div class="author">-Applied machine learning models to establish a non-linear relationship between features and bike-sharing usage at the station scale and reveal the feature importance using SHapley Additive exPlanations (SHAP) package in Python.</div>
