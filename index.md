@@ -16,7 +16,6 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 I obtained
 
 
-{% include_relative _includes/education.md %}
 
 ## Education
 **[2019.09-2022.06] Tongji University**, Shanghai, China  
