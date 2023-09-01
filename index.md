@@ -21,7 +21,7 @@ I obtained
 **[2019.09-2022.06] Tongji University**, Shanghai, China  
 <i style="color:#7b5aa6">Master of Engineering in Architecture</i>
 - GPA: 88.5/100 (Entrance through the exam-free recommendation program)
-- Awards: Academic Scholarship covering all tuition fees 2019.9-2022.6
+- Awards: Academic Scholarship covering all tuition fees 2019.09-2022.06
 
 **[2014.09-2019.06] Shandong University of Science and Technology**, Qingdao, China  
 <i style="color:#7b5aa6">Bachelor of Engineering in Architecture</i>
