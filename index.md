@@ -66,6 +66,17 @@ I obtained
 -	Utilized spatial analysis methods such as spatial autocorrelation and geographically weighted regression models to evaluate the site layout of Cainiao courier stations in the central area of Shanghai at three levels: macro, meso, and micro.
 -	Built a platform on Datlas system developed by MetroDataTech that integrates data visualization, supply and demand, and spatial performance evaluation for courier station siting services.
 
+{% include_relative _includes/project4.md %}
+-	Applied qualitative methods to summarize the establishment, distribution, and location characteristics of fire stations in modern Shanghai, as well as the general layout, main building layout, functional composition, and architectural form.
+-	Based on sociological and anthropological perspectives, analyzed the impact of fire municipal construction on Modern Shanghai from the urban autonomy and civil society.
+
+{% include_relative _includes/project5.md %}
+-	Suggested a novel urban development framework that integrates urban agricultural systems with the community, based on the problem of urban sprawl that reduces the area of cultivated land and green space in cities.
+-	Developed three distinct prototypes: urban agriculture + housing, shopping, and education, combining ordinary housing, shopping malls, and schools with urban agriculture spaces, such as community farmland and agricultural laboratories.
+
+
+
+
 
 ## Working and Teaching Experience
 
