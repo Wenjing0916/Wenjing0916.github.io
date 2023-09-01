@@ -4,8 +4,7 @@ layout: homepage
 
 ## About Me
 <!-- 
-I'm a <a href="https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/" target="_blank"> Biostatistics</a> Ph.D. candidate at <a href="https://www.nyu.edu/" target="_blank"> New York University</a>'s <a href="https://med.nyu.edu/" target="_blank"> Grossman School of Medicine</a>,
-<!-- , specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  -->
+I'm a <a href="https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/" target="_blank"> Biostatistics</a> Ph.D. candidate at <a href="https://www.nyu.edu/" target="_blank"> New York University</a>'s <a href="https://med.nyu.edu/" target="_blank"> Grossman School of Medicine</a>, specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  
 working under the mentorship of Prof.<a href="https://med.nyu.edu/faculty/thaddeus-tarpey" target="_blank"> Thaddeus Tarpey</a>. My research involves developing statistical models that cater to high-dimensional complex data, such as functional and imaging data.
 
 In the summer of 2022, I had the opportunity to work as a Data Scientist Intern at <a href="https://about.google" target="_blank"> Google</a>, where I applied my statistical skills to real-world problems. 
@@ -13,6 +12,7 @@ Prior to joining the Ph.D. program, I completed my master's degree in Biostatist
 
 Outside of academia, I began my journey as a professional swimmer at the age of 5 and went on to achieve several regional and national championships. I'm also passionate about Chinese calligraphy, and my artwork has been exhibited in top galleries and museums including the <a href="http://www.namoc.org/" target="_blank"> National Art Museum of China (Beijing)</a>. In addition, I am also interested in oil painting, and aeromodelling.
 -->
+
 I obtained
 
 
