@@ -10,7 +10,7 @@ body {
 
 .pub-row {
   display: flex;
-  align-items: flex-start; }
+  align-items: center; }
 
 a.no-color {
   color: unset !important; }
