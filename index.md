@@ -16,17 +16,20 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 I obtained
 
 ## Education
-**[2019.09-2022.06]** Tongji University, Shanghai, China	 
+**[2019.09-2022.06]** Tongji University, Shanghai, China
+
 *Master of Engineering in Architecture*
 - GPA: 88.5/100 (Entrance through the exam-free recommendation program)
 - Awards: Academic Scholarship covering all tuition fees 2019.9-2022.6
 
 **[2014.09-2019.06]** Shandong University of Science and Technology, Qingdao, China	 	 
+
 *Bachelor of Engineering in Architecture*
 - GPA: 90.5/100 (Rank: 1/60 for 5 years)
 - Awards: First-class Scholarships in academic performance (5%, 9 times); First-class Corporate Scholarships (5%, 2 times); Design-related Competition Awards (11 times, National and International level); "Outstanding Graduate" of Shandong Province (5%); "Outstanding Student" in Science, Technology, and Innovation of school (5%)
 
-**[2019.12]** Columbia University, New York, USA	 	 	 
+**[2019.12]** Columbia University, New York, USA	 	 	
+
 *Visit Student in Graduate School of Architecture, Planning and Preservation (on site)*
 - Attended academic meetings and workshops related to urban sprawl, and delivered the final presentation of a design research project on behalf of group members (score: 90/100)
 
