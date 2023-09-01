@@ -588,7 +588,7 @@ screen and (max-width: 960px) {
 
   .pub-row {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
   }
 
   div.wrapper {
@@ -659,7 +659,7 @@ screen and (max-width: 960px) {
 
   .pub-row {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
   }
 
   header {
@@ -680,7 +680,7 @@ screen and (max-width: 480px) {
 
   .pub-row {
     display: block;
-    align-items: center;
+    align-items: flex-start;
   }
 
   body {
