@@ -20,7 +20,7 @@ I obtained
 *Master of Engineering in Architecture*
 - GPA: 88.5/100 (Entrance through the exam-free recommendation program)
 - Awards: Academic Scholarship covering all tuition fees 2019.9-2022.6
-- 
+
 **[2014.09-2019.06]** Shandong University of Science and Technology, Qingdao, China	 	 
 *Bachelor of Engineering in Architecture*
 - GPA: 90.5/100 (Rank: 1/60 for 5 years)
