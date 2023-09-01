@@ -79,10 +79,10 @@
 
 <li>  
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">  
-    <div class="author">•    Utilized the Network Analysis tool in ArcGIS to obtain the 15-minute walking distance range of 11 communities in Shanghai’s five new towns and the central area based on the road network from Open Street Map.</div>
-    <div class="author">•    Developed a TrueSkill-based rating system to dynamically collect audits of 325 street view images from professional students, and used DeeplabV3 and Mask R-CNN models to extract the physical features in images.</div>
-    <div class="author">-Conducted a clustering analysis using PCA and K-means++ algorithms of the perceived walkability scores in 11 communities and explored the characteristics of each cluster.</div>
-    <div class="author">-Combined Random Forest feature importance to analyze gender differences in influencing factors of walkability perception and examine prediction performance of several machine learning models.
+    <div class="author">- Utilized the Network Analysis tool in ArcGIS to obtain the 15-minute walking distance range of 11 communities in Shanghai’s five new towns and the central area based on the road network from Open Street Map.</div>
+    <div class="author">- Developed a TrueSkill-based rating system to dynamically collect audits of 325 street view images from professional students, and used DeeplabV3 and Mask R-CNN models to extract the physical features in images.</div>
+    <div class="author">- Conducted a clustering analysis using PCA and K-means++ algorithms of the perceived walkability scores in 11 communities and explored the characteristics of each cluster.</div>
+    <div class="author">- Combined Random Forest feature importance to analyze gender differences in influencing factors of walkability perception and examine prediction performance of several machine learning models.
   </div>
 </div>
 </li>  
