@@ -31,7 +31,7 @@ I obtained
 
 
 {% include_relative _includes/projects.md %}
-
+{% include_relative _includes/projects.md %}
 
 
 ## Working and Teaching Experience
