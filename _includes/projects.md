@@ -47,8 +47,8 @@
 
 <li>  
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">  
-  <div class="author">•  Utilized multi-sources data, including sociodemographic, built environment, and natural environment factors to examine their impact on Citi Bike usage in New York City on weekdays and weekends in the year 2022.</div>
-  <div class="author">•  Processed about 13 million trip data using Python, collected a set of 6,744 street view images through Google API, and then employed PSPNet model for semantic segmentation; processed sociodemographic data at Census Block Groups level, Points of Interest data, weather and air quality data using ArcGIS pro.</div>
+  <div class="author">•    Utilized multi-sources data, including sociodemographic, built environment, and natural environment factors to examine their impact on Citi Bike usage in New York City on weekdays and weekends in the year 2022.</div>
+  <div class="author">•    Processed about 13 million trip data using Python, collected a set of 6,744 street view images through Google API, and then employed PSPNet model for semantic segmentation; processed sociodemographic data at Census Block Groups level, Points of Interest data, weather and air quality data using ArcGIS pro.</div>
   <div class="author">-Applied machine learning models to establish a non-linear relationship between features and bike-sharing usage at the station scale and reveal the feature importance using SHapley Additive exPlanations (SHAP) package in Python.</div>
   <div class="author">-Developed Multiscale geographically weighted regression (MGWR) models to capture spatial non-stationary and reveal quantitative effects of related factors at the neighborhood scale.
   </div>
@@ -74,8 +74,8 @@
 
 <li>  
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">  
-    <div class="author">•  Utilized the Network Analysis tool in ArcGIS to obtain the 15-minute walking distance range of 11 communities in Shanghai’s five new towns and the central area based on the road network from Open Street Map.</div>
-    <div class="author">•  Developed a TrueSkill-based rating system to dynamically collect audits of 325 street view images from professional students, and used DeeplabV3 and Mask R-CNN models to extract the physical features in images.</div>
+    <div class="author">•    Utilized the Network Analysis tool in ArcGIS to obtain the 15-minute walking distance range of 11 communities in Shanghai’s five new towns and the central area based on the road network from Open Street Map.</div>
+    <div class="author">•    Developed a TrueSkill-based rating system to dynamically collect audits of 325 street view images from professional students, and used DeeplabV3 and Mask R-CNN models to extract the physical features in images.</div>
     <div class="author">-Conducted a clustering analysis using PCA and K-means++ algorithms of the perceived walkability scores in 11 communities and explored the characteristics of each cluster.</div>
     <div class="author">-Combined Random Forest feature importance to analyze gender differences in influencing factors of walkability perception and examine prediction performance of several machine learning models.
   </div>
