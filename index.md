@@ -15,9 +15,7 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 
 I obtained
 
-{% include_relative _includes/education.md %}
 
-<!-- 
 ## Education
 **[2019.09-2022.06] Tongji University**, Shanghai, China
 
@@ -35,7 +33,7 @@ I obtained
 
 *Visit Student in Graduate School of Architecture, Planning and Preservation (on site)*
 - Attended academic meetings and workshops related to urban sprawl, and delivered the final presentation of a design research project on behalf of group members (score: 90/100)
--->
+
 
 ## Research Interests
 <!-- 
