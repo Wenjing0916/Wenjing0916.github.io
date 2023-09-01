@@ -28,16 +28,13 @@ I obtained
 - Sustainable Transportation, Human Mobility and Behavior, Urban Climate, Public Health
 
 
-<!-- {% include_relative _includes/publications.md %} -->
+
 
 {% include_relative _includes/projects.md %}
 
-{% include_relative _includes/talks.md %}
 
-
-
-
-
+<!-- {% include_relative _includes/publications.md %} -->
+<!--{% include_relative _includes/talks.md %}-->
 
 
 ## Working and Teaching Experience
