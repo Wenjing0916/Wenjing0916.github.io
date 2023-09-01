@@ -62,7 +62,9 @@ I obtained
 -	Conducted a clustering analysis using PCA and K-means++ algorithms of the perceived walkability scores in 11 communities and explored the characteristics of each cluster.
 -	Combined Random Forest feature importance to analyze gender differences in influencing factors of walkability perception and examine prediction performance of several machine learning models.
 
-
+{% include_relative _includes/project3.md %}
+-	Utilized spatial analysis methods such as spatial autocorrelation and geographically weighted regression models to evaluate the site layout of Cainiao courier stations in the central area of Shanghai at three levels: macro, meso, and micro.
+-	Built a platform on Datlas system developed by MetroDataTech that integrates data visualization, supply and demand, and spatial performance evaluation for courier station siting services.
 
 
 ## Working and Teaching Experience
