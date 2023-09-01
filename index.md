@@ -31,9 +31,6 @@ I obtained
 - Attended academic meetings and workshops related to urban sprawl, and delivered the final presentation of a design research project on behalf of group members (score: 90/100)
 
 
-
-
-
 ## Research Interests
 <!-- 
 - **Manifold Learning:** positive semi-definite manifolds learning
@@ -44,6 +41,10 @@ I obtained
 
 - Urban Informatics, Spatial Analytics, GeoAI, Social Sensing
 - Sustainable Transportation, Human Mobility and Behavior, Urban Climate, Public Health
+
+
+## Publications
+
 
 
 
