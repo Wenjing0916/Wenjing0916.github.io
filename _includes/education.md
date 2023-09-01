@@ -19,7 +19,7 @@
 -->
 
 <h4 style="margin:0 10px 0;">[2019.09-2022.06] Tongji University, Shanghai, China</h4>
-<strong><i style="color:#7b5aa6">Master of Engineering in Architecture</i></strong>
+<i style="color:#7b5aa6">Master of Engineering in Architecture</i>
 <ul style="margin:0 0 20px;">
   <li>GPA: 88.5/100 (Entrance through the exam-free recommendation program)</a></li>
   <li>Awards: Academic Scholarship covering all tuition fees 2019.9-2022.6</a></li>
