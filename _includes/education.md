@@ -23,7 +23,7 @@
 <ul style="margin:0 0 20px;">
   <li>GPA: 88.5/100 (Entrance through the exam-free recommendation program)</a></li>
   <li>Awards: Academic Scholarship covering all tuition fees 2019.9-2022.6</a></li>
-
+</ul>
 
 <!-- 
 Tongji University, Shanghai, China	 2019.09-2022.06
