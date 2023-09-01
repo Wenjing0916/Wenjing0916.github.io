@@ -13,7 +13,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://doi.org/10.3390/land12071339">Undoing Sprawl: Resizing the Urban Form in the Era of “Negative Population Growth”</a></div>
+    <div class="title"><a href="assets/files/project5.pdf">Undoing Sprawl: Resizing the Urban Form in the Era of “Negative Population Growth”</a></div>
     <div class="author"><strong>Group Member</strong>, Design Research Project, Advisor: Prof. Yonghe Zhang and Prof. Zheng Tan</div>
     <div class="periodical"><em>2019.09-2020.01</em></div>
   </div>
