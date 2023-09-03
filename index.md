@@ -70,7 +70,7 @@ I obtained
 
 {% include_relative _includes/project4.md %}
 -	Applied qualitative methods to summarize the establishment, distribution, and location characteristics of fire stations in modern Shanghai, as well as the general layout, main building layout, functional composition, and architectural form.
--	Based on sociological and anthropological perspectives, analyzed the impact of fire municipal construction on Modern Shanghai from the urban autonomy and civil society.
+-	Analyzed the impact of municipal fire station construction on Modern Shanghai from sociological and anthropological perspectives, focusing on urban autonomy and civil society.
 
 {% include_relative _includes/project5.md %}
 -	Suggested a novel urban development framework that integrates urban agricultural systems with the community, based on the problem of urban sprawl that reduces the area of cultivated land and green space in cities.
