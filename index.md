@@ -73,8 +73,8 @@ I obtained
 -	Analyzed the impact of municipal fire station construction on Modern Shanghai from sociological and anthropological perspectives, focusing on urban autonomy and civil society.
 
 {% include_relative _includes/project5.md %}
--	Suggested a novel urban development framework that integrates urban agricultural systems with the community, based on the problem of urban sprawl that reduces the area of cultivated land and green space in cities.
--	Developed three distinct prototypes: urban agriculture + housing, shopping, and education, combining ordinary housing, shopping malls, and schools with urban agriculture spaces, such as community farmland and agricultural laboratories.
+-	Analyzed the impact of urban sprawl on urban space, including the occupation of green spaces and arable land, and the increasing separation of food production from consumption in the city using satellite maps.
+-	Suggested a novel urban development framework integrating urban agriculture with the community through three distinct prototypes: agriculture + housing, shopping, and education.
 
 
 
