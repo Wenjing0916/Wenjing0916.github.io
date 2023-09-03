@@ -93,7 +93,7 @@ I obtained
 ## Skills
 - **Spatial Data Analysis:** ArcGIS Pro, Geoda, MGWR 2.2
 - **Programming:** Python for data processing, visualization, and analysis; Semantic Segmentation and Instance Segmentation of images; Machine learning models construction and evaluation
-- **Additional Course Certificates:** Machine Learning Specialization from Stanford University on Coursera
+- **Additional Course Certificates:** <a href="assets/files/Coursera Machine Learning Specialization.pdf" target="_blank">Machine Learning Specialization</a> from Stanford University on Coursera
 
 
 
