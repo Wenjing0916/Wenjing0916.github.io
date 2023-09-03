@@ -91,8 +91,9 @@ I obtained
 - **[2020.09-2021.01]** Teaching Assistant, Design Basics III in Urban Planning, Tongji University (Fall 2020) 
 
 ## Skills
-- **Software:** ArcGIS Pro, Geoda, MGWR 2.2
-- **Programming:** Python for data processing, visualization and analysis, Machine Learning ()
+- **Spatial Data Analysis:** ArcGIS Pro, Geoda, MGWR 2.2
+- **Programming:** Python for data processing, visualization, and analysis; Semantic Segmentation and Instance Segmentation of images; Machine learning models construction and evaluation
+- **Additional Course Certificates:** Machine Learning Specialization from Stanford University on Coursera
 
 
 
