@@ -57,14 +57,16 @@ I obtained
 -	Developed Multiscale geographically weighted regression (MGWR) models to capture spatial non-stationary and reveal quantitative effects of related factors at the neighborhood scale.
 
 {% include_relative _includes/project2.md %}
--	Utilized the Network Analysis tool in ArcGIS to obtain the 15-minute walking distance range of 11 communities in Shanghai’s five new towns and the central area based on the road network from Open Street Map.
+-	Utilized the Network Analysis tool in ArcGIS to obtain the 15-minute walking range for 11 communities in Shanghai’s five new towns and the central area based on the road network from Open Street Map.
 -	Developed a TrueSkill-based rating system to dynamically collect audits of 325 street view images from professional students, and used DeeplabV3 and Mask R-CNN models to extract the physical features in images.
 -	Conducted a clustering analysis using PCA and K-means++ algorithms of the perceived walkability scores in 11 communities and explored the characteristics of each cluster.
--	Combined Random Forest feature importance to analyze gender differences in influencing factors of walkability perception and examine prediction performance of several machine learning models.
+-	Applied Random Forest feature importance to analyze gender differences in influencing factors of walkability perception and assessed the prediction performance of various machine learning models.
 
 {% include_relative _includes/project3.md %}
--	Utilized spatial analysis methods such as spatial autocorrelation and geographically weighted regression models to evaluate the site layout of Cainiao courier stations in the central area of Shanghai at three levels: macro, meso, and micro.
--	Built a platform on Datlas system developed by MetroDataTech that integrates data visualization, supply and demand, and spatial performance evaluation for courier station siting services.
+-	Utilized spatial analysis methods such as Kernel Density, Standard Deviational Ellipse, and spatial autocorrelation to characterize the spatial and temporal evolution of courier station distribution in 2018 and 2022 at the macro scale.
+-	Applied the geographically weighted regression (GWR) model to identify meso-influential factors and models that are "fit for courier stations" and evaluated the supply and demand for street-scale courier station layouts.
+-	Analyzed micro-environmental characteristics "fit for courier stations" within 500m buffer zones and proposed an effectiveness evaluation of the current situation based on specific indicators.
+-	Built a platform on Datlas system developed by MetroDataTech that integrates data visualization, supply and demand, and performance evaluation for courier station siting services.
 
 {% include_relative _includes/project4.md %}
 -	Applied qualitative methods to summarize the establishment, distribution, and location characteristics of fire stations in modern Shanghai, as well as the general layout, main building layout, functional composition, and architectural form.
