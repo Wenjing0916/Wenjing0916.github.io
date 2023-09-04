@@ -48,7 +48,7 @@ I obtained
 ## Publications
 [1] **Gong, W.**, Huang, X., White, M., Langenheim, N., 2023. <a href="https://doi.org/10.3390/land12071339" target="_blank"> Walkability Perceptions and Gender Differences in Urban Fringe New Towns: A Case Study of Shanghai</a>. *Land* 12, 1339. *(SSCI Q2)*  
 [2] **Gong, W.**, Jin, R., Li, T. Effects of the Built and Natural Environment on Bike-Sharing Usage. *Transportation Research Part D: Transport and Environment (Under Review, July. 2023, SCI/SSCI Q1)*  
-[3] Zhang, X., **Gong, W.** Evolution of Fire Administration Space: Analysis of Location and Architectural Form of the Fire Stations in the Concession Areas of Modern Shanghai</a>. *Time + Architecture*. 2021(06): 156-165. *(In Chinese)*
+[3] Zhang, X., **Gong, W.** Evolution of Fire Administration Space: Analysis of Location and Architectural Form of the Fire Stations in the Concession Areas of Modern Shanghai. *Time + Architecture*. 2021(06): 156-165. *(In Chinese)*
 
 {% include_relative _includes/project1.md %}
 -	Utilized multi-sources data, including sociodemographic, built environment, and natural environment factors to examine their impact on Citi Bike usage in New York City on weekdays and weekends in the year 2022.
