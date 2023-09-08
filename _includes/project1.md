@@ -39,7 +39,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.3390/land12071339">Effects of the Built and Natural Environment on Bike-Sharing Usage: A Station Level Analysis of Citi Bike</a></div>
-    <div class="author"><strong>Group Leader</strong>, Research Project, Reviewer: PhD candidate. Rui Jin</div>
+    <div class="author"><strong>Group Leader</strong>, Research Project, Advisor: PhD candidate. Rui Jin</div>
     <div class="periodical"><em>2023.05-present</em></div>
   </div>
 </div>
