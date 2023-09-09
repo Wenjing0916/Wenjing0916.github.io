@@ -13,9 +13,15 @@ Prior to joining the Ph.D. program, I completed my master's degree in Biostatist
 Outside of academia, I began my journey as a professional swimmer at the age of 5 and went on to achieve several regional and national championships. I'm also passionate about Chinese calligraphy, and my artwork has been exhibited in top galleries and museums including the <a href="http://www.namoc.org/" target="_blank"> National Art Museum of China (Beijing)</a>. In addition, I am also interested in oil painting, and aeromodelling.
 -->
 
-I obtained
+Hello and welcome to my website!
 
+My integrated background in social science, engineering, and data science equips me with the skill to analyze data scientifically and the ability to delve deeper into understanding social phenomena and human behavioral traits within urban environments.
 
+I thrive on interdisciplinary exploration and have a strong passion for learning new knowledge. I hope to collaborate with researchers from various disciplines to tackle complex scientific challenges and achieve integrated research results in the future.
+
+I am currently seeking a Ph.D. position for Fall 2024, and I believe my diverse background can offer fresh insights to your program.
+
+To learn more about my shift in academic interests and my academic journey, please explore my <a href="assets/files/Coursera Machine Learning Specialization.pdf" target="_blank">Statement of Purpose</a>.
 
 ## Education
 **[2019.09-2022.06] Tongji University**, Shanghai, China  
