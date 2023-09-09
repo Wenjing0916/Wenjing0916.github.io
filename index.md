@@ -17,9 +17,10 @@ Hello and welcome to my website!
 
 My integrated background in social science, engineering, and data science equips me with the skill to analyze data scientifically and the ability to delve deeper into understanding social phenomena and human behavioral within urban environments.
 
-I thrive on interdisciplinary exploration and have a strong passion for learning new knowledge. I hope to collaborate with researchers from various disciplines to tackle complex scientific challenges and achieve integrated research results in the future.
+I thrive on interdisciplinary exploration and have a strong passion for learning new knowledge. I hope to collaborate with researchers from various disciplines to tackle complex scientific challenges and achieve comprehensive research results in the future.
 
 I am currently seeking a Ph.D. position for Fall 2024, and I believe my diverse background can offer fresh insights to your program.
+
 <!-- 
 To learn more about my academic journey, please explore my <a href="assets/files/Coursera Machine Learning Specialization.pdf" target="_blank">Statement of Purpose</a>.
 -->
