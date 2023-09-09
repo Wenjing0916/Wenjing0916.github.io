@@ -21,7 +21,7 @@ I thrive on interdisciplinary exploration and have a strong passion for learning
 
 I am currently seeking a Ph.D. position for Fall 2024, and I believe my diverse background can offer fresh insights to your program.
 
-To learn more about my shift in academic interests and my academic journey, please explore my <a href="assets/files/Coursera Machine Learning Specialization.pdf" target="_blank">Statement of Purpose</a>.
+To learn more about my academic journey, please explore my <a href="assets/files/Coursera Machine Learning Specialization.pdf" target="_blank">Statement of Purpose</a>.
 
 ## Education
 **[2019.09-2022.06] Tongji University**, Shanghai, China  
