@@ -15,7 +15,7 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 
 Hello and welcome to my website!
 
-My integrated background in social science, engineering, and data science equips me with the skill to analyze data scientifically and the ability to delve deeper into understanding social phenomena and human behavioral within urban environments.
+I possess a diverse background in social science, engineering, and data science, enabling me to conduct data analysis with a rational approach while also gaining insights into social phenomena and human behavior within urban environments.
 
 I thrive on interdisciplinary exploration and have a strong passion for learning new knowledge. I hope to collaborate with researchers from various disciplines to tackle complex scientific challenges and achieve comprehensive research results in the future.
 
