@@ -50,7 +50,8 @@ To learn more about my academic journey, please explore my <a href="assets/files
 -->
 
 - Urban Informatics, Spatial Analytics, GeoAI, Social Sensing
-- Sustainable Transportation, Human Mobility and Behavior, Urban Climate, Public Health
+- Sustainable Transportation, Human Mobility and Behavior
+- Public Health, Urban Climate
 
 
 ## Publications
