@@ -15,7 +15,7 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 
 Hello and welcome to my website!
 
-I possess a diverse background in social sciences, engineering, and data science, which enables me to conduct quantitative analysis with a scientific approach while also gaining insights into social phenomena and human behavior within urban environments.
+I possess a diverse background in social sciences, engineering, and data science, which enables me to conduct quantitative analysis while also gaining insights into social phenomena and human behavior within urban environments.
 
 I thrive on interdisciplinary exploration and have a strong passion for learning new knowledge. I hope to collaborate with researchers from various disciplines to tackle complex scientific challenges and achieve comprehensive research results in the future.
 
@@ -49,9 +49,9 @@ To learn more about my academic journey, please explore my <a href="assets/files
 - **High-Dimensional Statistics:** matrix-valued regression and clustering, positive semi-definite matrices estimations
 -->
 
-- Urban Informatics, Spatial Analytics, GeoAI, Social Sensing
-- Sustainable Transportation, Human Mobility and Behavior
-- Public Health, Urban Climate
+- Urban Informatics, Spatial Data Science, GeoAI, Social Sensing
+- Sustainable Transportation, Human Mobility and Behavior, Space-Time Analytics
+- Public and Environmental Health, Urban Climate, Resilient Cities
 
 
 ## Publications
