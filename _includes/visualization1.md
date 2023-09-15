@@ -41,7 +41,7 @@
     <div class="title"><i style="color:#7b5aa6">Spatio-temporal Visualization of Citibike OD Flows in New York City</i></div>
     <div class="author">Further Exploration of My Research Experience 1</div>
     <div class="author"><a href="assets/files/visualization1.mp4">Video</a></div>
-    <div class="periodical"><em>2023.08</em></div>
+    <div class="periodical"><em>2023.09</em></div>
   </div>
 </div>
 </li>  
