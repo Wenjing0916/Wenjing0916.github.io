@@ -85,7 +85,9 @@ To learn more about my academic journey, please explore my <a href="assets/files
 -	Analyzed the impact of urban sprawl on urban space, including the occupation of green spaces and arable land, and the increasing separation of food production from consumption in the city using satellite maps.
 -	Suggested a novel urban development framework integrating urban agriculture with the community through three distinct prototypes: agriculture + housing, shopping, and education.
 
-
+{% include_relative _includes/visualization1.md %}
+-	111
+- Created dynamic visualizations of the spatio-temporal trajectories of shared bicycles on Sept. 1, 2022.
 
 
 
