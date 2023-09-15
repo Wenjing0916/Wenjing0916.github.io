@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Research Experience</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Visualization</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -38,7 +38,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://doi.org/10.3390/land12071339">Effects of the Built and Natural Environment on Bike-Sharing Usage: A Station Level Analysis of Citi Bike</a></div>
+    <div class="title"><a href="https://doi.org/10.3390/land12071339">Spatio-temporal Visualization of Citibike OD Flows in New York City</a></div>
     <div class="author">Visualization Project</div>
     <div class="periodical"><em>2023.08</em></div>
   </div>
