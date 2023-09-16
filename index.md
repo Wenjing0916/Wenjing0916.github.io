@@ -17,7 +17,7 @@ Hello and welcome to my website!
 
 I have a diverse background in social science, engineering, and data science, enabling quantitative analysis while gaining insights into social phenomena and human behavior in urban environments.
 
-I thrive on cross-disciplinary exploration and have a strong passion for acquiring new knowledge. I hope to collaborate with researchers from various disciplines to address complex scientific challenges and achieve comprehensive research results in the future.
+I thrive on cross-disciplinary exploration and have a strong passion for acquiring new knowledge. I hope to collaborate with researchers from various fields to address complex scientific challenges and achieve comprehensive research results in the future.
 
 Currently, I am seeking a Ph.D. position for Fall 2024, and I believe my multidisciplinary background can offer fresh insights to your lab.
 
