@@ -63,7 +63,7 @@ To learn more about my academic journey, please explore my <a href="assets/files
 -	Utilized multi-sources data, including sociodemographic, built environment, and natural environment factors to examine their impact on Citi Bike usage in New York City on weekdays and weekends in the year 2022.
 -	Processed about 13 million trip data using Python, collected a set of 6,744 street view images through Google API, and then employed PSPNet model for semantic segmentation; processed sociodemographic data at Census Block Groups level, Points of Interest data, weather and air quality data using ArcGIS pro.
 -	Applied machine learning models to establish non-linear relationships between features and bike-sharing usage at the station scale and reveal the feature importance using SHapley Additive exPlanations (SHAP) package in Python.
--	Developed Multiscale geographically weighted regression (MGWR) models to capture spatial non-stationary and reveal quantitative effects of related factors at the neighborhood scale.
+-	Developed multiscale geographically weighted regression (MGWR) models to capture spatial non-stationary and reveal quantitative effects of related factors at the neighborhood scale.
 
 {% include_relative _includes/project2.md %}
 -	Utilized the Network Analysis tool in ArcGIS to obtain the 15-minute walking radius for 11 communities in Shanghai’s five new towns and the central area based on the road network from Open Street Map.
