@@ -54,7 +54,7 @@ To learn more about my academic journey, please explore my <a href="assets/files
 - Public and Environmental Health, Urban Climate, Resilient Cities
 
 
-## Publications
+## Research Articles
 [1] **Gong, W.**, Huang, X., White, M., Langenheim, N., 2023. <a href="https://doi.org/10.3390/land12071339" target="_blank"> Walkability Perceptions and Gender Differences in Urban Fringe New Towns: A Case Study of Shanghai</a>. *Land* 12, 1339. *(SSCI Q2)*  
 [2] **Gong, W.**, Jin, R., Li, T. Effects of the Built and Natural Environment on Bike-Sharing Usage: A Station Level Analysis of Citi Bike. *Transportation Research Part D: Transport and Environment (Under Review, SCI/SSCI Q1)*  
 [3] Zhang, X., **Gong, W.** <a href="https://doi.org/10.13717/j.cnki.ta.2021.06.025" target="_blank"> Evolution of Fire Administration Space: Analysis of Location and Architectural Form of the Fire Stations in the Concession Areas of Modern Shanghai</a>. *Time + Architecture*. 2021(06): 156-165. *(In Chinese)*
