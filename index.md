@@ -86,7 +86,7 @@ To learn more about my academic journey, please explore my <a href="assets/files
 -	Suggested a novel urban development framework integrating urban agriculture with the community through three distinct prototypes: agriculture + housing, shopping, and education.
 
 {% include_relative _includes/visualization1.md %}
--	111
+-	Utilized Sept. 1 and Sept. 3 (representing weekday and weekend) as examples to visualize the OD flows of shared bicycles during both morning and evening peak hours and discern the disparities between them.
 - Created dynamic visualizations of the spatio-temporal trajectories of shared bicycles on Sept. 1, 2022.
 
 
