@@ -38,7 +38,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><div style="color:#7b5aa6">Spatio-temporal Visualization of Citibike OD Flows in New York City</div></div>
+    <div class="title"><div style="color:#7b5aa6">Spatio-temporal Visualization of Citi Bike OD Flows in New York City</div></div>
     <div class="author">Further Exploration of My Research Experience 01</div>
     <div class="author"><a href="assets/files/visualization1.mp4">Video</a></div>
     <div class="periodical"><em>2023.09</em></div>
