@@ -56,7 +56,7 @@ To learn more about my academic journey, please explore my <a href="assets/files
 
 ## Research Articles
 [1] **Gong, W.**, Huang, X., White, M., Langenheim, N., 2023. <a href="https://doi.org/10.3390/land12071339" target="_blank"> Walkability Perceptions and Gender Differences in Urban Fringe New Towns: A Case Study of Shanghai</a>. *Land* 12, 1339. *(SSCI Q2)*  
-[2] **Gong, W.**, Jin, R., Li, T. Deciphering Urban Bike-Sharing Patterns: An In-depth Analysis of Natural Environment and Visual Quality in New York's Citi Bike System. *Journal of Transport Geography (Under Review, SSCI Q1)*  
+[2] **Gong, W.**, Jin, R., Li, T. <a href="assets/files/project1.pdf" target="_blank"> Deciphering Urban Bike-Sharing Patterns: An In-depth Analysis of Natural Environment and Visual Quality in New York's Citi Bike System</a>. *Journal of Transport Geography (Under Review, SSCI Q1)*  
 [3] Zhang, X., **Gong, W.** <a href="https://doi.org/10.13717/j.cnki.ta.2021.06.025" target="_blank"> Evolution of Fire Administration Space: Analysis of Location and Architectural Form of the Fire Stations in the Concession Areas of Modern Shanghai</a>. *Time + Architecture*. 2021(06): 156-165. *(In Chinese)*
 
 {% include_relative _includes/project1.md %}
