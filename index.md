@@ -38,7 +38,7 @@ To learn more about my academic journey, please explore my <a href="assets/files
 
 **[2019.12] Columbia University**, New York, USA  
 <i style="color:#7b5aa6">Visit Student in Graduate School of Architecture, Planning and Preservation (on site)</i>
-- Attended academic meetings and workshops related to urban sprawl, and delivered the final presentation of a design research project on behalf of group members (score: 90/100)
+- Attended academic meetings and workshops on the subject of urban sprawl, and delivered the final presentation of a design research project on behalf of group members (score: 90/100)
 
 
 ## Research Interests
