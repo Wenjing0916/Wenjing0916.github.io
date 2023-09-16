@@ -15,11 +15,11 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 
 Hello and welcome to my website!
 
-I possess a diverse background in social sciences, engineering, and data science, which enables me to conduct quantitative analysis while also gaining insights into social phenomena and human behavior within urban environments.
+I have a diverse background in social science, engineering, and data science, enabling quantitative analysis while gaining insights into social phenomena and human behavior in urban environments.
 
-I thrive on interdisciplinary exploration and have a strong passion for learning new knowledge. I hope to collaborate with researchers from various disciplines to tackle complex scientific challenges and achieve comprehensive research results in the future.
+I thrive on cross-disciplinary exploration and have a strong passion for acquiring new knowledge. I hope to collaborate with researchers from various disciplines to address complex scientific challenges and achieve comprehensive research results in the future.
 
-I am currently seeking a Ph.D. position for Fall 2024, and I believe my interdisciplinary background can offer fresh insights to your lab.
+Currently, I am seeking a Ph.D. position for Fall 2024, and I believe my multidisciplinary background can offer fresh insights to your lab.
 
 <!-- 
 To learn more about my academic journey, please explore my <a href="assets/files/Coursera Machine Learning Specialization.pdf" target="_blank">Statement of Purpose</a>.
