@@ -72,7 +72,7 @@ To learn more about my academic journey, please explore my <a href="assets/files
 -	Applied Random Forest feature importance to analyze gender differences in factors influencing walkability perception and assessed the prediction performance of various machine learning models.
 
 {% include_relative _includes/project3.md %}
--	Utilized spatial analysis methods such as Kernel Density, Standard Deviational Ellipse, and spatial autocorrelation to characterize the spatial and temporal evolution of courier station distribution in 2018 and 2022 at the macro scale.
+-	Utilized spatial analysis methods such as Kernel Density, Standard Deviational Ellipse, and Spatial Autocorrelation to characterize the spatial and temporal evolution of courier station distribution in 2018 and 2022 at the macro scale.
 -	Applied the geographically weighted regression (GWR) model to identify meso-influential factors and models that are "fit for courier stations" and evaluated the supply and demand for street-scale courier station layouts.
 -	Analyzed micro-environmental characteristics "fit for courier stations" within 500m buffer zones and proposed an effectiveness evaluation of the current situation based on specific indicators.
 -	Built a platform on Datlas system developed by MetroDataTech that integrates data visualization, supply and demand, and performance evaluation for courier station siting services.
