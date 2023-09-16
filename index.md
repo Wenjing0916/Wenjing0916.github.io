@@ -19,7 +19,7 @@ I possess a diverse background in social sciences, engineering, and data science
 
 I thrive on interdisciplinary exploration and have a strong passion for learning new knowledge. I hope to collaborate with researchers from various disciplines to tackle complex scientific challenges and achieve comprehensive research results in the future.
 
-I am currently seeking a Ph.D. position for Fall 2024, and I believe my diverse background can offer fresh insights to your lab.
+I am currently seeking a Ph.D. position for Fall 2024, and I believe my interdisciplinary background can offer fresh insights to your lab.
 
 <!-- 
 To learn more about my academic journey, please explore my <a href="assets/files/Coursera Machine Learning Specialization.pdf" target="_blank">Statement of Purpose</a>.
