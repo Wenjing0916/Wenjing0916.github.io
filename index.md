@@ -66,7 +66,7 @@ To learn more about my academic journey, please explore my <a href="assets/files
 -	Developed Multiscale geographically weighted regression (MGWR) models to capture spatial non-stationary and reveal quantitative effects of related factors at the neighborhood scale.
 
 {% include_relative _includes/project2.md %}
--	Utilized the Network Analysis tool in ArcGIS to obtain the 15-minute walking range for 11 communities in Shanghai’s five new towns and the central area based on the road network from Open Street Map.
+-	Utilized the Network Analysis tool in ArcGIS to obtain the 15-minute walking radius for 11 communities in Shanghai’s five new towns and the central area based on the road network from Open Street Map.
 -	Developed a TrueSkill-based rating system to dynamically collect audits of 325 street view images from professional students, and used DeeplabV3 and Mask R-CNN models to extract the physical features in images.
 -	Conducted a clustering analysis using PCA and K-means++ algorithms of the perceived walkability scores in 11 communities and explored the characteristics of each cluster.
 -	Applied Random Forest feature importance to analyze gender differences in factors influencing walkability perception and assessed the prediction performance of various machine learning models.
