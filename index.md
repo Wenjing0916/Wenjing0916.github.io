@@ -101,7 +101,7 @@ To learn more about my academic journey, please explore my <a href="assets/files
 - **[2022.08-present]** Urban Designer and Planner, Tongji Architectural Design (Group) Co., Ltd.  
 - **[2020.09-2021.01]** Teaching Assistant, Design Basics III in Urban Planning, Tongji University (Fall 2020) 
 
-## Skills and Additional information
+## Skills and Additional Information
 - **Languages:** English (IELTS: 7.0), Chinese (native)
 - **Spatial Data Analysis:** ArcGIS Pro, Geoda, MGWR 2.2
 - **Programming:** Python for data processing, visualization, and analysis; Semantic Segmentation and Instance Segmentation of images; Machine learning models construction and evaluation
