@@ -33,7 +33,7 @@ To learn more about my academic journey, please explore my <a href="assets/files
 
 **[2014.09-2019.06] Shandong University of Science and Technology**, Qingdao, China  
 <i style="color:#7b5aa6">Bachelor of Engineering in Architecture</i>
-- GPA: 90.5/100 (Rank: 1/60 for 5 years)
+- GPA: 90.5/100 (Rank: 1/60 for 5 years; The national college entrance examination grade: 620)
 - Awards: First-class Scholarships in academic performance (5%, 9 times); First-class Corporate Scholarships (5%, 2 times); Design-related Competition Awards (11 times, National and International level); "Outstanding Graduate" of Shandong Province (5%); "Outstanding Student" in Science, Technology, and Innovation of school (5%)
 
 **[2019.12] Columbia University**, New York, USA  
