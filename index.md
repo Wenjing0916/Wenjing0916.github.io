@@ -108,7 +108,7 @@ To learn more about my academic journey, please explore my <a href="assets/files
 - **Additional Course Certificates:** <a href="assets/files/Coursera Machine Learning Specialization.pdf" target="_blank">Machine Learning Specialization</a> from Stanford University on Coursera (learning in process)
 
 ## At last
-“Jing excels in anything she chooses to pursue.” Over the years, numerous classmates, coworkers, and leaders with whom I've collaborated have echoed this sentiment. I believe it's not a matter of being more intelligent than others, but rather my heightened sense of focus, determination, and purpose that sets me apart.
+“Jing excels in anything she chooses to pursue.” Over the years, numerous classmates, coworkers, and leaders with whom I've collaborated have echoed this sentiment. I believe it's not a matter of being more intelligent than others, but rather my heightened sense of focus, resolve, and purpose that sets me apart.
 
 Throughout the past year, during the day, I've worked as an urban designer and planner at a company. However, by night, in my small rented room in the bustling city, I transform into a dedicated researcher, immersed in the world of data and technology. It's my unwavering passion, combined with my determination to relentlessly pursue my identified interests and goals, that drives me to sacrifice almost all of my evenings, weekends, entertainment, and social interactions, propelling me closer, step by step, toward my dreams.
 
