@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+
 <!-- 
 I'm a <a href="https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/" target="_blank"> Biostatistics</a> Ph.D. candidate at <a href="https://www.nyu.edu/" target="_blank"> New York University</a>'s <a href="https://med.nyu.edu/" target="_blank"> Grossman School of Medicine</a>, specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  
 working under the mentorship of Prof.<a href="https://med.nyu.edu/faculty/thaddeus-tarpey" target="_blank"> Thaddeus Tarpey</a>. My research involves developing statistical models that cater to high-dimensional complex data, such as functional and imaging data.
@@ -13,6 +13,7 @@ Prior to joining the Ph.D. program, I completed my master's degree in Biostatist
 Outside of academia, I began my journey as a professional swimmer at the age of 5 and went on to achieve several regional and national championships. I'm also passionate about Chinese calligraphy, and my artwork has been exhibited in top galleries and museums including the <a href="http://www.namoc.org/" target="_blank"> National Art Museum of China (Beijing)</a>. In addition, I am also interested in oil painting, and aeromodelling.
 -->
 
+## About Me
 Hello and welcome to my website!
 
 I have a diverse background in social science, urban planning, and data science, enabling quantitative analysis while gaining insights into social phenomena and human behavior.
@@ -40,19 +41,19 @@ To learn more about my academic journey, please explore my <a href="assets/files
 <i style="color:#7b5aa6">Visit Student in Graduate School of Architecture, Planning and Preservation (on site)</i>
 - Attended academic meetings and workshops on the subject of urban sprawl, and delivered the final presentation of a design research project on behalf of group members (score: 90/100)
 
-
-## Research Interests
 <!-- 
+## Research Interests
 - **Manifold Learning:** positive semi-definite manifolds learning
 - **Machine Learning:** fairness AI, penalization and augmentation methods
 - **Functional Data Analysis:** functional regression, and clustering methods
 - **High-Dimensional Statistics:** matrix-valued regression and clustering, positive semi-definite matrices estimations
 -->
 
+<!-- 
 - Urban Informatics, Spatial Data Science, GeoAI, Social Sensing
 - Sustainable Transportation, Human Mobility and Behavior, Space-Time Analytics
 - Public and Environmental Health, Urban Climate, Resilient Cities
-
+-->
 
 ## Research Articles
 [1] **Gong, W.**, Huang, X., White, M., Langenheim, N., 2023. <a href="https://doi.org/10.3390/land12071339" target="_blank"> Walkability Perceptions and Gender Differences in Urban Fringe New Towns: A Case Study of Shanghai</a>. *Land* 12, 1339. *(SSCI Q2)*  
