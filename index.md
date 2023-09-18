@@ -79,7 +79,7 @@ To learn more about my academic journey, please explore my <a href="assets/files
 -	Built a platform on Datlas system developed by MetroDataTech that integrates data visualization, supply and demand, and performance evaluation for courier station siting services.
 
 {% include_relative _includes/project4.md %}
--	Applied qualitative methods to summarize the establishment, distribution, and location characteristics of fire stations in modern Shanghai, as well as the general layout, main building layout, functional composition, and architectural form.
+-	Applied qualitative methods to summarize the establishment, distribution, and location characteristics of fire stations in modern Shanghai, as well as the general layout, functional composition, and architectural form.
 -	Analyzed the impact of municipal fire station construction on Modern Shanghai from sociological and anthropological perspectives, focusing on urban autonomy and civil society.
 
 {% include_relative _includes/project5.md %}
