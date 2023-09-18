@@ -100,7 +100,7 @@ To learn more about my academic journey, please explore my <a href="assets/files
 - **[Jan. 2021]** <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jocd.13486" target="_blank">*Quantitative evaluation of rejuvenation treatment of nasolabial fold wrinkles by regression model and 3D photography*</a> has been accepted by the **Journal of Cosmetic Dermatology**.
 -->
 - **[2022.08-present]** Urban Designer and Planner, Tongji Architectural Design (Group) Co., Ltd.  
-- **[2020.09-2021.01]** Teaching Assistant, Design Basics III in Urban Planning, Tongji University (Fall 2020) 
+- **[2020.09-2021.01]** Teaching Assistant, Design Basics III, Department of Urban Planning, Tongji University (Fall 2020) 
 
 ## Skills and Additional Information
 - **Languages:** English (IELTS: 7.0), Chinese (native)
