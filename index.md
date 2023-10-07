@@ -106,7 +106,7 @@ To learn more about my academic journey, please explore my <a href="assets/files
 - **Languages:** English (IELTS: 7.0), Chinese (native)
 - **Spatial Data Analysis:** ArcGIS Pro, Geoda, MGWR 2.2
 - **Programming:** Python for data processing, visualization, and analysis; Semantic Segmentation and Instance Segmentation of images; Machine learning models construction and evaluation
-- **Additional Course Certificates:** <a href="assets/files/Coursera Machine Learning Specialization.pdf" target="_blank">Machine Learning Specialization</a> from Stanford University on Coursera (learning in process)
+- **Additional Course Certificates:** <a href="assets/files/Coursera Machine Learning Specialization.pdf" target="_blank">Machine Learning Specialization</a> from Stanford University on Coursera
 
 ## At Last
 “Jing excels in anything she chooses to pursue.” Over the years, numerous classmates, coworkers, and leaders with whom I've collaborated have echoed this sentiment. I believe it's not a matter of being more intelligent than others, but rather my heightened sense of focus, resolve, and purpose that sets me apart.
