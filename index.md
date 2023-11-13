@@ -32,14 +32,16 @@ To learn more about my academic journey, please explore my <a href="assets/files
 - GPA: 88.5/100 (Entrance through the exam-free recommendation program)
 - Awards: Academic Scholarship covering all tuition fees 2019.09-2022.06
 
+**[2019.12] Columbia University**, New York, USA  
+<i style="color:#7b5aa6">Visiting Student in Graduate School of Architecture, Planning and Preservation (on-site)</i>
+- Attended academic meetings and workshops on the subject of urban sprawl, and delivered the final presentation of a design research project on behalf of group members (score: 90/100)
+
 **[2014.09-2019.06] Shandong University of Science and Technology**, Qingdao, China  
 <i style="color:#7b5aa6">Bachelor of Engineering in Architecture</i>
 - GPA: 90.5/100 (Rank: 1/60 for 5 years; The national college entrance examination grade: 620)
 - Awards: First-class Scholarships in academic performance (5%, 9 times); First-class Corporate Scholarships (5%, 2 times); Design-related Competition Awards (11 times, National and International level); "Outstanding Graduate" of Shandong Province (5%); "Outstanding Student" in Science, Technology, and Innovation at university (5%)
 
-**[2019.12] Columbia University**, New York, USA  
-<i style="color:#7b5aa6">Visit Student in Graduate School of Architecture, Planning and Preservation (on site)</i>
-- Attended academic meetings and workshops on the subject of urban sprawl, and delivered the final presentation of a design research project on behalf of group members (score: 90/100)
+
 
 <!-- 
 ## Research Interests
@@ -55,7 +57,7 @@ To learn more about my academic journey, please explore my <a href="assets/files
 - Public and Environmental Health, Urban Climate, Resilient Cities
 -->
 
-## Research Articles
+## Peer-reviewed Journal Articles
 [1] **Gong, W.**, Huang, X., White, M., Langenheim, N., 2023. <a href="https://doi.org/10.3390/land12071339" target="_blank"> Walkability Perceptions and Gender Differences in Urban Fringe New Towns: A Case Study of Shanghai</a>. *Land* 12, 1339. *(SSCI Q2)*  
 [2] **Gong, W.**, Rui, J., Li, T. <a href="assets/files/project1.pdf" target="_blank"> Deciphering Urban Bike-Sharing Patterns: An In-depth Analysis of Natural Environment and Visual Quality in New York's Citi Bike System</a>. *Journal of Transport Geography (Under Review, SSCI Q1)*  
 [3] Zhang, X., **Gong, W.** <a href="https://doi.org/10.13717/j.cnki.ta.2021.06.025" target="_blank"> Evolution of Fire Administration Space: Analysis of Location and Architectural Form of the Fire Stations in the Concession Areas of Modern Shanghai</a>. *Time + Architecture*. 2021(06): 156-165. *(In Chinese)*
@@ -65,12 +67,14 @@ To learn more about my academic journey, please explore my <a href="assets/files
 -	Processed about 13 million trip data using Python, collected a set of 6,744 street view images through Google API, and then employed PSPNet model for semantic segmentation; processed sociodemographic data at Census Block Groups level, Points of Interest data, weather and air quality data using ArcGIS pro.
 -	Applied machine learning models to establish non-linear relationships between features and bike-sharing usage at the station scale and reveal the feature importance using SHapley Additive exPlanations (SHAP) package in Python.
 -	Developed multiscale geographically weighted regression (MGWR) models to capture spatial non-stationary and reveal quantitative effects of related factors at the neighborhood scale.
+-	Authored a manuscript under review in the *Journal of Transport Geography* as the lead writer, based on research results.
 
 {% include_relative _includes/project2.md %}
 -	Utilized the Network Analysis tool in ArcGIS to obtain the 15-minute walking radius for 11 communities in Shanghai’s five new towns and the central area based on the road network from Open Street Map.
 -	Developed a TrueSkill-based rating system to dynamically collect audits of 325 street view images from professional students, and used DeeplabV3 and Mask R-CNN models to extract the physical features in images.
 -	Conducted a clustering analysis using PCA and K-means++ algorithms of the perceived walkability scores in 11 communities and explored the characteristics of each cluster.
 -	Applied Random Forest feature importance to analyze gender differences in factors influencing walkability perception and assessed the prediction performance of various machine learning models.
+-	Authored a manuscript published in the journal *Land* as the lead writer, based on research results.
 
 {% include_relative _includes/project3.md %}
 -	Utilized spatial analysis methods such as Kernel Density, Standard Deviational Ellipse, and Spatial Autocorrelation to characterize the spatial and temporal evolution of courier station distribution in 2018 and 2022 at the macro scale.
@@ -81,6 +85,7 @@ To learn more about my academic journey, please explore my <a href="assets/files
 {% include_relative _includes/project4.md %}
 -	Applied qualitative methods to summarize the establishment, distribution, and location characteristics of fire stations in modern Shanghai, as well as the general layout, functional composition, and architectural form.
 -	Analyzed the impact of municipal fire station construction on Modern Shanghai from sociological and anthropological perspectives, focusing on urban autonomy and civil society.
+-	Authored a manuscript published in the journal *Time + Architecture* as the lead writer, based on research results.
 
 {% include_relative _includes/project5.md %}
 -	Analyzed the impact of urban sprawl, including the occupation of green spaces and arable land, as well as the growing separation of food production from consumption in the city, through literature review and satellite map comparisons.
