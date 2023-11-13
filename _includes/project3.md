@@ -14,7 +14,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="assets/files/project3.pdf">Intelligent Logistics System under the Perspective of Big Data</a></div>
-    <div class="author"><strong>Group Member</strong>, Digital FUTURES Workshop, Advisor: MetroDataTech (China’s leading data technology company)</div>
+    <div class="author"><strong>Group Member</strong>, Digital FUTURES Workshop, Mentor: MetroDataTech (China’s leading data technology company)</div>
     <div class="author"><a href="assets/files/project3.mp4">Video</a></div>
     <div class="periodical"><em>2022.06</em></div>
   </div>
