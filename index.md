@@ -16,7 +16,7 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 ## About Me
 Big thanks to everyone who helped me out with my 2024 Fall Ph.D. application process! More information will be updated in the future😀~ 
 
-Mar 2024
+(Mar 2024)
 
 
 <!-- 
