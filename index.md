@@ -13,14 +13,9 @@ Prior to joining the Ph.D. program, I completed my master's degree in Biostatist
 Outside of academia, I began my journey as a professional swimmer at the age of 5 and went on to achieve several regional and national championships. I'm also passionate about Chinese calligraphy, and my artwork has been exhibited in top galleries and museums including the <a href="http://www.namoc.org/" target="_blank"> National Art Museum of China (Beijing)</a>. In addition, I am also interested in oil painting, and aeromodelling.
 -->
 
+Update on Mar 2024
 ## About Me
-Hello and welcome to my website!
 
-I have a diverse background in social science, urban planning, and data science, enabling quantitative analysis while gaining insights into social phenomena and human behavior.
-
-I thrive on cross-disciplinary exploration and have a strong passion for acquiring new knowledge. I hope to collaborate with researchers from various fields to address complex scientific challenges and achieve comprehensive research results in the future.
-
-Currently, I am seeking a Ph.D. position for Fall 2024, and I believe my multidisciplinary background can offer fresh insights to your lab.
 
 <!-- 
 To learn more about my academic journey, please explore my <a href="assets/files/Coursera Machine Learning Specialization.pdf" target="_blank">Statement of Purpose</a>.
@@ -38,7 +33,7 @@ To learn more about my academic journey, please explore my <a href="assets/files
 
 **[2014.09-2019.06] Shandong University of Science and Technology**, Qingdao, China  
 <i style="color:#7b5aa6">Bachelor of Engineering in Architecture</i>
-- GPA: 90.5/100 (Rank: 1/60 for 5 years; The national college entrance examination grade: 620)
+- GPA: 90.5/100 (Rank: 1/60 for 5 years)
 - Awards: First-class Scholarships in academic performance (5%, 9 times); First-class Corporate Scholarships (5%, 2 times); Design-related Competition Awards (11 times, National and International level); "Outstanding Graduate" of Shandong Province (5%); "Outstanding Student" in Science, Technology, and Innovation at university (5%)
 
 
@@ -115,11 +110,6 @@ To learn more about my academic journey, please explore my <a href="assets/files
 - **Spatial Data Analysis:** ArcGIS Pro, Geoda, MGWR 2.2
 - **Programming:** Python for data processing, visualization, and analysis; Semantic Segmentation and Instance Segmentation of images; Machine learning models construction and evaluation
 - **Additional Course Certificates:** <a href="assets/files/Coursera Machine Learning Specialization.pdf" target="_blank">Machine Learning Specialization</a> from Stanford University on Coursera
-
-## At Last
-“Jing excels in anything she chooses to pursue.” Over the years, numerous classmates, coworkers, and leaders with whom I've collaborated have echoed this sentiment. I believe it's not a matter of being more intelligent than others, but rather my heightened sense of focus, resolve, and purpose that sets me apart.
-
-Throughout the past year, during the day, I've worked as an urban designer and planner at a company. However, by night, in my small rented room in the bustling city, I transform into a dedicated researcher, immersed in the world of data and technology. It's my unwavering passion, combined with my determination to relentlessly pursue my identified interests and goals, that drives me to sacrifice almost all of my evenings, weekends, and entertainment, propelling me closer, step by step, toward my dreams.
 
 
 
