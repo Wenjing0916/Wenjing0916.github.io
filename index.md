@@ -15,7 +15,7 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 
 Update on Mar 2024
 ## About Me
-
+-->
 
 <!-- 
 To learn more about my academic journey, please explore my <a href="assets/files/Coursera Machine Learning Specialization.pdf" target="_blank">Statement of Purpose</a>.
