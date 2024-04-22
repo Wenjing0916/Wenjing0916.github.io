@@ -5,7 +5,6 @@ layout: homepage
 <style>
   h2 {
     margin-top: 50px; /* 增加二级标题**的上边距 */
-    margin-bottom: 10px; /* 减小二级标题的下边距 */
   }
 
 </style>
