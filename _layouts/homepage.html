@@ -70,12 +70,12 @@
     scroll-behavior: smooth;
   }
 
-    /* 小屏幕时隐藏导航栏 */
-    @media (max-width: 390px) {
+    /* 针对小屏幕设备（高像素密度屏幕）隐藏导航栏 */
+    @media only screen and (max-width: 414px) and (-webkit-min-device-pixel-ratio: 3) {
     nav {
     display: none; 
+        }
   }
-}
     
   </style>
   
