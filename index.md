@@ -41,9 +41,9 @@ GPA: 90.5/100 (Rank: 1/60 for 5 years)
 
 ## Peer-reviewed Publications
 <span id="publication" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
-[1] **Gong, W.**, Rui, J., Li, T., 2024. <a href="https://authors.elsevier.com/sd/article/S0966-6923(24)00008-5" target="_blank"> Deciphering Urban Bike-Sharing Patterns: An In-depth Analysis of Natural Environment and Visual Quality in New York's Citi Bike System</a>. *Journal of Transport Geography* 115, 103799.
+- **Gong, W.**, Rui, J., Li, T., 2024. <a href="https://authors.elsevier.com/sd/article/S0966-6923(24)00008-5" target="_blank"> Deciphering Urban Bike-Sharing Patterns: An In-depth Analysis of Natural Environment and Visual Quality in New York's Citi Bike System</a>. *Journal of Transport Geography* 115, 103799.
 
-[2] **Gong, W.**, Huang, X., White, M., Langenheim, N., 2023. <a href="https://doi.org/10.3390/land12071339" target="_blank"> Walkability Perceptions and Gender Differences in Urban Fringe New Towns: A Case Study of Shanghai</a>. *Land* 12, 1339. 
+-	**Gong, W.**, Huang, X., White, M., Langenheim, N., 2023. <a href="https://doi.org/10.3390/land12071339" target="_blank"> Walkability Perceptions and Gender Differences in Urban Fringe New Towns: A Case Study of Shanghai</a>. *Land* 12, 1339. 
 
 ## Research Experience
 <span id="experience" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
@@ -73,9 +73,9 @@ GPA: 90.5/100 (Rank: 1/60 for 5 years)
 
 ## Presentations
 <span id="presentations" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
-[1] Gu, J., **Gong, W.**, Zhang, X. Analysis of the Spatial Distribution of Express Courier Stations and Assessment of Site Selection Effectiveness. DigitalFUTURES 12th Summer Workshops, July 2, 2022, Virtual.
+-	Gu, J., **Gong, W.**, Zhang, X. Analysis of the Spatial Distribution of Express Courier Stations and Assessment of Site Selection Effectiveness. DigitalFUTURES 12th Summer Workshops, July 2, 2022, Virtual.
 
-[2] **Gong, W.**, Huang, H., Zhang, X. Undoing Sprawl: Urban Agriculture as a Social Innovation. Resizing the Urban Form in the Era of “Negative Population Growth” Workshop, Columbia University, December 9, 2019, New York.
+-	**Gong, W.**, Huang, H., Zhang, X. Undoing Sprawl: Urban Agriculture as a Social Innovation. Resizing the Urban Form in the Era of “Negative Population Growth” Workshop, Columbia University, December 9, 2019, New York.
 
 
 
