@@ -23,7 +23,7 @@ Big thanks to everyone who helped me out with my 2024 Fall Ph.D. application pro
 To learn more about my academic journey, please explore my <a href="assets/files/Coursera Machine Learning Specialization.pdf" target="_blank">Statement of Purpose</a>.
 -->
 
-## <div id="education">Education</div>
+## Education
 **[2019.09-2022.06] Tongji University**, Shanghai, China  
 <i style="color:#7b5aa6">Master of Science in Architecture</i>
 - GPA: 88.5/100 (Entrance through the exam-free recommendation program)
@@ -97,7 +97,7 @@ To learn more about my academic journey, please explore my <a href="assets/files
 
 
 
-## <div id="experience">Working and Teaching Experience</div>
+## Working and Teaching Experience
 
 <!--
 - **[Feb. 2023]** <a href="https://www.sciencedirect.com/science/article/pii/S089990072200346X" target="_blank">*Low muscle mass is associated with a higher risk of all–cause and cardiovascular disease–specific mortality in cancer survivors*</a> has been accepted by **Nutrition**. 
