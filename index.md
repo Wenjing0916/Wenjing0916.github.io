@@ -4,7 +4,7 @@ layout: homepage
 
 <style>
   h2 {
-    margin-top: 30px; /* 增加二级标题的上边距 */
+    margin-top: 50px; /* 增加二级标题的上边距 */
   }
 </style>
 
