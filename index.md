@@ -24,7 +24,7 @@ To learn more about my academic journey, please explore my <a href="assets/files
 -->
 
 ## Education
-<span id="education"></span>
+<span id="education" style="display: block; margin-top: -70px; padding-top: 70px;"></span>
 **[2019.09-2022.06] Tongji University**, Shanghai, China  
 <i style="color:#7b5aa6">Master of Science in Architecture</i>
 - GPA: 88.5/100 (Entrance through the exam-free recommendation program)
