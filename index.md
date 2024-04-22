@@ -56,12 +56,11 @@ To learn more about my academic journey, please explore my <a href="assets/files
 -->
 
 ## Peer-reviewed Publications
-
+<span id="publication"></span>
 [1] **Gong, W.**, Rui, J., Li, T., 2024. <a href="https://authors.elsevier.com/sd/article/S0966-6923(24)00008-5" target="_blank"> Deciphering Urban Bike-Sharing Patterns: An In-depth Analysis of Natural Environment and Visual Quality in New York's Citi Bike System</a>. *Journal of Transport Geography* 115, 103799.
 
 [2] **Gong, W.**, Huang, X., White, M., Langenheim, N., 2023. <a href="https://doi.org/10.3390/land12071339" target="_blank"> Walkability Perceptions and Gender Differences in Urban Fringe New Towns: A Case Study of Shanghai</a>. *Land* 12, 1339. 
 
-[3] Zhang, X., **Gong, W.** <a href="https://doi.org/10.13717/j.cnki.ta.2021.06.025" target="_blank"> Evolution of Fire Administration Space: Analysis of Location and Architectural Form of the Fire Stations in the Concession Areas of Modern Shanghai</a>. *Time + Architecture*. 2021(06): 156-165. *(In Chinese)*
 
 {% include_relative _includes/project1.md %}
 -	Utilized multi-sources data, including sociodemographic, natural environment, and built environment factors to examine their impact on Citi Bike usage in New York City on weekdays and weekends in the year 2022.
@@ -82,11 +81,6 @@ To learn more about my academic journey, please explore my <a href="assets/files
 -	Applied the geographically weighted regression (GWR) model to identify meso-influential factors and models that are "fit for courier stations" and evaluated the supply and demand for street-scale courier station layouts.
 -	Analyzed micro-environmental characteristics "fit for courier stations" within 500m buffer zones and proposed an effectiveness evaluation of the current situation based on specific indicators.
 -	Built a platform on Datlas system developed by MetroDataTech that integrates data visualization, supply and demand, and performance evaluation for courier station siting services.
-
-{% include_relative _includes/project4.md %}
--	Applied qualitative methods to summarize the establishment, distribution, and location characteristics of fire stations in modern Shanghai, as well as the general layout, functional composition, and architectural form.
--	Analyzed the impact of municipal fire station construction on Modern Shanghai from sociological and anthropological perspectives, focusing on urban autonomy and civil society.
--	Authored a manuscript published in the journal *Time + Architecture* as the lead writer, based on research results.
 
 {% include_relative _includes/project5.md %}
 -	Analyzed the impact of urban sprawl, including the occupation of green spaces and arable land, as well as the growing separation of food production from consumption in the city, through literature review and satellite map comparisons.
