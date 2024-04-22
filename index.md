@@ -74,6 +74,7 @@ GPA: 90.5/100 (Rank: 1/60 for 5 years)
 -	**Gong, W.**, Huang, H., Zhang, X. Undoing Sprawl: Urban Agriculture as a Social Innovation. Resizing the Urban Form in the Era of “Negative Population Growth” Workshop, Columbia University, December 9, 2019, New York.
 
 ## Awards & Honors
+<span id="presentations" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
 - 2019 - 2022	Academic Scholarship covering all tuition fees
 - 2014 - 2022	Design/Planning-related Competition Awards (11 times, National and International level)
 - 2014 - 2019	First-class Scholarships in academic performance (5%, 9 times)
@@ -82,10 +83,11 @@ GPA: 90.5/100 (Rank: 1/60 for 5 years)
 - 2019		"Outstanding Student" in Science, Technology, and Innovation at university (5%)
 
 ## Skills
-- **Languages:** English (IELTS: 7.0), Chinese (native)
-- **Spatial Data Analysis:** ArcGIS Pro, Geoda, MGWR 2.2
-- **Programming:** Python for data processing, visualization, and analysis; Semantic Segmentation and Instance Segmentation of images; Machine learning models construction and evaluation
-
+<span id="presentations" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
+- **Programming:** Python (Data Processing, Visualization, and Analysis), HTML
+- **Machine learning/Deep learning:** Computer Vision (Semantic/Instance Segmentation), Tree models, Explainable AI (SHAP)
+- **Spatial Data Analysis:** ArcGIS Pro, QGIS, Geoda, MGWR 2.2
+- **Design and Planning:** AutoCAD, SketchUp, Rhino, Photoshop, Illustrator, InDesign, Enscape, Lumion, XIUMI (WeChat H5 pages Creating)
 
 
 
