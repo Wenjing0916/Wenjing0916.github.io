@@ -56,11 +56,11 @@
     color: #7b5aa6; 
     padding: 10px 15px; 
   }
-    :target::before {
+    :target::before { /* 导航栏不遮挡 */
     content: "";
     display: block;
-    height: 50px; /* 导航栏高度 */
-    margin-top: -50px; /* 导航栏高度的负值 */
+    height: 50px; 
+    margin-top: -50px; 
     visibility: hidden;
   }
     
