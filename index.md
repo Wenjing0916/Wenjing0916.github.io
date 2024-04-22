@@ -33,6 +33,15 @@ Big thanks to everyone who helped me out with my 2024 Fall Ph.D. application pro
 - GPA: 90.5/100 (Rank: 1/60 for 5 years)
 
 
+## Academic & Professional Employment
+<span id="education" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
+**[2024-2028] Graduate Research Assistant**  
+<i style="color:#7b5aa6">Center for Geospatial Sciences, Applications and Technology, Texas A&M Institute of Data Science - Urban AI Lab, Texas A&M University, College Station, USA</i>
+
+
+
+
+
 <!-- 
 ## Research Interests
 - **Manifold Learning:** positive semi-definite manifolds learning
