@@ -67,10 +67,6 @@ GPA: 90.5/100 (Rank: 1/60 for 5 years)
 -	Analyzed micro-environmental characteristics "fit for courier stations" within 500m buffer zones and proposed an effectiveness evaluation of the current situation based on specific indicators.
 -	Built a platform on Datlas system developed by MetroDataTech that integrates data visualization, supply and demand, and performance evaluation for courier station siting services.
 
-{% include_relative _includes/project5.md %}
--	Analyzed the impact of urban sprawl, including the occupation of green spaces and arable land, as well as the growing separation of food production from consumption in the city, through literature review and satellite map comparisons.
--	Suggested a novel urban development framework integrating urban agriculture with the community through three distinct prototypes: agriculture + housing, shopping, and education.
-
 ## Presentations
 <span id="presentations" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
 -	Gu, J., **Gong, W.**, Zhang, X. Analysis of the Spatial Distribution of Express Courier Stations and Assessment of Site Selection Effectiveness. DigitalFUTURES 12th Summer Workshops, July 2, 2022, Virtual.
