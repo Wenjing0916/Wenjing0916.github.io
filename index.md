@@ -19,24 +19,24 @@ Big thanks to everyone who helped me out with my 2024 Fall Ph.D. application pro
 <span id="education" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
 **[2024-] Ph.D. Student, Urban and Regional Science**  
 <i style="color:#7b5aa6">Texas A&M University, College Station, USA</i>
-- Advisor: Dr. Xinyue Ye
+Advisor: Dr. Xinyue Ye
 
 **[2019-2022] M.E., Architecture (Urban Study)**  
 <i style="color:#7b5aa6">Tongji University, Shanghai, China</i>
-- GPA: 88.5/100 (Entrance through the exam-free recommendation program)
+GPA: 88.5/100 (Entrance through the exam-free recommendation program)
 
 **[2019] Visiting Student, Graduate School of Architecture, Planning and Preservation**  
 <i style="color:#7b5aa6">Columbia University, New York, USA</i>
 
 **[2014-2019] B.E., Architecture**  
 <i style="color:#7b5aa6">Shandong University of Science & Technology, Qingdao, China</i>
-- GPA: 90.5/100 (Rank: 1/60 for 5 years)
+GPA: 90.5/100 (Rank: 1/60 for 5 years)
 
 
 ## Academic & Professional Employment
 <span id="education" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
 **[2024-2028] Graduate Research Assistant**  
-<i style="color:#7b5aa6">Center for Geospatial Sciences, Applications and Technology, Texas A&M Institute of Data Science - Urban AI Lab, Texas A&M University, College Station, USA</i>
+<i style="color:#7b5aa6">Center for Geospatial Sciences, Applications and Technology; Texas A&M Institute of Data Science - Urban AI Lab, Texas A&M University, College Station, USA</i>
 
 
 
