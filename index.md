@@ -36,9 +36,9 @@ GPA: 90.5/100 (Rank: 1/60 for 5 years)
 ## Academic & Professional Employment
 <span id="employment" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
 **[2024-2028] Graduate Research Assistant**  
-<i style="color:#7b5aa6">Center for Geospatial Sciences, Applications and Technology; Texas A&M Institute of Data Science - Urban AI Lab, Texas A&M University, College Station, USA</i>
+<i style="color:#7b5aa6">Center for Geospatial Sciences, Applications and Technology; Texas A&M Institute of Data Science - Urban AI Lab, Texas A&M University, College Station, USA</i>  
 **[2022-2024] Designer and Planner**  
-<i style="color:#7b5aa6">Architecture Design & Research Institute of Tongji University, Shanghai, China</i>
+<i style="color:#7b5aa6">Architecture Design & Research Institute of Tongji University, Shanghai, China</i>  
 **[2020] Undergraduate Teaching Assistant**  
 <i style="color:#7b5aa6">Department of Urban Planning, Tongji University, Shanghai, China</i>
 
