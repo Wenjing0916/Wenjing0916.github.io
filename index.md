@@ -86,9 +86,6 @@ To learn more about my academic journey, please explore my <a href="assets/files
 -	Analyzed the impact of urban sprawl, including the occupation of green spaces and arable land, as well as the growing separation of food production from consumption in the city, through literature review and satellite map comparisons.
 -	Suggested a novel urban development framework integrating urban agriculture with the community through three distinct prototypes: agriculture + housing, shopping, and education.
 
-{% include_relative _includes/visualization1.md %}
--	Utilized Sept. 1, 2022 and Sept. 3, 2022 (representing weekday and weekend) as examples to visualize the Origin-Destination (OD) flows of shared bicycles during both morning and evening peak hours and discern the disparities between them.
-- Created dynamic visualizations of the spatio-temporal trajectories of shared bicycles on Sept. 1, 2022.
 
 
 
