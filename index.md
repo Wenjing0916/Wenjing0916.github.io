@@ -39,23 +39,6 @@ GPA: 90.5/100 (Rank: 1/60 for 5 years)
 <i style="color:#7b5aa6">Center for Geospatial Sciences, Applications and Technology; Texas A&M Institute of Data Science - Urban AI Lab, Texas A&M University, College Station, USA</i>
 
 
-
-
-
-<!-- 
-## Research Interests
-- **Manifold Learning:** positive semi-definite manifolds learning
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **Functional Data Analysis:** functional regression, and clustering methods
-- **High-Dimensional Statistics:** matrix-valued regression and clustering, positive semi-definite matrices estimations
--->
-
-<!-- 
-- Urban Informatics, Spatial Data Science, GeoAI, Social Sensing
-- Sustainable Transportation, Human Mobility and Behavior, Space-Time Analytics
-- Public and Environmental Health, Urban Climate, Resilient Cities
--->
-
 ## Peer-reviewed Publications
 <span id="publication" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
 [1] **Gong, W.**, Rui, J., Li, T., 2024. <a href="https://authors.elsevier.com/sd/article/S0966-6923(24)00008-5" target="_blank"> Deciphering Urban Bike-Sharing Patterns: An In-depth Analysis of Natural Environment and Visual Quality in New York's Citi Bike System</a>. *Journal of Transport Geography* 115, 103799.
@@ -87,12 +70,17 @@ GPA: 90.5/100 (Rank: 1/60 for 5 years)
 -	Analyzed the impact of urban sprawl, including the occupation of green spaces and arable land, as well as the growing separation of food production from consumption in the city, through literature review and satellite map comparisons.
 -	Suggested a novel urban development framework integrating urban agriculture with the community through three distinct prototypes: agriculture + housing, shopping, and education.
 
+## Presentations
+<span id="presentations" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
+[1] Gu, J., **Gong, W.**, Zhang, X. Analysis of the Spatial Distribution of Express Courier Stations and Assessment of Site Selection Effectiveness. DigitalFUTURES 12th Summer Workshops, July 2, 2022, Virtual.
+[2] **Gong, W.**, Huang, H., Zhang, X. Undoing Sprawl: Urban Agriculture as a Social Innovation. Resizing the Urban Form in the Era of “Negative Population Growth” Workshop, Columbia University, December 9, 2019, New York.
+
+
 
 
 
 ## Working and Teaching Experience
 <span id="experience"></span>
-
 - **[2022.08-2024.03]** Urban Designer and Planner: Architecture Design & Research Institute of Tongji University
 - **[2020.09-2021.01]** Teaching Assistant: Design Basics III, Department of Urban Planning, Tongji University 
 
