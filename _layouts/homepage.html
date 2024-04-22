@@ -28,8 +28,8 @@
   <link rel="stylesheet" href="./assets/css/publications.css">
   
   <style>
-    body { padding-top: 50px; }
-    nav {
+     body { padding-top: 50px; }
+     nav {
     position: fixed;
     top: 0; left: 0; right: 0;
     background-color: white;
@@ -50,7 +50,12 @@
     .nav-link:last-child {
     margin-right: 0;
   }
-
+    .nav-title { /* 新添加的样式 */
+    font-weight: bold; 
+    margin-right: 30px; 
+    color: gray; 
+    padding: 10px 15px; 
+  }
     :target::before {
     content: "";
     display: block;
@@ -60,8 +65,8 @@
   }
     
     html {
-      scroll-behavior: smooth;
-    }
+    scroll-behavior: smooth;
+  }
   </style>
   
 </head>
@@ -70,6 +75,7 @@
   <div class="wrapper">
     
     <nav>
+      <span class="nav-title">Wenjing Gong</span>
       <a href="#education" class="nav-link">Education</a>
       <a href="#publication" class="nav-link">Publication</a>
       <a href="#experience" class="nav-link">Experience</a>
