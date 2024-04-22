@@ -2,10 +2,7 @@
 layout: homepage
 ---
 
-<style>
-  h2 {
-    margin-top: 50px; /* 增加二级标题**的上边距 */
-  }
+
 
 </style>
 
@@ -17,13 +14,13 @@ working under the mentorship of Prof.<a href="https://med.nyu.edu/faculty/thadde
 
 
 ## About Me
-<span id="about" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
+<span id="about" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
 Greetings😀! I'm Wenjing Gong, an incoming Ph.D. student at Texas A&M University, advised by Dr. Xinyue Ye. My research interests lie in **Urban Analytics**, **GIScience**, and **Transportation**. 
 
 
 
 ## Education
-<span id="education" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
+<span id="education" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
 **[2024-] Ph.D. Student, Urban and Regional Science**  
 <i style="color:#7b5aa6">Texas A&M University, College Station, USA</i>  
 Advisor: Dr. Xinyue Ye  
@@ -38,7 +35,7 @@ GPA: 90.5/100 (Rank: 1/60 for 5 years)
 
 
 ## Academic & Professional Employment
-<span id="employment" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
+<span id="employment" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
 **[2024-2028] Graduate Research Assistant**  
 <i style="color:#7b5aa6">Center for Geospatial Sciences, Applications and Technology; Texas A&M Institute of Data Science - Urban AI Lab, Texas A&M University, College Station, USA</i>  
 **[2022-2024] Designer and Planner**  
