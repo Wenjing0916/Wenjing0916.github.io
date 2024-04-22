@@ -25,20 +25,21 @@ To learn more about my academic journey, please explore my <a href="assets/files
 
 ## Education
 <span id="education" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
-**[2019.09-2022.06] Tongji University**, Shanghai, China  
-<i style="color:#7b5aa6">Master of Science in Architecture</i>
+
+**[2024-] Texas A&M University**, College Station, USA 
+<i style="color:#7b5aa6">Ph.D. Student, Urban and Regional Science</i>
+- Advisor: Dr. Xinyue Ye
+
+**[2019-2022] Tongji University**, Shanghai, China  
+<i style="color:#7b5aa6">M.E., Architecture (Urban Study)</i>
 - GPA: 88.5/100 (Entrance through the exam-free recommendation program)
-- Awards: Academic Scholarship covering all tuition fees 2019.09-2022.06
 
-**[2019.12] Columbia University**, New York, USA  
-<i style="color:#7b5aa6">Visiting Student in Graduate School of Architecture, Planning and Preservation (on-site)</i>
-- Attended academic meetings and workshops on the subject of urban sprawl, and delivered the final presentation of a design research project on behalf of group members (score: 90/100)
+**[2019] Columbia University**, New York, USA  
+<i style="color:#7b5aa6">Visiting Student, Graduate School of Architecture, Planning and Preservation</i>
 
-**[2014.09-2019.06] Shandong University of Science and Technology**, Qingdao, China  
-<i style="color:#7b5aa6">Bachelor of Engineering in Architecture</i>
+**[2014-2019] Shandong University of Science and Technology**, Qingdao, China  
+<i style="color:#7b5aa6">B.E., Architecture</i>
 - GPA: 90.5/100 (Rank: 1/60 for 5 years)
-- Awards: First-class Scholarships in academic performance (5%, 9 times); First-class Corporate Scholarships (5%, 2 times); Design-related Competition Awards (11 times, National and International level); "Outstanding Graduate" of Shandong Province (5%); "Outstanding Student" in Science, Technology, and Innovation at university (5%)
-
 
 
 <!-- 
