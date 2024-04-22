@@ -9,6 +9,13 @@ working under the mentorship of Prof.<a href="https://med.nyu.edu/faculty/thadde
 
 -->
 
+<style>
+  h2 {
+    margin-top: 30px; /* 增加二级标题的上边距 */
+  }
+</style>
+
+
 ## About Me
 <span id="about" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
 Big thanks to everyone who helped me out with my 2024 Fall Ph.D. application process! More information will be updated in the future😀~ 
