@@ -76,24 +76,24 @@ GPA: 90.5/100 (Rank: 1/60 for 5 years)
 
 ## Presentations
 <span id="presentations" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
--	Gu, J., **Gong, W.**, Zhang, X. Analysis of the Spatial Distribution of Express Courier Stations and Assessment of Site Selection Effectiveness. DigitalFUTURES 12th Summer Workshops, July 2, 2022, Virtual.
--	**Gong, W.**, Huang, H., Zhang, X. Undoing Sprawl: Urban Agriculture as a Social Innovation. Resizing the Urban Form in the Era of “Negative Population Growth” Workshop, Columbia University, December 9, 2019, New York.
+* Gu, J., **Gong, W.**, Zhang, X. Analysis of the Spatial Distribution of Express Courier Stations and Assessment of Site Selection Effectiveness. DigitalFUTURES 12th Summer Workshops, July 2, 2022, Virtual.
+* **Gong, W.**, Huang, H., Zhang, X. Undoing Sprawl: Urban Agriculture as a Social Innovation. Resizing the Urban Form in the Era of “Negative Population Growth” Workshop, Columbia University, December 9, 2019, New York.
 
 ## Awards & Honors
 <span id="awards" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
-- 2019 - 2022	Academic Scholarship covering all tuition fees
-- 2014 - 2022	Design/Planning-related Competition Awards (11 times, National and International level)
-- 2014 - 2019	First-class Scholarships in academic performance (5%, 9 times)
-- 2014 - 2019	First-class Corporate Scholarships (5%, 2 times)
-- 2019		"Outstanding Graduate" of Shandong Province (5%)
-- 2019		"Outstanding Student" in Science, Technology, and Innovation at university (5%)
+* 2019 - 2022	Academic Scholarship covering all tuition fees
+* 2014 - 2022	Design/Planning-related Competition Awards (11 times, National and International level)
+* 2014 - 2019	First-class Scholarships in academic performance (5%, 9 times)
+* 2014 - 2019	First-class Corporate Scholarships (5%, 2 times)
+* 2019		"Outstanding Graduate" of Shandong Province (5%)
+* 2019		"Outstanding Student" in Science, Technology, and Innovation at university (5%)
 
 ## Skills
 <span id="skills" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
-- **Programming:** Python (Data Processing, Visualization, and Analysis), HTML
-- **Machine learning/Deep learning:** Computer Vision (Semantic/Instance Segmentation), Tree models, Explainable AI (SHAP)
-- **Spatial Data Analysis:** ArcGIS Pro, QGIS, Geoda, MGWR 2.2
-- **Design and Planning:** AutoCAD, SketchUp, Rhino, Photoshop, Illustrator, InDesign, Enscape, Lumion, XIUMI
+* **Programming:** Python (Data Processing, Visualization, and Analysis), HTML
+* **Machine learning/Deep learning:** Computer Vision (Semantic/Instance Segmentation), Tree models, Explainable AI (SHAP)
+* **Spatial Data Analysis:** ArcGIS Pro, QGIS, Geoda, MGWR 2.2
+* **Design and Planning:** AutoCAD, SketchUp, Rhino, Photoshop, Illustrator, InDesign, Enscape, Lumion, XIUMI
 
 
 
