@@ -34,13 +34,17 @@ GPA: 90.5/100 (Rank: 1/60 for 5 years)
 
 
 ## Academic & Professional Employment
-<span id="education" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
+<span id="employment" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
 **[2024-2028] Graduate Research Assistant**  
 <i style="color:#7b5aa6">Center for Geospatial Sciences, Applications and Technology; Texas A&M Institute of Data Science - Urban AI Lab, Texas A&M University, College Station, USA</i>
+**[2022-2024] Designer and Planner**  
+<i style="color:#7b5aa6">Architecture Design & Research Institute of Tongji University, Shanghai, China</i>
+**[2020] Undergraduate Teaching Assistant**  
+<i style="color:#7b5aa6">Department of Urban Planning, Tongji University, Shanghai, China</i>
 
 
 ## Peer-reviewed Publications
-<span id="publication" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
+<span id="publications" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
 - **Gong, W.**, Rui, J., Li, T., 2024. <a href="https://authors.elsevier.com/sd/article/S0966-6923(24)00008-5" target="_blank"> Deciphering Urban Bike-Sharing Patterns: An In-depth Analysis of Natural Environment and Visual Quality in New York's Citi Bike System</a>. *Journal of Transport Geography* 115, 103799.
 
 -	**Gong, W.**, Huang, X., White, M., Langenheim, N., 2023. <a href="https://doi.org/10.3390/land12071339" target="_blank"> Walkability Perceptions and Gender Differences in Urban Fringe New Towns: A Case Study of Shanghai</a>. *Land* 12, 1339. 
@@ -74,7 +78,7 @@ GPA: 90.5/100 (Rank: 1/60 for 5 years)
 -	**Gong, W.**, Huang, H., Zhang, X. Undoing Sprawl: Urban Agriculture as a Social Innovation. Resizing the Urban Form in the Era of “Negative Population Growth” Workshop, Columbia University, December 9, 2019, New York.
 
 ## Awards & Honors
-<span id="presentations" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
+<span id="awards" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
 - 2019 - 2022	Academic Scholarship covering all tuition fees
 - 2014 - 2022	Design/Planning-related Competition Awards (11 times, National and International level)
 - 2014 - 2019	First-class Scholarships in academic performance (5%, 9 times)
@@ -83,7 +87,7 @@ GPA: 90.5/100 (Rank: 1/60 for 5 years)
 - 2019		"Outstanding Student" in Science, Technology, and Innovation at university (5%)
 
 ## Skills
-<span id="presentations" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
+<span id="skills" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
 - **Programming:** Python (Data Processing, Visualization, and Analysis), HTML
 - **Machine learning/Deep learning:** Computer Vision (Semantic/Instance Segmentation), Tree models, Explainable AI (SHAP)
 - **Spatial Data Analysis:** ArcGIS Pro, QGIS, Geoda, MGWR 2.2
