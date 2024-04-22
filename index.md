@@ -17,13 +17,13 @@ working under the mentorship of Prof.<a href="https://med.nyu.edu/faculty/thadde
 
 
 ## About Me
-<span id="about" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
+<span id="about" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 Greetings😀! I'm Wenjing Gong, an incoming Ph.D. student at Texas A&M University, advised by Dr. Xinyue Ye. My research interests lie in **Urban Analytics**, **GIScience**, and **Transportation**. 
 
 
 
 ## Education
-<span id="education" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
+<span id="education" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 **[2024-] Ph.D. Student, Urban and Regional Science**  
 <i style="color:#7b5aa6">Texas A&M University, College Station, USA</i>  
 Advisor: Dr. Xinyue Ye  
@@ -38,7 +38,7 @@ GPA: 90.5/100 (Rank: 1/60 for 5 years)
 
 
 ## Academic & Professional Employment
-<span id="employment" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
+<span id="employment" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 **[2024-2028] Graduate Research Assistant**  
 <i style="color:#7b5aa6">Center for Geospatial Sciences, Applications and Technology; Texas A&M Institute of Data Science - Urban AI Lab, Texas A&M University, College Station, USA</i>  
 **[2022-2024] Designer and Planner**  
@@ -48,12 +48,12 @@ GPA: 90.5/100 (Rank: 1/60 for 5 years)
 
 
 ## Peer-reviewed Publications
-<span id="publications" style="display: block; margin-top: -100px; padding-top: 70px;"></span>
+<span id="publications" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * **Gong, W.**, Rui, J., Li, T., 2024. <a href="https://authors.elsevier.com/sd/article/S0966-6923(24)00008-5" target="_blank"> Deciphering Urban Bike-Sharing Patterns: An In-depth Analysis of Natural Environment and Visual Quality in New York's Citi Bike System</a>. *Journal of Transport Geography* 115, 103799.
 * **Gong, W.**, Huang, X., White, M., Langenheim, N., 2023. <a href="https://doi.org/10.3390/land12071339" target="_blank"> Walkability Perceptions and Gender Differences in Urban Fringe New Towns: A Case Study of Shanghai</a>. *Land* 12, 1339. 
 
 ## Research Experience
-<span id="research" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
+<span id="research" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 {% include_relative _includes/project1.md %}
 -	Utilized multi-sources data, including sociodemographic, natural environment, and built environment factors to examine their impact on Citi Bike usage in New York City on weekdays and weekends in the year 2022.
 -	Processed about 13 million trip data using Python, collected a set of 6,744 street view images through Google API, and then employed PSPNet model for semantic segmentation; processed sociodemographic data at Census Block Groups level, Points of Interest data, weather and air quality data using ArcGIS pro.
@@ -75,12 +75,12 @@ GPA: 90.5/100 (Rank: 1/60 for 5 years)
 -	Built a platform on Datlas system developed by MetroDataTech that integrates data visualization, supply and demand, and performance evaluation for courier station siting services.
 
 ## Presentations
-<span id="presentations" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
+<span id="presentations" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * Gu, J., **Gong, W.**, Zhang, X. Analysis of the Spatial Distribution of Express Courier Stations and Assessment of Site Selection Effectiveness. DigitalFUTURES 12th Summer Workshops, July 2, 2022, Virtual.
 * **Gong, W.**, Huang, H., Zhang, X. Undoing Sprawl: Urban Agriculture as a Social Innovation. Resizing the Urban Form in the Era of “Negative Population Growth” Workshop, Columbia University, December 9, 2019, New York.
 
 ## Awards & Honors
-<span id="awards" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
+<span id="awards" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * 2019 - 2022	Academic Scholarship covering all tuition fees
 * 2014 - 2022	Design/Planning-related Competition Awards (11 times, National and International level)
 * 2014 - 2019	First-class Scholarships in academic performance (5%, 9 times)
@@ -89,7 +89,7 @@ GPA: 90.5/100 (Rank: 1/60 for 5 years)
 * 2019		"Outstanding Student" in Science, Technology, and Innovation at university (5%)
 
 ## Skills
-<span id="skills" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
+<span id="skills" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * **Programming:** Python (Data Processing, Visualization, and Analysis), HTML
 * **Machine learning/Deep learning:** Computer Vision (Semantic/Instance Segmentation), Tree models, Explainable AI (SHAP)
 * **Spatial Data Analysis:** ArcGIS Pro, QGIS, Geoda, MGWR 2.2
