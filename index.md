@@ -7,9 +7,7 @@ layout: homepage
     margin-top: 50px; /* 增加二级标题**的上边距 */
     margin-bottom: 10px; /* 减小二级标题的下边距 */
   }
-  ul, ol {
-    margin-top: 0; /* 减少列表的上边距 */
-  }
+
 </style>
 
 <!-- 
@@ -21,9 +19,8 @@ working under the mentorship of Prof.<a href="https://med.nyu.edu/faculty/thadde
 
 ## About Me
 <span id="about" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
-Big thanks to everyone who helped me out with my 2024 Fall Ph.D. application process! More information will be updated in the future😀~ 
+Greetings😀! I'm Wenjing Gong, an incoming Ph.D. student at Texas A&M University. My research interests lie in **Urban Analytics**, **GIScience**, and **Transportation**. 
 
-(Mar 2024)
 
 
 ## Education
