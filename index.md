@@ -6,6 +6,9 @@ layout: homepage
   h2 {
     margin-top: 50px; /* 增加二级标题**的上边距 */
   }
+  ul, ol {
+    margin-top: 0; /* 减少列表的上边距 */
+  }
 </style>
 
 <!-- 
