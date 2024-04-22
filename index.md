@@ -50,7 +50,7 @@ GPA: 90.5/100 (Rank: 1/60 for 5 years)
 -	**Gong, W.**, Huang, X., White, M., Langenheim, N., 2023. <a href="https://doi.org/10.3390/land12071339" target="_blank"> Walkability Perceptions and Gender Differences in Urban Fringe New Towns: A Case Study of Shanghai</a>. *Land* 12, 1339. 
 
 ## Research Experience
-<span id="experience" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
+<span id="research" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
 {% include_relative _includes/project1.md %}
 -	Utilized multi-sources data, including sociodemographic, natural environment, and built environment factors to examine their impact on Citi Bike usage in New York City on weekdays and weekends in the year 2022.
 -	Processed about 13 million trip data using Python, collected a set of 6,744 street view images through Google API, and then employed PSPNet model for semantic segmentation; processed sociodemographic data at Census Block Groups level, Points of Interest data, weather and air quality data using ArcGIS pro.
