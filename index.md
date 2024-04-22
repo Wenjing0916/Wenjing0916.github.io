@@ -1,7 +1,13 @@
 ---
 layout: homepage
 ---
-
+<nav>
+  <a href="#about-me">About Me</a>
+  <a href="#education">Education</a>
+  <a href="#publications">Peer-reviewed Publications</a>
+  <a href="#experience">Working and Teaching Experience</a>
+  <a href="#skills">Skills</a>
+</nav>
 
 <!-- 
 I'm a <a href="https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/" target="_blank"> Biostatistics</a> Ph.D. candidate at <a href="https://www.nyu.edu/" target="_blank"> New York University</a>'s <a href="https://med.nyu.edu/" target="_blank"> Grossman School of Medicine</a>, specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  
@@ -13,7 +19,7 @@ Prior to joining the Ph.D. program, I completed my master's degree in Biostatist
 Outside of academia, I began my journey as a professional swimmer at the age of 5 and went on to achieve several regional and national championships. I'm also passionate about Chinese calligraphy, and my artwork has been exhibited in top galleries and museums including the <a href="http://www.namoc.org/" target="_blank"> National Art Museum of China (Beijing)</a>. In addition, I am also interested in oil painting, and aeromodelling.
 -->
 
-## About Me
+## <div id="about-me">About Me</div>
 Big thanks to everyone who helped me out with my 2024 Fall Ph.D. application process! More information will be updated in the future😀~ 
 
 (Mar 2024)
@@ -23,7 +29,7 @@ Big thanks to everyone who helped me out with my 2024 Fall Ph.D. application pro
 To learn more about my academic journey, please explore my <a href="assets/files/Coursera Machine Learning Specialization.pdf" target="_blank">Statement of Purpose</a>.
 -->
 
-## Education
+## <div id="education">Education</div>
 **[2019.09-2022.06] Tongji University**, Shanghai, China  
 <i style="color:#7b5aa6">Master of Science in Architecture</i>
 - GPA: 88.5/100 (Entrance through the exam-free recommendation program)
@@ -54,7 +60,7 @@ To learn more about my academic journey, please explore my <a href="assets/files
 - Public and Environmental Health, Urban Climate, Resilient Cities
 -->
 
-## Peer-reviewed Journal Articles
+## <div id="publications">Peer-reviewed Publications</div>
 
 [1] **Gong, W.**, Rui, J., Li, T., 2024. <a href="https://authors.elsevier.com/sd/article/S0966-6923(24)00008-5" target="_blank"> Deciphering Urban Bike-Sharing Patterns: An In-depth Analysis of Natural Environment and Visual Quality in New York's Citi Bike System</a>. *Journal of Transport Geography* 115, 103799.
 
@@ -107,11 +113,11 @@ To learn more about my academic journey, please explore my <a href="assets/files
 - **[2022.08-2024.03]** Urban Designer and Planner: Architecture Design & Research Institute of Tongji University
 - **[2020.09-2021.01]** Teaching Assistant: Design Basics III, Department of Urban Planning, Tongji University 
 
-## Skills and Additional Information
+## Skills
 - **Languages:** English (IELTS: 7.0), Chinese (native)
 - **Spatial Data Analysis:** ArcGIS Pro, Geoda, MGWR 2.2
 - **Programming:** Python for data processing, visualization, and analysis; Semantic Segmentation and Instance Segmentation of images; Machine learning models construction and evaluation
-- **Additional Course Certificates:** <a href="assets/files/Coursera Machine Learning Specialization.pdf" target="_blank">Machine Learning Specialization</a> from Stanford University on Coursera
+
 
 
 
