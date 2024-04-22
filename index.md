@@ -26,7 +26,7 @@ To learn more about my academic journey, please explore my <a href="assets/files
 ## Education
 <span id="education" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
 
-**[2024-] Texas A&M University**, College Station, USA
+**[2024-] Texas A&M University**, College Station, USA  
 <i style="color:#7b5aa6">Ph.D. Student, Urban and Regional Science</i>
 - Advisor: Dr. Xinyue Ye
 
