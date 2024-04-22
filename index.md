@@ -1,13 +1,7 @@
 ---
 layout: homepage
 ---
-<nav>
-  <a href="#about-me">About Me</a>
-  <a href="#education">Education</a>
-  <a href="#publications">Peer-reviewed Publications</a>
-  <a href="#experience">Working and Teaching Experience</a>
-  <a href="#skills">Skills</a>
-</nav>
+
 
 <!-- 
 I'm a <a href="https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/" target="_blank"> Biostatistics</a> Ph.D. candidate at <a href="https://www.nyu.edu/" target="_blank"> New York University</a>'s <a href="https://med.nyu.edu/" target="_blank"> Grossman School of Medicine</a>, specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  
