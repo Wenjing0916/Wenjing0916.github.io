@@ -26,11 +26,31 @@
 
   <link rel="stylesheet" href="./assets/css/style.css">
   <link rel="stylesheet" href="./assets/css/publications.css">
-
+  
+  <style>
+    body { padding-top: 50px; } /* Add padding to ensure content isn't hidden behind the navbar */
+    nav {
+      position: fixed; /* Fixed navbar */
+      top: 0; left: 0; right: 0; /* Position the navbar at the top of the page */
+      background-color: white; /* Background color */
+      border-bottom: 1px solid #ccc; /* Add a border */
+      padding: 10px 20px; /* Padding */
+      z-index: 1000; /* Make sure it sits on top of other content */
+      width: 100%; /* Full width */
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Optional: add shadow for better visibility */
+    }
+  </style>
+  
 </head>
 
 <body>
   <div class="wrapper">
+    
+    <nav>
+      <a href="#education">Education</a>
+      <a href="#experience">Experience</a>
+    </nav>
+    
     <header>
       
        
