@@ -93,7 +93,7 @@ GPA: 90.5/100 (Rank: 1/60 for 5 years)
 ## Skills
 <span id="skills" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * **Programming:** Python (Data Processing, Visualization, and Analysis), HTML
-* **Machine learning/Deep learning:** Computer Vision (Semantic/Instance Segmentation), Tree models, Explainable AI (SHAP)
+* **Machine Learning/Deep Learning:** Computer Vision (Semantic/Instance Segmentation), Tree models, Explainable AI (SHAP)
 * **Spatial Data Analysis:** ArcGIS Pro, QGIS, Geoda, MGWR 2.2
 * **Design and Planning:** AutoCAD, SketchUp, Rhino, Photoshop, Illustrator, InDesign, Enscape, Lumion, XIUMI
 
