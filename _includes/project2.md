@@ -14,7 +14,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="assets/files/project2.pdf">Walkability Perceptions and Gender Differences in Urban Fringe New Towns: A Case Study of Shanghai</a></div>
-    <div class="author"><strong>Independent Research</strong>, Research Project funded by the Australian Research Council Linkage Project and the National Natural Science Foundation of China (NSFC), Mentor: Dr. Xiaoran Huang (Swinburne, Australia)</div>
+    <div class="author"><strong>Independent Research</strong>, Research Project funded by the Australian Research Council Linkage Project and the National Natural Science Foundation of China (NSFC), Mentor: Dr. Xiaoran Huang (Swinburne, Australia; NCUT, China)</div>
     <div class="periodical"><em>2023.02-2023.07</em></div>
   </div>
 </div>
