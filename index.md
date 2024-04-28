@@ -25,26 +25,26 @@ Greetings,😀! I'm Wenjing Gong, an incoming Ph.D. student at Texas A&M Univers
 ## Education
 <span id="education" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
 **[2024-] Ph.D. Student, Urban and Regional Science**  
-<i style="color:#7b5aa6">Texas A&M University, College Station, USA</i>  
+<i style="color:#500000">Texas A&M University, College Station, USA</i>  
 Advisor: Dr. Xinyue Ye  
 **[2019-2022] M.E., Architecture (Urban Study)**  
-<i style="color:#7b5aa6">Tongji University, Shanghai, China</i>  
+<i style="color:#500000">Tongji University, Shanghai, China</i>  
 GPA: 88.5/100 (Entrance through the exam-free recommendation program)  
 **[2019] Visiting Student, Graduate School of Architecture, Planning and Preservation**  
-<i style="color:#7b5aa6">Columbia University, New York, USA</i>  
+<i style="color:#500000">Columbia University, New York, USA</i>  
 **[2014-2019] B.E., Architecture**  
-<i style="color:#7b5aa6">Shandong University of Science & Technology, Qingdao, China</i>  
+<i style="color:#500000">Shandong University of Science & Technology, Qingdao, China</i>  
 GPA: 90.5/100 (Rank: 1/60 for 5 years)
 
 
 ## Academic & Professional Employment
 <span id="employment" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
 **[2024-2028] Graduate Research Assistant**  
-<i style="color:#7b5aa6">Center for Geospatial Sciences, Applications and Technology, Texas A&M University, College Station, USA</i>  
+<i style="color:#500000">Center for Geospatial Sciences, Applications and Technology, Texas A&M University, College Station, USA</i>  
 **[2022-2024] Designer and Planner**  
-<i style="color:#7b5aa6">Architecture Design & Research Institute of Tongji University, Shanghai, China</i>  
+<i style="color:#500000">Architecture Design & Research Institute of Tongji University, Shanghai, China</i>  
 **[2020] Undergraduate Teaching Assistant**  
-<i style="color:#7b5aa6">Department of Urban Planning, Tongji University, Shanghai, China</i>
+<i style="color:#500000">Department of Urban Planning, Tongji University, Shanghai, China</i>
 
 
 ## Peer-reviewed Publications
