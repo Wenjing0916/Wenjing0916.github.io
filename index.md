@@ -75,8 +75,8 @@ GPA: 90.5/100 (Rank: 1/60 for 5 years)
 -	Built a platform on Datlas system developed by MetroDataTech that integrates data visualization, supply and demand, and performance evaluation for courier station siting services.
 
 ## Presentations
-<span id="presentations" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 *Workshops*
+<span id="presentations" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * Gu, J., **Gong, W.**, Zhang, X. Analysis of the Spatial Distribution of Express Courier Stations and Assessment of Site Selection Effectiveness. DigitalFUTURES 12th Summer Workshops, July 2, 2022, Virtual.
 * **Gong, W.**, Huang, H., Zhang, X. Undoing Sprawl: Urban Agriculture as a Social Innovation. Resizing the Urban Form in the Era of “Negative Population Growth” Workshop, Columbia University, December 9, 2019, New York.
 
