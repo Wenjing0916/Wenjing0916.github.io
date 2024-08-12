@@ -33,7 +33,7 @@ GPA: 88.5/100 (Entrance through the exam-free recommendation program)
 <i style="color:#500000">Columbia University, New York, USA</i>  
 **[2014-2019] B.E., Architecture**  
 <i style="color:#500000">Shandong University of Science & Technology, Qingdao, China</i>  
-GPA: 90.5/100 (Rank: 1/60 for 5 years)
+GPA: 90.5/100 (Rank: 1/60 each year)
 
 
 ## Academic & Professional Employment
