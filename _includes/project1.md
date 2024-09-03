@@ -37,7 +37,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="assets/files/project1.pdf">Deciphering Urban Bike-Sharing Patterns: An In-depth Analysis of Natural Environment and Visual Quality in New York's Citi Bike System</a></div>
-    <div class="author"><strong>Group Leader</strong>, Research Project, Mentor: PhD candidate. Jin Rui (TU Dortmund, Germany)</div>
+    <div class="author"><strong>Group Leader</strong>, Research Project</div>
     <div class="periodical"><em>2023.05-2024.01</em></div>
   </div>
 </div>
