@@ -52,7 +52,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 * **Gong, W.**, Huang, X., White, M., Langenheim, N., 2023. <a href="https://doi.org/10.3390/land12071339" target="_blank"> Walkability Perceptions and Gender Differences in Urban Fringe New Towns: A Case Study of Shanghai</a>. *Land* 12, 1339.
 
 *Selected Under Review/Working Papers:*
-* Ye, X., Li, S., **Gong, W.***, Li, X., Li, X., Dadashova, B., Li, W., Du, J., Wu, J., 2024. Street view imagery in traffic crash and road safety analysis: A review (Submitted to *Cities*)
+* Ye, X., Li, S., **Gong, W.✟**, Li, X., Li, X., Dadashova, B., Li, W., Du, J., Wu, J., 2024. Street view imagery in traffic crash and road safety analysis: A review (Submitted to *Cities*)
 * **Gong, W.**, Li, S., Adkison, D., Ye, X., Lee, C., Li, N., 2024. Cyber Victimization in Hybrid Space: An Analysis of Employment Scams Using Natural Language Processing and Machine Learning Models (Submitted to *Journal of Crime and Justice*)
 * **Gong, W.**, Yang, Y., Zhang, W., Ye, X., Huang, X., 2024. Integrating high-resolution simulations and transformer network predictions for mitigating human heat stress: A digital twin of a Texas campus (Working paper, abstract submitted to *the 6th Texas Weather Conference*)
 
