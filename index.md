@@ -49,9 +49,14 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 ## Peer-reviewed Publications
 <span id="publications" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * **Gong, W.**, Rui, J., Li, T., 2024. <a href="https://authors.elsevier.com/sd/article/S0966-6923(24)00008-5" target="_blank"> Deciphering Urban Bike-Sharing Patterns: An In-depth Analysis of Natural Environment and Visual Quality in New York's Citi Bike System</a>. *Journal of Transport Geography* 115, 103799.
-* **Gong, W.**, Huang, X., White, M., Langenheim, N., 2023. <a href="https://doi.org/10.3390/land12071339" target="_blank"> Walkability Perceptions and Gender Differences in Urban Fringe New Towns: A Case Study of Shanghai</a>. *Land* 12, 1339. 
+* **Gong, W.**, Huang, X., White, M., Langenheim, N., 2023. <a href="https://doi.org/10.3390/land12071339" target="_blank"> Walkability Perceptions and Gender Differences in Urban Fringe New Towns: A Case Study of Shanghai</a>. *Land* 12, 1339.
 
-## Research Experience
+Selected Under Review/Working Papers:
+* Ye, X., Li, S., **Gong, W.***, Li, X., Li, X., Dadashova, B., Li, W., Du, J., Wu, J., 2024. Street view imagery in traffic crash and road safety analysis: A review (Submitted to *Cities*)
+* **Gong, W.**, Li, S., Adkison, D., Ye, X., Lee, C., Li, N., 2024. Cyber Victimization in Hybrid Space: An Analysis of Employment Scams Using Natural Language Processing and Machine Learning Models (Submitted to *Journal of Crime and Justice*)
+* **Gong, W.**, Yang, Y., Zhang, W., Ye, X., Huang, X., 2024. Integrating high-resolution simulations and transformer network predictions for mitigating human heat stress: A digital twin of a Texas campus (Working paper, abstract submitted to *the 6th Texas Weather Conference*)
+
+## Selected Research Experience
 <span id="research" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 {% include_relative _includes/project1.md %}
 -	Utilized multi-sources data, including sociodemographic, natural environment, and built environment factors to examine their impact on Citi Bike usage in New York City on weekdays and weekends in the year 2022.
@@ -74,6 +79,9 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 -	Built a platform on Datlas system developed by MetroDataTech that integrates data visualization, supply and demand, and performance evaluation for courier station siting services.
 
 ## Presentations
+*Conferences*
+* **Gong, W.** Simulating and Predicting Spatial-Temporal Human Outdoor Heat Exposure: A Case Study on a Texas Campus. *The 2024 Symposium on Spatiotemporal Data Science: GeoAI for Social Sciences*, July 24, 2024, Virtual (Abstract accepted).
+
 *Workshops*
 <span id="presentations" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * Gu, J., **Gong, W.**, Zhang, X. Analysis of the Spatial Distribution of Express Courier Stations and Assessment of Site Selection Effectiveness. *DigitalFUTURES 12th Summer Workshops*, July 2, 2022, Virtual.
@@ -83,17 +91,24 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 ## Awards & Honors
 <span id="awards" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * 2019 - 2022	Academic Scholarship covering all tuition fees
-* 2014 - 2022	Design/Planning-related Competition Awards (**11 times**, National and International level)
-* 2014 - 2019	First-class Scholarships in academic performance (5%, **9 times**)
+* 2014 - 2022	Design/Planning Competition Awards (**11 times**, National and International level)
+* 2014 - 2019	First-class Scholarships in academic performance (5%, **8 times**)
 * 2014 - 2019	First-class Corporate Scholarships (5%, **2 times**)
 * 2019		"Outstanding Graduate" of Shandong Province (5%)
 * 2019		"Outstanding Student" in Science, Technology, and Innovation at university (5%)
 
+## Services
+<span id="awards" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
+*Journal Article Reviewer*
+* International Journal of Geographical Information Science
+* Journal of Planning Education and Research
+
 ## Skills
 <span id="skills" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * **Programming:** Python (Data Processing, Visualization, and Analysis), HTML
-* **Machine Learning/Deep Learning:** Computer Vision (Semantic/Instance Segmentation), Tree models, Explainable AI (SHAP)
+* **Machine Learning/Deep Learning:** Computer Vision (Semantic/Instance Segmentation), Time series forecasting (LSTM, Transformer), Tree models, Explainable AI (SHAP)
 * **Spatial Data Analysis:** ArcGIS Pro, QGIS, Geoda, MGWR 2.2
+* **Urban Climate Simulation:** SOLWEIG, Envi-met
 * **Design and Planning:** AutoCAD, SketchUp, Rhino, Photoshop, Illustrator, InDesign, Enscape, Lumion
 
 
