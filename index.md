@@ -80,6 +80,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 
 ## Presentations
 *Conferences*
+<span id="presentations" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * **Gong, W.** Simulating and Predicting Spatial-Temporal Human Outdoor Heat Exposure: A Case Study on a Texas Campus. *The 2024 Symposium on Spatiotemporal Data Science: GeoAI for Social Sciences*, July 24, 2024, Virtual (Abstract accepted).
 
 *Workshops*
@@ -98,8 +99,8 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 * 2019		"Outstanding Student" in Science, Technology, and Innovation at university (5%)
 
 ## Services
-<span id="awards" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 *Journal Article Reviewer*
+<span id="awards" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * International Journal of Geographical Information Science
 * Journal of Planning Education and Research
 
