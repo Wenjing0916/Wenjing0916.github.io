@@ -100,7 +100,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 
 ## Services
 *Journal Article Reviewer*
-<span id="awards" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
+<span id="services" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * International Journal of Geographical Information Science
 * Journal of Planning Education and Research
 
