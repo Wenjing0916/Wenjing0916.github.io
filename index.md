@@ -83,9 +83,9 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 ## Awards & Honors
 <span id="awards" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * 2019 - 2022	Academic Scholarship covering all tuition fees
-* 2014 - 2022	Design/Planning-related Competition Awards (11 times, National and International level)
-* 2014 - 2019	First-class Scholarships in academic performance (5%, 9 times)
-* 2014 - 2019	First-class Corporate Scholarships (5%, 2 times)
+* 2014 - 2022	Design/Planning-related Competition Awards (**11 times**, National and International level)
+* 2014 - 2019	First-class Scholarships in academic performance (5%, **9 times**)
+* 2014 - 2019	First-class Corporate Scholarships (5%, **2 times**)
 * 2019		"Outstanding Graduate" of Shandong Province (5%)
 * 2019		"Outstanding Student" in Science, Technology, and Innovation at university (5%)
 
