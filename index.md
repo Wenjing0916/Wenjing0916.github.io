@@ -81,7 +81,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 ## Presentations
 *Conferences*
 <span id="presentations" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
-* **Gong, W.** Yang, Y., Zhang, W., Ye, X., Huang, X. Integrating high-resolution simulations and transformer network predictions for mitigating human heat stress: A digital twin of a Texas campus. 2024 Texas Weather Conference, November 9, 2024, College Station, Texas, USA (Will present orally).
+* **Gong, W.** Yang, Y., Zhang, W., Ye, X., Huang, X. Integrating high-resolution simulations and transformer network predictions for mitigating human heat stress: A digital twin of a Texas campus. *2024 Texas Weather Conference*, November 9, 2024, College Station, Texas, USA (Will present orally).
 * **Gong, W.** Simulating and Predicting Spatial-Temporal Human Outdoor Heat Exposure: A Case Study on a Texas Campus. *The 2024 Symposium on Spatiotemporal Data Science: GeoAI for Social Sciences*, July 24, 2024, Virtual (Abstract accepted).
 
 *Workshops*
