@@ -95,9 +95,11 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 * [2019 - 2022]	Academic Scholarship covering all tuition fees
 * [2014 - 2019]	First-class Scholarships in academic performance (5%, **9 times**)
 * [2014 - 2019]	First-class Corporate Scholarships (5%, **2 times**)
+* [2014 - 2019]	"Outstanding Student Pioneer" (5%, **3 times**)
 * [2019]		"Outstanding Graduate" of Shandong Province (5%)
 * [2019]		"Outstanding Student" in Science, Technology, and Innovation at university (5%)
 * [2018]	SINO-JAPAN Art & Design Exchange Exhibition, Gold Award
+* [2018]	National Green Building Design Competition, National Best Leader Award
 * [2018]	National Green Building Design Competition - Deep Green Category, Grand Prize
 * [2018]	The Fourth Academy Award National Art and Design Exhibition, First Prize
 * [2018]	Chinese Creative Design Annual 2016/2017, Gold Award
