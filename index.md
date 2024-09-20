@@ -92,23 +92,23 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 
 ## Awards & Honors
 <span id="awards" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
-* 2019 - 2022	Academic Scholarship covering all tuition fees
-* 2014 - 2019	First-class Scholarships in academic performance (5%, **9 times**)
-* 2014 - 2019	First-class Corporate Scholarships (5%, **2 times**)
-* 2019		"Outstanding Graduate" of Shandong Province (5%)
-* 2019		"Outstanding Student" in Science, Technology, and Innovation at university (5%)
-* 2018	SINO-JAPAN Art & Design Exchange Exhibition, Gold Award
-* 2018	National Green Building Design Competition - Deep Green Category, Grand Prize
-* 2018	The Fourth Academy Award National Art and Design Exhibition, First Prize
-* 2018	Chinese Creative Design Annual 2016/2017, Gold Award
-* 2018	The Third Bauhaus Award International Design Competition, Silver Award
-* 2018	Exhibition of Architectural Design in Developing Countries, Bronze Award
-* 2018	Shandong Province College Student Construction Design Competition, Excellent Award
-* 2017	China Architectural Education/TSINGRUN Award Students’ Paper Competition, Excellence Award
-* 2017	The 3rd Mainland, Taiwan and Hongkong Design Invitation Exhibition, Bronze Award
-* 2017	National Green Building Design Competition - Green Category, Second Prize
-* 2016	National Green Building Knowledge Competition for Youth Students, Excellent Award
-* 2016	Lion Award International Industrial Design Competition - 'Innovative Application Design Group: Industrial Robot Systems', Excellent Market Potential Award
+* [2019 - 2022]	Academic Scholarship covering all tuition fees
+* [2014 - 2019]	First-class Scholarships in academic performance (5%, **9 times**)
+* [2014 - 2019]	First-class Corporate Scholarships (5%, **2 times**)
+* [2019]		"Outstanding Graduate" of Shandong Province (5%)
+* [2019]		"Outstanding Student" in Science, Technology, and Innovation at university (5%)
+* [2018]	SINO-JAPAN Art & Design Exchange Exhibition, Gold Award
+* [2018]	National Green Building Design Competition - Deep Green Category, Grand Prize
+* [2018]	The Fourth Academy Award National Art and Design Exhibition, First Prize
+* [2018]	Chinese Creative Design Annual 2016/2017, Gold Award
+* [2018]	The Third Bauhaus Award International Design Competition, Silver Award
+* [2018]	Exhibition of Architectural Design in Developing Countries, Bronze Award
+* [2018]	Shandong Province College Student Construction Design Competition, Excellent Award
+* [2017]	China Architectural Education/TSINGRUN Award Students’ Paper Competition, Excellence Award
+* [2017]	The 3rd Mainland, Taiwan and Hongkong Design Invitation Exhibition, Bronze Award
+* [2017]	National Green Building Design Competition - Green Category, Second Prize
+* [2016]	National Green Building Knowledge Competition for Youth Students, Excellent Award
+* [2016]	Lion Award International Industrial Design Competition - 'Innovative Application Design Group: Industrial Robot Systems', Excellent Market Potential Award
 
 ## Services
 *Journal Article Reviewer*
