@@ -20,7 +20,7 @@ working under the mentorship of Prof.<a href="https://med.nyu.edu/faculty/thadde
 <span id="about" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
 Greetings,😀! I'm Wenjing Gong, a first-year Ph.D. student at Texas A&M University, advised by Dr. Xinyue Ye. My research interests lie in <i style="color:#500000">Urban Analytics, GIScience, Artificial Intelligence, Transportation, and Climate Resilience</i>.  
   
-My educational and research journey is shaped by a variety of fields. As an applicant with an architectural foundation, I received interview offers from over 10 top geography and transportation PhD programs during my 2024 application cycle, such as UCSB, UMD, OSU, UC Davis, UB, and UCONN, before ultimately deciding to join TAMU. Throughout this process, I developed a clear understanding of both my strengths and weaknesses. If you are considering a similar path or share any of my research interests, I would be excited to connect with you.  
+My educational and research journey is shaped by a variety of fields. As an applicant with an architectural foundation, I received interview offers from over 10 top geography and transportation PhD programs during my 2024 application cycle, such as UCSB, UMD, OSU, UIUC, UC Davis, UB, and UCONN, before ultimately deciding to join TAMU. Throughout this process, I developed a clear understanding of both my strengths and weaknesses. If you are considering a similar path or share any of my research interests, I would be excited to connect with you.  
   
 (Updated on 09/2024)
 
