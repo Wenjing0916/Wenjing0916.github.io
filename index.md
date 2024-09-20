@@ -52,9 +52,9 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 * **Gong, W.**, Huang, X., White, M., Langenheim, N., 2023. <a href="https://doi.org/10.3390/land12071339" target="_blank"> Walkability Perceptions and Gender Differences in Urban Fringe New Towns: A Case Study of Shanghai</a>. *Land* 12, 1339.
 
 *Selected Under Review/Working Papers:*
-* Ye, X., Li, S., **Gong, W.\***, Li, X., Li, X., Dadashova, B., Li, W., Du, J., Wu, J., 2024. Street view imagery in traffic crash and road safety analysis: A review (Submitted to *Cities*)
-* **Gong, W.**, Li, S., Adkison, D., Ye, X., Lee, C., Li, N., 2024. Cyber Victimization in Hybrid Space: An Analysis of Employment Scams Using Natural Language Processing and Machine Learning Models (Submitted to *Journal of Crime and Justice*)
-* **Gong, W.**, Yang, Y., Zhang, W., Ye, X., Huang, X., 2024. Integrating high-resolution simulations and transformer network predictions for mitigating human heat stress: A digital twin of a Texas campus (Working paper, abstract submitted to *the 6th Texas Weather Conference*)
+* **Gong, W.**, Li, S., Adkison, D., Ye, X., Lee, C., Li, N., 2024. Cyber Victimization in Hybrid Space: An Analysis of Employment Scams Using Natural Language Processing and Machine Learning Models (Under revision in *Journal of Crime and Justice*)
+* Ye, X., Li, S., **Gong, W.\***, Li, X., Li, X., Dadashova, B., Li, W., Du, J., Wu, J., 2024. Street view imagery in traffic crash and road safety analysis: A review (Submitted to *Applied Spatial Analysis and Policy*)
+* **Gong, W.**, Yang, Y., Zhang, W., Ye, X., Huang, X., 2024. Integrating high-resolution simulations and transformer network predictions for mitigating human heat stress: A digital twin of a Texas campus (Working paper)
 
 ## Selected Research Experience
 <span id="research" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
@@ -81,6 +81,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 ## Presentations
 *Conferences*
 <span id="presentations" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
+* **Gong, W.** Yang, Y., Zhang, W., Ye, X., Huang, X. Integrating high-resolution simulations and transformer network predictions for mitigating human heat stress: A digital twin of a Texas campus. 2024 Texas Weather Conference, November 9, 2024, College Station, Texas, USA (Will present orally).
 * **Gong, W.** Simulating and Predicting Spatial-Temporal Human Outdoor Heat Exposure: A Case Study on a Texas Campus. *The 2024 Symposium on Spatiotemporal Data Science: GeoAI for Social Sciences*, July 24, 2024, Virtual (Abstract accepted).
 
 *Workshops*
@@ -92,11 +93,22 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 ## Awards & Honors
 <span id="awards" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * 2019 - 2022	Academic Scholarship covering all tuition fees
-* 2014 - 2022	Design/Planning Competition Awards (**11 times**, National and International level)
 * 2014 - 2019	First-class Scholarships in academic performance (5%, **9 times**)
 * 2014 - 2019	First-class Corporate Scholarships (5%, **2 times**)
 * 2019		"Outstanding Graduate" of Shandong Province (5%)
 * 2019		"Outstanding Student" in Science, Technology, and Innovation at university (5%)
+* 2018	SINO-JAPAN Art & Design Exchange Exhibition, Gold Award
+* 2018	National Green Building Design Competition - Deep Green Category, Grand Prize
+* 2018	The Fourth Academy Award National Art and Design Exhibition, First Prize
+* 2018	Chinese Creative Design Annual 2016/2017, Gold Award
+* 2018	The Third Bauhaus Award International Design Competition, Silver Award
+* 2018	Exhibition of Architectural Design in Developing Countries, Bronze Award
+* 2018	Shandong Province College Student Construction Design Competition, Excellent Award
+* 2017	China Architectural Education/TSINGRUN Award Students’ Paper Competition, Excellence Award
+* 2017	The 3rd Mainland, Taiwan and Hongkong Design Invitation Exhibition, Bronze Award
+* 2017	National Green Building Design Competition - Green Category, Second Prize
+* 2016	National Green Building Knowledge Competition for Youth Students, Excellent Award
+* 2016	Lion Award International Industrial Design Competition - 'Innovative Application Design Group: Industrial Robot Systems', Excellent Market Potential Award
 
 ## Services
 *Journal Article Reviewer*
