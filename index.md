@@ -77,13 +77,13 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 -	Utilized spatial analysis methods such as Kernel Density, Standard Deviational Ellipse, and Spatial Autocorrelation to characterize the spatial and temporal evolution of courier station distribution in 2018 and 2022 at the macro scale.
 -	Applied the geographically weighted regression (GWR) model to identify meso-influential factors and models that are "fit for courier stations" and evaluated the supply and demand for street-scale courier station layouts.
 -	Analyzed micro-environmental characteristics "fit for courier stations" within 500m buffer zones and proposed an effectiveness evaluation of the current situation based on specific indicators.
--	Built a platform on Datlas system developed by MetroDataTech that integrates data visualization, supply and demand, and performance evaluation for courier station siting services.
+-	Built a platform on Datlas system that integrates data visualization, supply and demand, and performance evaluation for courier station siting services.
 
 ## Presentations
 *Conferences*
 <span id="presentations" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * **Gong, W.**, Yang, Y., Zhang, W., Ye, X., Huang, X. Integrating high-resolution simulations and transformer network predictions for mitigating human heat stress: A digital twin of a Texas campus. *2024 Texas Weather Conference*, November 9, 2024, College Station, Texas, USA (Will present orally).
-* **Gong, W.**, Yang, Y., Zhang, W., Wu, K., Ye, X., Huang, X. Integrating high-resolution simulations and transformer network predictions for mitigating human heat stress: A digital twin of a Texas campus. College of Architecture's 26th Annual Showcase, October 3, 2024, Texas A&M University, College Station, Texas, USA (Poster).
+* **Gong, W.**, Yang, Y., Zhang, W., Wu, K., Ye, X., Huang, X. Integrating high-resolution simulations and transformer network predictions for mitigating human heat stress: A digital twin of a Texas campus. *College of Architecture's 26th Annual Showcase*, October 3, 2024, Texas A&M University, College Station, Texas, USA (Poster).
 * **Gong, W.** Simulating and Predicting Spatial-Temporal Human Outdoor Heat Exposure: A Case Study on a Texas Campus. *The 2024 Symposium on Spatiotemporal Data Science: GeoAI for Social Sciences*, July 24, 2024, Virtual (Abstract accepted).
 
 *Workshops*
