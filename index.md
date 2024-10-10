@@ -19,7 +19,7 @@ working under the mentorship of Prof.<a href="https://med.nyu.edu/faculty/thadde
 ## About Me
 <span id="about" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
 Greetings,😀! I'm Wenjing Gong, a first-year Ph.D. student at Texas A&M University, advised by Dr. Xinyue Ye. My research interests lie in <i style="color:#500000">Urban Analytics, GIScience, Artificial Intelligence, Transportation, and Climate Resilience</i>.  
-(Updated on 09/2024)
+(Updated on 10/2024)
 
 
 ## Education
@@ -94,12 +94,13 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 
 ## Awards & Honors
 <span id="awards" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
-* [2019 - 2022]	Academic Scholarship covering all tuition fees
-* [2014 - 2019]	First-class Scholarships in academic performance (5%, **8 times**)
-* [2014 - 2019]	First-class Corporate Scholarships (5%, **2 times**)
-* [2014 - 2019]	"Outstanding Student Pioneer" (5%, **3 times**)
+* [2024 - 2028]	Research Assistantship covering stipend and tuition, Center for Geospatial Sciences, Applications and Technology, Texas A&M University
+* [2019 - 2022]	Academic Scholarship covering all tuition fees, Tongji University
+* [2014 - 2019]	First-class Scholarships in academic performance (5%, **8 times**), SDUST
+* [2014 - 2019]	First-class Corporate Scholarships (5%, **2 times**), SDUST
+* [2014 - 2019]	"Outstanding Student Pioneer" (5%, **3 times**), SDUST
 * [2019]		"Outstanding Graduate" of Shandong Province (5%)
-* [2019]		"Outstanding Student" in Science, Technology, and Innovation at university (5%)
+* [2019]		"Outstanding Student" in Science, Technology, and Innovation (5%), SDUST
 * [2018]	SINO-JAPAN Art & Design Exchange Exhibition, Gold Award
 * [2018]	National Green Building Design Competition, National Best Leader Award
 * [2018]	National Green Building Design Competition - Deep Green Category, Grand Prize
