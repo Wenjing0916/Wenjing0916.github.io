@@ -120,6 +120,10 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 * International Journal of Geographical Information Science
 * Journal of Planning Education and Research
 
+## Media Coverage
+<span id="media" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
+*	Throwing Shade at Heatwaves: Tracking campus “hot spots” could help students stay cool in the Texas heat. <a href="https://engineering.tamu.edu/news/2024/09/throwing-shade-at-heatwaves.html" target="_blank"> Link</a>
+
 ## Skills
 <span id="skills" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * **Programming:** Python (Data Processing, Visualization, and Analysis), HTML
