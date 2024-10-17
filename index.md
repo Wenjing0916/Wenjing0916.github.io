@@ -18,7 +18,7 @@ working under the mentorship of Prof.<a href="https://med.nyu.edu/faculty/thadde
 
 ## About Me
 <span id="about" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
-Greetings,😀! I'm Wenjing Gong, a first-year Ph.D. student at Texas A&M University, advised by Dr. Xinyue Ye. My research interests lie in <i style="color:#500000">Urban Analytics, GIScience, Artificial Intelligence, Transportation, and Climate Resilience</i>.  
+Greetings,😀! I'm Wenjing Gong, a first-year Ph.D. student at Texas A&M University, advised by Dr. Xinyue Ye. My research interests lie in <i style="color:#500000">Urban Analytics, GIScience, Artificial Intelligence, Human Mobility, and Climate Resilience</i>.  
 (Updated on 10/2024)
 
 
