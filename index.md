@@ -127,7 +127,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 
 ## Skills
 <span id="skills" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
-* **Programming:** Python (Data Processing, Visualization, and Analysis), HTML
+* **Programming:** Python (Data Processing, Visualization, and Analysis), SQL, HTML
 * **Machine Learning/Deep Learning:** Computer Vision (Semantic/Instance Segmentation), Time series Forecasting (LSTM, Transformer), Tree models, Explainable AI (SHAP)
 * **Spatial Data Analysis:** ArcGIS Pro, QGIS, Geoda, MGWR 2.2
 * **Urban Climate Simulation:** SOLWEIG, Envi-met
