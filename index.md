@@ -55,7 +55,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 *Selected Under Review/Working Papers:*
 * **Gong, W.**, Lee, C., Li, S., Adkison, D., Li, N., Wu, L., Ye, X., 2024. Cyber Victimization in Hybrid Space: An Analysis of Employment Scams Using Natural Language Processing and Machine Learning Models (Under revision in *Journal of Crime and Justice*)
 * Ye, X., Li, S., **Gong, W.\***, Li, X., Li, X., Dadashova, B., Li, W., Du, J., Wu, J., 2024. Street view imagery in traffic crash and road safety analysis: A review (Under review in *Applied Spatial Analysis and Policy*)
-* **Gong, W.**, Yang, Y., Zhang, W., Ye, X., Huang, X., 2024. Integrating high-resolution simulations and transformer network predictions for mitigating human heat stress: A digital twin of a Texas campus (Working paper)
+* **Gong, W.**, Wu, K., Yang, Y., Zhang, W., Ye, X., Huang, X., 2024. Integrating high-resolution simulations and transformer network predictions for mitigating human heat stress: A digital twin of a Texas campus (Working paper)
 
 ## Selected Research Experience
 <span id="research" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
