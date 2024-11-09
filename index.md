@@ -88,8 +88,8 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 
 *Workshops*
 <span id="presentations" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
-* Gu, J., **Gong, W.**, Zhang, X. Analysis of the Spatial Distribution of Express Courier Stations and Assessment of Site Selection Effectiveness. *DigitalFUTURES 12th Summer Workshops*, July 2, 2022, Virtual.
-* **Gong, W.**, Huang, H., Zhang, X. Undoing Sprawl: Urban Agriculture as a Social Innovation. *Resizing the Urban Form in the Era of “Negative Population Growth” Workshop*, December 9, 2019, Columbia University, New York City, USA.
+* Gu, J., **Gong, W.**, Zhang, X. Analysis of the Spatial Distribution of Express Courier Stations and Assessment of Site Selection Effectiveness. *DigitalFUTURES 12th Summer Workshops*, July 2, 2022, Virtual (Oral).
+* **Gong, W.**, Huang, H., Zhang, X. Undoing Sprawl: Urban Agriculture as a Social Innovation. *Resizing the Urban Form in the Era of “Negative Population Growth” Workshop*, December 9, 2019, Columbia University, New York City, USA (Oral).
 
 
 ## Awards & Honors
