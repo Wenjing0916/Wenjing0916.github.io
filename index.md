@@ -104,6 +104,10 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 * Journal of Planning Education and Research
 * Forum Geografi
 
+*Conference Organizations*
+* Session Chair/Primary Organizer: AAG 2025 - Symposium on Human Dynamics Research: Urban Environmental Intelligence and Human-Climate Interactions <a href="https://aag.secure-platform.com/aag2025/solicitations/82/sessiongallery/23561" target="_blank">[Link]</a>
+
+
 ## Media Coverage
 <span id="media" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 *	Throwing Shade at Heatwaves: Tracking campus “hot spots” could help students stay cool in the Texas heat. <a href="https://engineering.tamu.edu/news/2024/09/throwing-shade-at-heatwaves.html" target="_blank">[Link]</a>
