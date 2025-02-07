@@ -19,7 +19,7 @@ working under the mentorship of Prof.<a href="https://med.nyu.edu/faculty/thadde
 ## About Me
 <span id="about" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
 Greetings,😀! I'm Wenjing Gong, a first-year Ph.D. student at Texas A&M University, advised by Dr. Xinyue Ye. My research interests lie in <i style="color:#500000">Urban Analytics, GIScience, Artificial Intelligence, Human Mobility, and Climate Resilience</i>.  
-(Updated on 10/2024)
+(Updated on 02/2025)
 
 
 ## Education
@@ -49,13 +49,17 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 
 ## Peer-reviewed Publications
 <span id="publications" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
+* **Gong, W.**, Lee, C.S., Li, S., Adkison, D., Li, N., Wu, L., Ye, X., 2025. <a href="https://www.tandfonline.com/doi/full/10.1080/0735648X.2024.2448804" target="_blank">Cyber victimization in hybrid space: an analysis of employment scams using natural language processing and machine learning models</a>. *Journal of Crime and Justice* 1–22.
 * **Gong, W.**, Rui, J., Li, T., 2024. <a href="https://doi.org/10.1016/j.jtrangeo.2024.103799" target="_blank">Deciphering Urban Bike-Sharing Patterns: An In-depth Analysis of Natural Environment and Visual Quality in New York's Citi Bike System</a>. *Journal of Transport Geography* 115, 103799.
 * **Gong, W.**, Huang, X., White, M., Langenheim, N., 2023. <a href="https://doi.org/10.3390/land12071339" target="_blank">Walkability Perceptions and Gender Differences in Urban Fringe New Towns: A Case Study of Shanghai</a>. *Land* 12, 1339.
 
 *Selected Under Review/Working Papers:*
-* **Gong, W.**, Lee, C., Li, S., Adkison, D., Li, N., Wu, L., Ye, X., 2024. Cyber Victimization in Hybrid Space: An Analysis of Employment Scams Using Natural Language Processing and Machine Learning Models (Under revision in *Journal of Crime and Justice*)
-* Ye, X., Li, S., **Gong, W.\***, Li, X., Li, X., Dadashova, B., Li, W., Du, J., Wu, J., 2024. Street view imagery in traffic crash and road safety analysis: A review (Under review in *Applied Spatial Analysis and Policy*)
-* **Gong, W.**, Wu, K., Yang, Y., Zhang, W., Ye, X., Huang, X., 2024. Integrating high-resolution simulations and transformer network predictions for mitigating human heat stress: A digital twin of a Texas campus (Working paper)
+* Ye, X., Li, S., **Gong, W.\***, Li, X., Li, X., Dadashova, B., Li, W., Du, J., Wu, J., 2024. Street view imagery in traffic crash and road safety analysis: A review (Under revision in *Applied Spatial Analysis and Policy*)
+* **Gong, W.**, Ye, X., Wu, K., Jamonnak, S., Zhang, W., Yang, Y., Huang, X., 2025. Integrating Spatiotemporal Vision Transformer into Digital Twins for High-Resolution Heat Stress Forecasting in Campus Environments (Submitted to *Journal of Planning Education and Research*)
+* Ye, X., Goodchild, M., **Gong, W.** et al., 2025. Artificial Intelligence in Urban Science: Why Does It Matter? (Submitted to *Annals of GIS*)
+* Rui, J., Shao, C., Hu, Z., **Gong, W.**, Li, X., 2025. Concerned with green scarcity or inequity? The impact of the quantity and equity of urban green space on green satisfaction and associated socioeconomic drivers (Submitted to *Cities*)
+* Rui, J., **Gong, W.**, Qin, L., 2025. A geo-embedded graph neural network framework for ride-hailing demand: Interpretable modeling of spatiotemporal dynamics driven by street contextual features (Submitted to *Computers, Environment and Urban Systems*)
+
 
 ## Selected Research Experience
 <span id="research" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
@@ -73,11 +77,6 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 -	Applied Random Forest feature importance to analyze gender differences in factors influencing walkability perception and assessed the prediction performance of various machine learning models.
 -	Authored a manuscript published in the journal *Land* as the lead writer, based on research results.
 
-{% include_relative _includes/project3.md %}
--	Utilized spatial analysis methods such as Kernel Density, Standard Deviational Ellipse, and Spatial Autocorrelation to characterize the spatial and temporal evolution of courier station distribution in 2018 and 2022 at the macro scale.
--	Applied the geographically weighted regression (GWR) model to identify meso-influential factors and models that are "fit for courier stations" and evaluated the supply and demand for street-scale courier station layouts.
--	Analyzed micro-environmental characteristics "fit for courier stations" within 500m buffer zones and proposed an effectiveness evaluation of the current situation based on specific indicators.
--	Built a platform on Datlas system that integrates data visualization, supply and demand, and performance evaluation for courier station siting services.
 
 ## Presentations
 *Conferences*
