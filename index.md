@@ -105,6 +105,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 * Forum Geografi
 
 *Conference Organizations*
+<span id="services" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * Session Chair/Primary Organizer: AAG 2025 - Symposium on Human Dynamics Research: Urban Environmental Intelligence and Human-Climate Interactions <a href="https://aag.secure-platform.com/aag2025/solicitations/82/sessiongallery/23561" target="_blank">[Link]</a>
 
 
