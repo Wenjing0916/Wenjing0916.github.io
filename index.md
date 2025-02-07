@@ -60,25 +60,6 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 * Rui, J., Shao, C., Hu, Z., **Gong, W.**, Li, X., 2025. Concerned with green scarcity or inequity? The impact of the quantity and equity of urban green space on green satisfaction and associated socioeconomic drivers (Submitted to *Cities*)
 * Rui, J., **Gong, W.**, Qin, L., 2025. A geo-embedded graph neural network framework for ride-hailing demand: Interpretable modeling of spatiotemporal dynamics driven by street contextual features (Submitted to *Computers, Environment and Urban Systems*)
 
-<!-- 
-## Selected Research Experience
-<span id="research" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
-{% include_relative _includes/project1.md %}
--	Utilized multi-sources data, including sociodemographic, natural environment, and built environment factors to examine their impact on Citi Bike usage in New York City on weekdays and weekends in the year 2022.
--	Processed about 13 million trip data using Python, collected a set of 6,744 street view images through Google API, and then employed PSPNet model for semantic segmentation; processed sociodemographic data at Census Block Groups level, Points of Interest data, weather and air quality data using ArcGIS pro.
--	Applied machine learning models to establish non-linear relationships between features and bike-sharing usage at the station scale and reveal the feature importance using SHapley Additive exPlanations (SHAP) package in Python.
--	Developed multiscale geographically weighted regression (MGWR) models to capture spatial non-stationary and reveal quantitative effects of related factors at the neighborhood scale.
--	Authored a manuscript published in the *Journal of Transport Geography* as the lead writer, based on research results.
-
-{% include_relative _includes/project2.md %}
--	Utilized the Network Analysis tool in ArcGIS to obtain the 15-minute walking radius for 11 communities in Shanghai’s five new towns and the central area based on the road network from Open Street Map.
--	Developed a TrueSkill-based rating system to dynamically collect audits of 325 street view images from professional students, and used DeeplabV3 and Mask R-CNN models to extract the physical features in images.
--	Conducted a clustering analysis using PCA and K-means++ algorithms of the perceived walkability scores in 11 communities and explored the characteristics of each cluster.
--	Applied Random Forest feature importance to analyze gender differences in factors influencing walkability perception and assessed the prediction performance of various machine learning models.
--	Authored a manuscript published in the journal *Land* as the lead writer, based on research results.
-
--->
-
 
 ## Presentations
 *Conferences*
