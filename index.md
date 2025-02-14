@@ -54,9 +54,9 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 * **Gong, W.**, Huang, X., White, M., Langenheim, N., 2023. <a href="https://doi.org/10.3390/land12071339" target="_blank">Walkability Perceptions and Gender Differences in Urban Fringe New Towns: A Case Study of Shanghai</a>. *Land* 12, 1339.
 
 *Selected Under Review/Working Papers:*
+* Ye, X., Goodchild, M., **Gong, W.** et al., 2025. Artificial Intelligence in Urban Science: Why Does It Matter? (Accepted by *Annals of GIS*)
 * Ye, X., Li, S., **Gong, W.\***, Li, X., Li, X., Dadashova, B., Li, W., Du, J., Wu, J., 2024. Street view imagery in traffic crash and road safety analysis: A review (Under revision in *Applied Spatial Analysis and Policy*)
 * **Gong, W.**, Ye, X., Wu, K., Jamonnak, S., Zhang, W., Yang, Y., Huang, X., 2025. Integrating Spatiotemporal Vision Transformer into Digital Twins for High-Resolution Heat Stress Forecasting in Campus Environments (Submitted to *Journal of Planning Education and Research*)
-* Ye, X., Goodchild, M., **Gong, W.** et al., 2025. Artificial Intelligence in Urban Science: Why Does It Matter? (Submitted to *Annals of GIS*)
 * Rui, J., Shao, C., Hu, Z., **Gong, W.**, Li, X., 2025. Concerned with green scarcity or inequity? The impact of the quantity and equity of urban green space on green satisfaction and associated socioeconomic drivers (Submitted to *Cities*)
 * Rui, J., **Gong, W.**, Qin, L., 2025. A geo-embedded graph neural network framework for ride-hailing demand: Interpretable modeling of spatiotemporal dynamics driven by street contextual features (Submitted to *Computers, Environment and Urban Systems*)
 
