@@ -50,7 +50,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 ## Peer-reviewed Publications
 <span id="publications" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * Ye, X., Yigitcanlar, T., Goodchild, M., Huang, X., Li, W., Shaw, S.-L., Fu, Y., **Gong, W.**, Newman, G., 2025. <a href="https://doi.org/10.1080/19475683.2025.2469110" target="_blank">Artificial intelligence in urban science: why does it matter?</a>. *Annals of GIS* 0, 1–9.
-* **Gong, W.**, Lee, C.S., Li, S., Adkison, D., Li, N., Wu, L., Ye, X., 2025. <a href="https://www.tandfonline.com/doi/full/10.1080/0735648X.2024.2448804" target="_blank">Cyber victimization in hybrid space: an analysis of employment scams using natural language processing and machine learning models</a>. *Journal of Crime and Justice* 1–22.
+* **Gong, W.**, Lee, C.S., Li, S., Adkison, D., Li, N., Wu, L., Ye, X., 2025. <a href="https://doi.org/10.1080/0735648X.2024.2448804" target="_blank">Cyber victimization in hybrid space: an analysis of employment scams using natural language processing and machine learning models</a>. *Journal of Crime and Justice* 1–22.
 * **Gong, W.**, Rui, J., Li, T., 2024. <a href="https://doi.org/10.1016/j.jtrangeo.2024.103799" target="_blank">Deciphering Urban Bike-Sharing Patterns: An In-depth Analysis of Natural Environment and Visual Quality in New York's Citi Bike System</a>. *Journal of Transport Geography* 115, 103799.
 * **Gong, W.**, Huang, X., White, M., Langenheim, N., 2023. <a href="https://doi.org/10.3390/land12071339" target="_blank">Walkability Perceptions and Gender Differences in Urban Fringe New Towns: A Case Study of Shanghai</a>. *Land* 12, 1339.
 
