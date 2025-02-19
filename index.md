@@ -58,7 +58,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 * Ye, X., Li, S., **Gong, W.\***, Li, X., Li, X., Dadashova, B., Li, W., Du, J., Wu, J., 2024. Street view imagery in traffic crash and road safety analysis: A review (Under revision in *Applied Spatial Analysis and Policy*)
 * **Gong, W.**, Ye, X., Wu, K., Jamonnak, S., Zhang, W., Yang, Y., Huang, X., 2025. Integrating Spatiotemporal Vision Transformer into Digital Twins for High-Resolution Heat Stress Forecasting in Campus Environments (Under review in *Journal of Planning Education and Research*)
 * Rui, J., Shao, C., Hu, Z., **Gong, W.**, Li, X., 2025. Concerned with green scarcity or inequity? The impact of the quantity and equity of urban green space on green satisfaction and associated socioeconomic drivers (Under review in *Cities*)
-* Rui, J., **Gong, W.**, Qin, L., 2025. A geo-embedded graph neural network framework for ride-hailing demand: Interpretable modeling of spatiotemporal dynamics driven by street contextual features (Submitted to *Transportation Research Part D: Transport and Environment*)
+* Rui, J., **Gong, W.**, Qin, L., 2025. A geo-embedded graph neural network framework for ride-hailing demand: Interpretable modeling of spatiotemporal dynamics driven by street contextual features (Under review in *Transportation Research Part D: Transport and Environment*)
 
 
 ## Presentations
