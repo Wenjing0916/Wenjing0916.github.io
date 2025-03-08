@@ -19,7 +19,7 @@ working under the mentorship of Prof.<a href="https://med.nyu.edu/faculty/thadde
 ## About Me
 <span id="about" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
 Greetings,😀! I'm Wenjing Gong, a first-year Ph.D. student at Texas A&M University, advised by Dr. Xinyue Ye. My research interests lie in <i style="color:#500000">Urban Analytics, GIScience, Artificial Intelligence, Climate Resilience, and Human Mobility</i>.  
-(Updated on 02/2025)
+(Updated on 03/2025)
 
 
 ## Education
@@ -57,8 +57,9 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 *Selected Under Review/Working Papers:*
 * Ye, X., Li, S., **Gong, W.\***, Li, X., Li, X., Dadashova, B., Li, W., Du, J., Wu, J., 2024. Street view imagery in traffic crash and road safety analysis: A review (Under revision in *Applied Spatial Analysis and Policy*)
 * **Gong, W.**, Ye, X., Wu, K., Jamonnak, S., Zhang, W., Yang, Y., Huang, X., 2025. Integrating Spatiotemporal Vision Transformer into Digital Twins for High-Resolution Heat Stress Forecasting in Campus Environments (Under review in *Journal of Planning Education and Research*)
-* Rui, J., Shao, C., Hu, Z., **Gong, W.**, Li, X., 2025. Concerned with green scarcity or inequity? The impact of the quantity and equity of urban green space on green satisfaction and associated socioeconomic drivers (Under review in *Cities*)
 * Rui, J., **Gong, W.**, Qin, L., 2025. A geo-embedded graph neural network framework for ride-hailing demand: Interpretable modeling of spatiotemporal dynamics driven by street contextual features (Under review in *Transportation Research Part D: Transport and Environment*)
+* Rui, J., Shao, C., Hu, Z., **Gong, W.**, Li, X., 2025. Concerned with green scarcity or inequity? The impact of the quantity and equity of urban green space on green satisfaction and associated socioeconomic drivers (Under review in *Cities*)
+
 
 
 ## Presentations
@@ -76,29 +77,30 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 
 ## Awards & Honors
 <span id="awards" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
-* [2024 - 2028]	Research Assistantship covering stipend and tuition, Center for Geospatial Sciences, Applications and Technology, Texas A&M University
-* [2019 - 2022]	Academic Scholarship covering all tuition fees, Tongji University
+* [2025]	Student Fellow, Telehealth Institute, TAMU
+* [2024 - 2028]	Research Assistantship covering stipend and tuition, Center for Geospatial Sciences, Applications and Technology, TAMU
+* [2019 - 2022]	Academic Scholarship covering all tuition fees, TJU
 * [2014 - 2019]	First-class Scholarships in academic performance (5%, **8 times**), SDUST
 * [2014 - 2019]	First-class Corporate Scholarships (5%, **2 times**), SDUST
 * [2014 - 2019]	"Outstanding Student Pioneer" (5%, **3 times**), SDUST
-* [2019]		"Outstanding Graduate" of Shandong Province (5%)
-* [2019]		"Outstanding Student" in Science, Technology, and Innovation (5%), SDUST
-* [2018]	SINO-JAPAN Art & Design Exchange Exhibition, Gold Award
-* [2018]	National Green Building Design Competition, National Best Leader Award
-* [2018]	National Green Building Design Competition - Deep Green Category, Grand Prize
-* [2018]	The Fourth Academy Award National Art and Design Exhibition, First Prize
-* [2018]	Chinese Creative Design Annual 2016/2017, Gold Award
-* [2018]	The Third Bauhaus Award International Design Competition, Silver Award
-* [2018]	Exhibition of Architectural Design in Developing Countries, Bronze Award
-* [2018]	Shandong Province College Student Construction Design Competition, Excellent Award
-* [2017]	China Architectural Education/TSINGRUN Award Students’ Paper Competition, Excellence Award
-* [2017]	The 3rd Mainland, Taiwan and Hongkong Design Invitation Exhibition, Bronze Award
-* [2017]	National Green Building Design Competition - Green Category, Second Prize
-* [2016]	National Green Building Knowledge Competition for Youth Students, Excellent Award
-* [2016]	Lion Award International Industrial Design Competition - 'Innovative Application Design Group: Industrial Robot Systems', Excellent Market Potential Award
+* [2019]	"Outstanding Graduate" of Shandong Province (5%)
+* [2019]	"Outstanding Student" in Science, Technology, and Innovation (5%), SDUST
+* [2018]	Gold Award, SINO-JAPAN Art & Design Exchange Exhibition
+* [2018]	National Best Leader Award, National Green Building Design Competition
+* [2018]	Grand Prize, National Green Building Design Competition - Deep Green Category
+* [2018]	First Prize, The Fourth Academy Award National Art and Design Exhibition
+* [2018]	Gold Award, Chinese Creative Design Annual 2016/2017
+* [2018]	Silver Award, The Third Bauhaus Award International Design Competition
+* [2018]	Bronze Award, Exhibition of Architectural Design in Developing Countries
+* [2018]	Excellent Award, Shandong Province College Student Construction Design Competition
+* [2017]	Excellence Award, China Architectural Education/TSINGRUN Award Students’ Paper Competition
+* [2017]	Bronze Award, The 3rd Mainland, Taiwan and Hongkong Design Invitation Exhibition
+* [2017]	Second Prize, National Green Building Design Competition - Green Category
+* [2016]	Excellent Award, National Green Building Knowledge Competition for Youth Students
+* [2016]	Excellent Market Potential Award, Lion Award International Industrial Design Competition - 'Innovative Application Design Group: Industrial Robot Systems'
 
 ## Services
-*Journal Article Reviewer*
+*Invited Reviewer*
 <span id="services" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * International Journal of Geographical Information Science
 * Journal of Planning Education and Research
@@ -108,7 +110,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 
 *Conference Organizations*
 <span id="services" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
-* Session Chair/Primary Organizer: AAG 2025 - Symposium on Human Dynamics Research: Urban Environmental Intelligence and Human-Climate Interactions <a href="https://aag.secure-platform.com/aag2025/solicitations/82/sessiongallery/23561" target="_blank">[Link]</a>
+* Session Chair/Primary Organizer: Symposium on Human Dynamics Research: Urban Environmental Intelligence and Human-Climate Interactions. *The 2025 Annual Meeting of American Association of Geographers*, March 24-28, 2025, Detroit, USA.
 
 
 ## Media Coverage
