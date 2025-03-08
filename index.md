@@ -126,6 +126,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 * **Urban Climate Simulation:** SOLWEIG, Envi-met
 * **Design and Planning:** AutoCAD, SketchUp, Rhino, Photoshop, Illustrator, InDesign, Enscape, Lumion
 
-
+------
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=4UdtGSgGkd44K3rEOq5aS5MhEx9RLAhOIy1jzh1h2fM&cl=ffffff&w=a"></script>
 
 
