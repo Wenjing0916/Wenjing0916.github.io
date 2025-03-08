@@ -37,8 +37,10 @@ GPA: 88.5/100 (Entrance through the exam-free recommendation program)
 GPA: 90.5/100 (Rank: 1/60 each year)
 
 
-## Academic & Professional Employment
+## Academic & Professional Experience
 <span id="employment" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
+**[2025] Student Fellow**  
+<i style="color:#500000">Telehealth Institute, Texas A&M University, College Station, USA</i>  
 **[2024-2028] Research Assistant**  
 <i style="color:#500000">Center for Geospatial Sciences, Applications and Technology, Texas A&M University, College Station, USA</i>  
 **[2022-2024] Designer and Planner**  
@@ -77,7 +79,6 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 
 ## Awards & Honors
 <span id="awards" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
-* [2025]	Student Fellow, Telehealth Institute, TAMU
 * [2024 - 2028]	Research Assistantship covering stipend and tuition, Center for Geospatial Sciences, Applications and Technology, TAMU
 * [2019 - 2022]	Academic Scholarship covering all tuition fees, TJU
 * [2014 - 2019]	First-class Scholarships in academic performance (5%, **8 times**), SDUST
