@@ -19,6 +19,7 @@ working under the mentorship of Prof.<a href="https://med.nyu.edu/faculty/thadde
 ## About Me
 <span id="about" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
 Greetings,😀! I'm Wenjing Gong, a first-year Ph.D. student in Urban and Regional Science at Texas A&M University, advised by Dr. Xinyue Ye. I am also a Research Assistant at the Center for Geospatial Sciences, Applications, and Technology and a Student Fellow at the Telehealth Institute at Texas A&M University. My research integrates urban analytics, urban planning, GIScience, and GeoAI to address challenges in <i style="color:#500000">climate resilience, human mobility, and public health</i>.  
+I’m always open to collaborating with those who share similar research interests. Feel free to reach out via email—I’d be happy to connect and discuss further!  
 (Updated on 03/2025)
 
 
