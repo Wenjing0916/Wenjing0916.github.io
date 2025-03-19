@@ -80,6 +80,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 
 ## Awards & Honors
 <span id="awards" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
+* [2025] UCGIS I-GUIDE Community Champions (Student leader), 2024-2025 Cohort
 * [2024 - 2028]	Research Assistantship covering stipend and tuition, Center for Geospatial Sciences, Applications and Technology, TAMU
 * [2019 - 2022]	Academic Scholarship covering all tuition fees, TJU
 * [2014 - 2019]	First-class Scholarships in academic performance (5%, **8 times**), SDUST
