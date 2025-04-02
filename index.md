@@ -51,13 +51,13 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 
 ## Peer-reviewed Publications
 <span id="publications" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
+* Ye, X., Yigitcanlar, T., Xu, Y., Head, M., Hang, Y., Sanchez, T., **Gong, W.**, Niyogi, D., 2025. <a href="https://doi.org/10.1177/23998083251330940" target="_blank">Urban planning and IPCC-like city assessments integration for climate-resilient cities</a>. *Environment and Planning B* 23998083251330940. 
 * Ye, X., Yigitcanlar, T., Goodchild, M., Huang, X., Li, W., Shaw, S.-L., Fu, Y., **Gong, W.**, Newman, G., 2025. <a href="https://doi.org/10.1080/19475683.2025.2469110" target="_blank">Artificial intelligence in urban science: why does it matter?</a>. *Annals of GIS* 0, 1–9.
 * **Gong, W.**, Lee, C.S., Li, S., Adkison, D., Li, N., Wu, L., Ye, X., 2025. <a href="https://doi.org/10.1080/0735648X.2024.2448804" target="_blank">Cyber victimization in hybrid space: an analysis of employment scams using natural language processing and machine learning models</a>. *Journal of Crime and Justice* 1–22.
 * **Gong, W.**, Rui, J., Li, T., 2024. <a href="https://doi.org/10.1016/j.jtrangeo.2024.103799" target="_blank">Deciphering Urban Bike-Sharing Patterns: An In-depth Analysis of Natural Environment and Visual Quality in New York's Citi Bike System</a>. *Journal of Transport Geography* 115, 103799.
 * **Gong, W.**, Huang, X., White, M., Langenheim, N., 2023. <a href="https://doi.org/10.3390/land12071339" target="_blank">Walkability Perceptions and Gender Differences in Urban Fringe New Towns: A Case Study of Shanghai</a>. *Land* 12, 1339.
 
 *Selected Under Review/Working Papers:*
-* Ye, X., Yigitcanlar, T., Xu, Y., Head, M., Hang, Y., Sanchez, T, **Gong, W.**, Niyogi, D., 2025. Urban Planning and IPCC-like City Assessments Integration for Climate Resilient Cities (Accepted in *Environment and Planning B: Urban Analytics and City Science*)
 * Ye, X., Li, S., **Gong, W.\***, Li, X., Li, X., Dadashova, B., Li, W., Du, J., Wu, J., 2024. Street view imagery in traffic crash and road safety analysis: A review (Under revision in *Applied Spatial Analysis and Policy*)
 * **Gong, W.**, Ye, X., Wu, K., Jamonnak, S., Zhang, W., Yang, Y., Huang, X., 2025. Integrating Spatiotemporal Vision Transformer into Digital Twins for High-Resolution Heat Stress Forecasting in Campus Environments (Under review in *Journal of Planning Education and Research*)
 * Rui, J., **Gong, W.**, Qin, L., 2025. A geo-embedded graph neural network framework for ride-hailing demand: Interpretable modeling of spatiotemporal dynamics driven by street contextual features (Under review in *Transportation Research Part D: Transport and Environment*)
@@ -68,6 +68,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 ## Presentations
 *Conferences*
 <span id="presentations" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
+* **Gong, W.**, Ye, X., Wu, K., Jamonnak, S., Zhang, W., Yang, Y., Huang, X. Integrating Spatiotemporal Vision Transformer into Digital Twins for High-Resolution Heat Stress Forecasting in Campus Environments. *2025 Annual Meeting of American Association of Geographers*, March 24-28, 2025, Detroit, Michigan, USA (Oral).
 * **Gong, W.**, Wu, K., Yang, Y., Zhang, W., Ye, X., Huang, X. Integrating high-resolution simulations and transformer network predictions for mitigating human heat stress: A digital twin of a Texas campus. *2024 Texas Weather Conference*, November 9, 2024, College Station, Texas, USA (Oral).
 * **Gong, W.**, Yang, Y., Zhang, W., Wu, K., Ye, X., Huang, X. Integrating high-resolution simulations and transformer network predictions for mitigating human heat stress: A digital twin of a Texas campus. *College of Architecture's 26th Annual Showcase*, October 3, 2024, Texas A&M University, College Station, Texas, USA (Poster).
 * **Gong, W.** Simulating and Predicting Spatial-Temporal Human Outdoor Heat Exposure: A Case Study on a Texas Campus. *The 2024 Symposium on Spatiotemporal Data Science: GeoAI for Social Sciences*, July 24, 2024, Virtual (Abstract accepted).
@@ -80,27 +81,28 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 
 ## Awards & Honors
 <span id="awards" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
-* [2025] UCGIS I-GUIDE 2024-2025 Community Champions Cohort (Student leader)
-* [2024 - 2028]	Research Assistantship covering stipend and tuition, Center for Geospatial Sciences, Applications and Technology, TAMU
-* [2019 - 2022]	Academic Scholarship covering all tuition fees, TJU
-* [2014 - 2019]	First-class Scholarships in academic performance (5%, **8 times**), SDUST
-* [2014 - 2019]	First-class Corporate Scholarships (5%, **2 times**), SDUST
-* [2014 - 2019]	"Outstanding Student Pioneer" (5%, **3 times**), SDUST
-* [2019]	"Outstanding Graduate" of Shandong Province (5%)
-* [2019]	"Outstanding Student" in Science, Technology, and Innovation (5%), SDUST
-* [2018]	Gold Award, SINO-JAPAN Art & Design Exchange Exhibition
-* [2018]	National Best Leader Award, National Green Building Design Competition
-* [2018]	Grand Prize, National Green Building Design Competition - Deep Green Category
-* [2018]	First Prize, The Fourth Academy Award National Art and Design Exhibition
-* [2018]	Gold Award, Chinese Creative Design Annual 2016/2017
-* [2018]	Silver Award, The Third Bauhaus Award International Design Competition
-* [2018]	Bronze Award, Exhibition of Architectural Design in Developing Countries
-* [2018]	Excellent Award, Shandong Province College Student Construction Design Competition
-* [2017]	Excellence Award, China Architectural Education/TSINGRUN Award Students’ Paper Competition
-* [2017]	Bronze Award, The 3rd Mainland, Taiwan and Hongkong Design Invitation Exhibition
-* [2017]	Second Prize, National Green Building Design Competition - Green Category
-* [2016]	Excellent Award, National Green Building Knowledge Competition for Youth Students
-* [2016]	Excellent Market Potential Award, Lion Award International Industrial Design Competition - 'Innovative Application Design Group: Industrial Robot Systems'
+* [2025] Ashok K. Dutt Award for Best Graduate Student Paper (1st place), Regional Development and Planning Specialty Group, 2025 Annual Meeting of American Association of Geographers, $ 200.
+* [2025] UCGIS I-GUIDE 2024-2025 Community Champions Cohort (Student leader).
+* [2024 - 2028]	Research Assistantship covering stipend and tuition, Center for Geospatial Sciences, Applications and Technology, TAMU.
+* [2019 - 2022]	Academic Scholarship covering all tuition fees, TJU.
+* [2014 - 2019]	First-class Scholarships in academic performance (5%, **8 times**), SDUST.
+* [2014 - 2019]	First-class Corporate Scholarships (5%, **2 times**), SDUST.
+* [2014 - 2019]	"Outstanding Student Pioneer" (5%, **3 times**), SDUST.
+* [2019]	"Outstanding Graduate" of Shandong Province (5%).
+* [2019]	"Outstanding Student" in Science, Technology, and Innovation (5%), SDUST.
+* [2018]	Gold Award, SINO-JAPAN Art & Design Exchange Exhibition.
+* [2018]	National Best Leader Award, National Green Building Design Competition.
+* [2018]	Grand Prize, National Green Building Design Competition - Deep Green Category.
+* [2018]	First Prize, The Fourth Academy Award National Art and Design Exhibition.
+* [2018]	Gold Award, Chinese Creative Design Annual 2016/2017.
+* [2018]	Silver Award, The Third Bauhaus Award International Design Competition.
+* [2018]	Bronze Award, Exhibition of Architectural Design in Developing Countries.
+* [2018]	Excellent Award, Shandong Province College Student Construction Design Competition.
+* [2017]	Excellence Award, China Architectural Education/TSINGRUN Award Students’ Paper Competition.
+* [2017]	Bronze Award, The 3rd Mainland, Taiwan and Hongkong Design Invitation Exhibition.
+* [2017]	Second Prize, National Green Building Design Competition - Green Category.
+* [2016]	Excellent Award, National Green Building Knowledge Competition for Youth Students.
+* [2016]	Excellent Market Potential Award, Lion Award International Industrial Design Competition - 'Innovative Application Design Group: Industrial Robot Systems'.
 
 ## Services
 *Invited Reviewer*
@@ -113,7 +115,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 
 *Conference Organizations*
 <span id="services" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
-* Session Chair/Primary Organizer: Symposium on Human Dynamics Research: Urban Environmental Intelligence and Human-Climate Interactions. *The 2025 Annual Meeting of American Association of Geographers*, March 24-28, 2025, Detroit, USA.
+* Session Chair/Primary Organizer: Symposium on Human Dynamics Research: Urban Environmental Intelligence and Human-Climate Interactions. *2025 Annual Meeting of American Association of Geographers*, March 24-28, 2025, Detroit, Michigan, USA.
 
 
 ## Media Coverage
