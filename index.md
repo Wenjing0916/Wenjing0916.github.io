@@ -58,7 +58,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 * **Gong, W.**, Huang, X., White, M., Langenheim, N., 2023. <a href="https://doi.org/10.3390/land12071339" target="_blank">Walkability Perceptions and Gender Differences in Urban Fringe New Towns: A Case Study of Shanghai</a>. *Land* 12, 1339.
 
 *Selected Under Review/Working Papers:*
-* Ye, X., Li, S., **Gong, W.\***, Li, X., Li, X., Dadashova, B., Li, W., Du, J., Wu, J., 2024. Street view imagery in traffic crash and road safety analysis: A review (Under revision in *Applied Spatial Analysis and Policy*)
+* Ye, X., Li, S., **Gong, W.\***, Li, X., Li, X., Dadashova, B., Li, W., Du, J., Wu, J., 2024. Street view imagery in traffic crash and road safety analysis: A review (Accepted in *Applied Spatial Analysis and Policy*)
 * **Gong, W.**, Ye, X., Wu, K., Jamonnak, S., Zhang, W., Yang, Y., Huang, X., 2025. Integrating Spatiotemporal Vision Transformer into Digital Twins for High-Resolution Heat Stress Forecasting in Campus Environments (Under revision in *Journal of Planning Education and Research*)
 * Rui, J., **Gong, W.**, Qin, L., 2025. A geo-embedded graph neural network framework for ride-hailing demand: Interpretable modeling of spatiotemporal dynamics driven by street contextual features (Under review in *Transportation Research Part D: Transport and Environment*)
 * Rui, J., Shao, C., Hu, Z., **Gong, W.**, Li, X., 2025. Concerned with green scarcity or inequity? The impact of the quantity and equity of urban green space on green satisfaction and associated socioeconomic drivers (Under review in *Cities*)
@@ -83,6 +83,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 <span id="awards" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * [2025] Ashok K. Dutt Award for Best Graduate Student Paper (1st place), Regional Development and Planning Specialty Group, 2025 Annual Meeting of American Association of Geographers, $ 200.
 * [2025] UCGIS I-GUIDE 2024-2025 Community Champions Cohort (Student leader).
+* [2025] Travel Grant, LAUP Department, TAMU, $600.
 * [2024 - 2028]	Research Assistantship covering stipend and tuition, Center for Geospatial Sciences, Applications and Technology, TAMU.
 * [2019 - 2022]	Academic Scholarship covering all tuition fees, TJU.
 * [2014 - 2019]	First-class Scholarships in academic performance (5%, **8 times**), SDUST.
