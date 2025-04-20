@@ -81,7 +81,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 
 ## Awards & Honors
 <span id="awards" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
-* [2025] Ashok K. Dutt Award for Best Graduate Student Paper (1st place), Regional Development and Planning Specialty Group, 2025 Annual Meeting of American Association of Geographers, $ 200.
+* [2025] Ashok K. Dutt Award for Best Graduate Student Paper (1st place), Regional Development and Planning Specialty Group, 2025 Annual Meeting of American Association of Geographers, $200.
 * [2025] UCGIS I-GUIDE 2024-2025 Community Champions Cohort (Student leader).
 * [2025] Travel Grant, LAUP Department, TAMU, $600.
 * [2024 - 2028]	Research Assistantship covering stipend and tuition, Center for Geospatial Sciences, Applications and Technology, TAMU.
