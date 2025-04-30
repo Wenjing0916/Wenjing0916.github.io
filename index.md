@@ -51,6 +51,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 
 ## Peer-reviewed Publications
 <span id="publications" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
+* Ye, X., Li, S., **Gong, W.\***, Li, X., Li, X., Dadashova, B., Li, W., Du, J., Wu, D., 2025. <a href="https://doi.org/10.1007/s12061-025-09653-7" target="_blank">Street View Imagery in Traffic Crash and Road Safety Analysis: A Review</a>. *Appl. Spatial Analysis* 18, 50. 
 * Ye, X., Yigitcanlar, T., Xu, Y., Head, M., Hang, Y., Sanchez, T., **Gong, W.**, Niyogi, D., 2025. <a href="https://doi.org/10.1177/23998083251330940" target="_blank">Urban planning and IPCC-like city assessments integration for climate-resilient cities</a>. *Environment and Planning B* 23998083251330940. 
 * Ye, X., Yigitcanlar, T., Goodchild, M., Huang, X., Li, W., Shaw, S.-L., Fu, Y., **Gong, W.**, Newman, G., 2025. <a href="https://doi.org/10.1080/19475683.2025.2469110" target="_blank">Artificial intelligence in urban science: why does it matter?</a> *Annals of GIS* 0, 1–9.
 * **Gong, W.**, Lee, C.S., Li, S., Adkison, D., Li, N., Wu, L., Ye, X., 2025. <a href="https://doi.org/10.1080/0735648X.2024.2448804" target="_blank">Cyber victimization in hybrid space: an analysis of employment scams using natural language processing and machine learning models</a>. *Journal of Crime and Justice* 1–22.
@@ -58,7 +59,6 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 * **Gong, W.**, Huang, X., White, M., Langenheim, N., 2023. <a href="https://doi.org/10.3390/land12071339" target="_blank">Walkability Perceptions and Gender Differences in Urban Fringe New Towns: A Case Study of Shanghai</a>. *Land* 12, 1339.
 
 *Selected Under Review/Working Papers:*
-* Ye, X., Li, S., **Gong, W.\***, Li, X., Li, X., Dadashova, B., Li, W., Du, J., Wu, J., 2024. Street view imagery in traffic crash and road safety analysis: A review (Accepted in *Applied Spatial Analysis and Policy*)
 * **Gong, W.**, Ye, X., Wu, K., Jamonnak, S., Zhang, W., Yang, Y., Huang, X., 2025. Integrating Spatiotemporal Vision Transformer into Digital Twins for High-Resolution Heat Stress Forecasting in Campus Environments (Under revision in *Journal of Planning Education and Research*)
 * Rui, J., **Gong, W.**, Qin, L., 2025. A geo-embedded graph neural network framework for ride-hailing demand: Interpretable modeling of spatiotemporal dynamics driven by street contextual features (Under review in *Transportation Research Part D: Transport and Environment*)
 * Rui, J., Shao, C., Hu, Z., **Gong, W.**, Li, X., 2025. Concerned with green scarcity or inequity? The impact of the quantity and equity of urban green space on green satisfaction and associated socioeconomic drivers (Under review in *Cities*)
