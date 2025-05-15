@@ -19,7 +19,7 @@ I’m always open to collaborating with those who share similar research interes
 ## About Me
 <span id="about" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
 Greetings,😀! I'm Wenjing Gong, a first-year Ph.D. student in Urban and Regional Science at Texas A&M University, advised by Dr. Xinyue Ye. I am also a Research Assistant at the Center for Geospatial Sciences, Applications, and Technology and a Student Fellow at the Telehealth Institute at Texas A&M University. My research integrates <i style="color:#500000">Urban Analytics, Urban Planning, GIScience, and GeoAI</i> to address challenges in <i style="color:#500000">Climate Resilience, Human Mobility, and Public Health</i>.  
-(Updated on 03/2025)
+(Updated on 04/2025)
 
 
 ## Education
@@ -60,6 +60,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 
 *Selected Under Review/Working Papers:*
 * **Gong, W.**, Ye, X., Wu, K., Jamonnak, S., Zhang, W., Yang, Y., Huang, X., 2025. Integrating Spatiotemporal Vision Transformer into Digital Twins for High-Resolution Heat Stress Forecasting in Campus Environments (Under revision in *Journal of Planning Education and Research*)
+* 
 * Rui, J., **Gong, W.**, Qin, L., 2025. A geo-embedded graph neural network framework for ride-hailing demand: Interpretable modeling of spatiotemporal dynamics driven by street contextual features (Under review in *Transportation Research Part D: Transport and Environment*)
 * Rui, J., Shao, C., Hu, Z., **Gong, W.**, Li, X., 2025. Concerned with green scarcity or inequity? The impact of the quantity and equity of urban green space on green satisfaction and associated socioeconomic drivers (Under review in *Cities*)
 
@@ -109,8 +110,8 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 *Invited Reviewer*
 <span id="services" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * International Journal of Geographical Information Science
-* Journal of Planning Education and Research
 * Journal of Transport Geography
+* Journal of Planning Education and Research
 * Applied Spatial Analysis and Policy
 * Computational Urban Science
 * Forum Geografi
