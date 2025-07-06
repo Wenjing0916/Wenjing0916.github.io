@@ -28,13 +28,13 @@ Feel free to contact me via email at: wenjinggong@tamu.edu.
 <span id="news" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 <div style="max-height: 120px; overflow-y: auto; padding: 15px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); border-radius: 8px; background-color: #fafafa; font-size: 15px; line-height: 1.6;">
   <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
-    <li><strong>[Jun. 2025]</strong> 🤝 Started serving as the <strong>Managing Editor</strong> for <em>Computational Urban Science</em>.</li>
-    <li><strong>[Mar. 2025]</strong> 🏆 Received the <strong>Ashok K. Dutt Award (1st place)</strong> at <em>AAG 2025</em> for our work on urban extreme heat resilience.</li>
-    <li><strong>[Mar. 2025]</strong> Test</li>
-    <li><strong>[Mar. 2025]</strong> Test</li>
-    <li><strong>[Mar. 2025]</strong> Test</li>
-    <li><strong>[Mar. 2025]</strong> Test</li>
-    <li><strong>[Mar. 2025]</strong> Test</li>
+  <li><strong>[Jun. 2025]</strong> 🤝 Started serving as the <strong>Managing Editor</strong> for <em>Computational Urban Science</em>.</li>
+  <li><strong>[Apr. 2025]</strong> 🗣️ Gave a talk on the Virtual Consulting Office for the <em>UCGIS I-GUIDE 2024–2025 Community Champions</em>.</li>
+  <li><strong>[Mar. 2025]</strong> 🏆 Received the <strong>Ashok K. Dutt Award (1st place)</strong> at <em>AAG 2025</em> for our work on urban heat resilience.</li>
+  <li><strong>[Mar. 2025]</strong> 👏 Chaired and organized the <em>Symposium on Human Dynamics Research: Urban Environmental Intelligence and Human–Climate Interactions</em> at <em>AAG 2025</em>.</li>
+  <li><strong>[Nov. 2024]</strong> 🗣️ Gave an oral presentation at the <em>2024 Texas Weather Conference</em>.</li>
+  <li><strong>[Oct. 2024]</strong> 🗣️ Presented a poster at the <em>College of Architecture's 26th Annual Showcase</em>, Texas A&M University.</li>
+  <li><strong>[Sep. 2024]</strong> 🎓 Began Ph.D. program in Urban & Regional Science at Texas A&M University.</li>
   </ul>
 </div>
 
