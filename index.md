@@ -26,10 +26,12 @@ Feel free to contact me via email at: wenjinggong@tamu.edu.
 
 ## News  
 <span id="news" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
-<div style="max-height: 250px; overflow-y: auto; padding: 15px; border: 1px solid #ccc; border-radius: 8px; background-color: #fafafa; font-size: 15px; line-height: 1.6;">
+<div style="max-height: 200px; overflow-y: auto; padding: 15px; border: 1px solid #ccc; border-radius: 8px; background-color: #fafafa; font-size: 15px; line-height: 1.6;">
   <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
     <li><strong>[Jun. 2025]</strong> 🤝 Started serving as the <strong>Managing Editor</strong> for <em>Computational Urban Science</em>.</li>
     <li><strong>[Mar. 2025]</strong> 🏆 Received the <strong>Ashok K. Dutt Award (1st place)</strong> at <em>AAG 2025</em> for our work on urban extreme heat resilience.</li>
+    <li><strong>[Mar. 2025]</strong> Test</li>
+    <li><strong>[Mar. 2025]</strong> Test</li>
     <li><strong>[Mar. 2025]</strong> Test</li>
     <li><strong>[Mar. 2025]</strong> Test</li>
     <li><strong>[Mar. 2025]</strong> Test</li>
