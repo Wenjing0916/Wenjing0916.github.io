@@ -34,7 +34,7 @@ Feel free to contact me via email at: wenjinggong@tamu.edu.
   <li><strong>[Mar. 2025]</strong> 👏 Chaired and organized the <em>Symposium on Human Dynamics Research: Urban Environmental Intelligence and Human–Climate Interactions</em> at <em>AAG 2025</em>.</li>
   <li><strong>[Nov. 2024]</strong> 🗣️ Gave an oral presentation at the <em>2024 Texas Weather Conference</em>.</li>
   <li><strong>[Oct. 2024]</strong> 🗣️ Presented a poster at the <em>College of Architecture's 26th Annual Showcase</em>, Texas A&M University.</li>
-  <li><strong>[Sep. 2024]</strong> 🎓 Began Ph.D. program in Urban & Regional Science at Texas A&M University.</li>
+  <li><strong>[Aug. 2024]</strong> 🎓 Began Ph.D. program in Urban & Regional Science at Texas A&M University.</li>
   </ul>
 </div>
 
