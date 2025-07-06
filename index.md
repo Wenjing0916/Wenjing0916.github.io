@@ -26,7 +26,7 @@ Feel free to contact me via email at: wenjinggong@tamu.edu.
 
 ## News  
 <span id="news" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
-<div style="max-height: 120px; overflow-y: auto; padding: 15px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); border-radius: 8px; background-color: #fafafa; font-size: 15px; line-height: 1.6;">
+<div style="max-height: 150px; overflow-y: auto; padding: 15px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); border-radius: 8px; background-color: #fafafa; font-size: 15px; line-height: 1.6;">
   <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
   <li><strong>[Jun. 2025]</strong> 🤝 Started serving as the <strong>Managing Editor</strong> for <em>Computational Urban Science</em>.</li>
   <li><strong>[Apr. 2025]</strong> 🗣️ Gave a talk on the Virtual Consulting Office for the <em>UCGIS I-GUIDE 2024–2025 Community Champions</em>.</li>
