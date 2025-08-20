@@ -134,12 +134,12 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 ## Services
 *Invited Reviewer*
 <span id="services" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
-* International Journal of Geographical Information Science (2)
-* Journal of Transport Geography (1)
-* Journal of Planning Education and Research (1)
-* Applied Spatial Analysis and Policy (1)
-* Computational Urban Science (1)
-* Forum Geografi (1)
+* International Journal of Geographical Information Science
+* Journal of Transport Geography
+* Journal of Planning Education and Research
+* Applied Spatial Analysis and Policy
+* Computational Urban Science
+* Forum Geografi
 
 *Editorial Boards*
 <span id="services" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
@@ -158,7 +158,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 <span id="skills" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * **Programming:** Python (Data Processing, Visualization, and Analysis), SQL, HTML
 * **Machine Learning/Deep Learning:** Computer Vision (Semantic/Instance Segmentation), Time series Forecasting (LSTM, Transformer), Tree models, Explainable AI (SHAP)
-* **Spatial Data Analysis:** ArcGIS Pro, QGIS, Geoda, MGWR 2.2
+* **Spatial Data Analysis:** ArcGIS Pro, QGIS, Geoda, MGWR 2.2, Google Earth Engine
 * **Urban Climate Simulation:** SOLWEIG, Envi-met
 * **Design and Planning:** AutoCAD, SketchUp, Rhino, Photoshop, Illustrator, InDesign, Enscape, Lumion
 
