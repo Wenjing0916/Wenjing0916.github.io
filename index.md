@@ -45,7 +45,7 @@ Feel free to contact me via email at: wenjinggong@tamu.edu.
 <span id="education" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
 **[2024-] Ph.D. Student, Urban and Regional Science**  
 <i style="color:#500000">Texas A&M University, College Station, USA</i>  
-Advisor: Dr. Xinyue Ye  
+Advisor: Dr. Lingqian Hu and Dr. Xinyue Ye  
 **[2019-2022] M.E., Architecture (Urban Study)**  
 <i style="color:#500000">Tongji University, Shanghai, China</i>  
 GPA: 88.5/100 (Entrance through the exam-free recommendation program)  
