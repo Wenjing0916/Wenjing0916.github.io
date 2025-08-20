@@ -60,6 +60,10 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 <span id="employment" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
 **[2025-2026] Teaching Assistant**  
 <i style="color:#500000">PLAN626: Advanced GIS, Texas A&M University, College Station, USA</i>  
+**[2025-2026] Student Ambassador**  
+<i style="color:#500000">Texas A&M Institute of Data Science, College Station, USA</i> 
+**[2025-2026] Student Fellow**  
+<i style="color:#500000">Telehealth Institute, Texas A&M University, College Station, USA</i>  
 **[2024-2025] Research Assistant**  
 <i style="color:#500000">Center for Geospatial Sciences, Applications and Technology, Texas A&M University, College Station, USA</i>  
 **[2022-2024] Designer and Planner**  
