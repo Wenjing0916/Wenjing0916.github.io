@@ -18,7 +18,7 @@ I’m always open to collaborating with those who share similar research interes
 
 ## About Me
 <span id="about" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
-Greetings,😀! I'm Wenjing Gong, a second-year Ph.D. student in Urban and Regional Science at Texas A&M University, co-advised by <a href="https://www.arch.tamu.edu/staff/lingqian-ivy-hu/" target="_blank">Dr. Lingqian Hu</a> and <a href="https://geography.ua.edu/people/xinyue-ye/" target="_blank">Dr. Xinyue Ye</a>. My research integrates <i style="color:black">Urban Analytics, Urban Planning, GIScience, and GeoAI</i> to address challenges in <i style="color:#500000">Climate Resilience, Human Mobility, and Public Health</i>.  
+Greetings,😀! I'm Wenjing Gong, a second-year Ph.D. student in Urban and Regional Science at Texas A&M University, co-advised by <a href="https://www.arch.tamu.edu/staff/lingqian-ivy-hu/" target="_blank">Dr. Lingqian Hu</a> and <a href="https://geography.ua.edu/people/xinyue-ye/" target="_blank">Dr. Xinyue Ye</a>. My research integrates <i style="color:black">Urban Analytics, Urban Planning, GIScience, and GeoAI</i> to address challenges in <i style="color:black">Climate Resilience, Human Mobility, and Public Health</i>.  
 
 Feel free to contact me via email at: wenjinggong@tamu.edu.  
 (Updated on 08/2025)
