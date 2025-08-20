@@ -18,10 +18,10 @@ I’m always open to collaborating with those who share similar research interes
 
 ## About Me
 <span id="about" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
-Greetings,😀! I'm Wenjing Gong, a first-year Ph.D. student in Urban and Regional Science at Texas A&M University, advised by Dr. Xinyue Ye. My research integrates <i style="color:#500000">Urban Analytics, Urban Planning, GIScience, and GeoAI</i> to address challenges in <i style="color:#500000">Climate Resilience, Human Mobility, and Public Health</i>.  
+Greetings,😀! I'm Wenjing Gong, a second-year Ph.D. student in Urban and Regional Science at Texas A&M University, co-advised by <a href="https://www.arch.tamu.edu/staff/lingqian-ivy-hu/" target="_blank">Dr. Lingqian Hu</a>. and <a href="https://geography.ua.edu/people/xinyue-ye/" target="_blank">Dr. Xinyue Ye</a>.. My research integrates <i style="color:#500000">Urban Analytics, Urban Planning, GIScience, and GeoAI</i> to address challenges in <i style="color:#500000">Climate Resilience, Human Mobility, and Public Health</i>.  
 
 Feel free to contact me via email at: wenjinggong@tamu.edu.  
-(Updated on 06/2025)
+(Updated on 08/2025)
 
 <!-- 
 ## News  
@@ -78,8 +78,6 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 
 *Selected Under Review Papers:*
 * **Gong, W.**, Ye, X., Wu, K., Jamonnak, S., Zhang, W., Yang, Y., Huang, X. Integrating Spatiotemporal Vision Transformer into Digital Twins for High-Resolution Heat Stress Forecasting in Campus Environments (Under revision in *Journal of Planning Education and Research*)
-* Ye, X., **Gong, W.**, Yang, Y., Zou, L., Tu, Z., Huang, X., Li, Z., Ning, H., Wu, L. Towards Agentic Urban Digital Twins (AUDiTs): Advancing New Urban Science through Human-Centric LLM Agents (Under review in *33rd ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems*)
-* Yang, Y., Zou, L., **Gong, W.**, Ye, X., Zhou, B., Wang, S. DisasterVLP: Perceiving Multidimensional Disaster Damages from Street-View Images Using Visual-Language Models (Under review in *33rd ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems*)
 * Rui, J., **Gong, W.** Paying lip service? An investigation into the spatial mismatch between younger and older adults’ streetscape perceptual preference and visitation behavior (Under review in *Cities*)
 * Rui, J., **Gong, W.**, Qin, L. A geo-embedded graph neural network framework for ride-hailing demand: Interpretable modeling of spatiotemporal dynamics driven by street contextual features (Under review in *Journal of Transport Geography*)
 * Rui, J., Shao, C., Hu, Z., **Gong, W.**, Li, X. Concerned with green scarcity or inequity? The impact of the quantity and equity of urban green space on green satisfaction and associated socioeconomic drivers (Under review in *Journal of Geographical Sciences*)
