@@ -86,7 +86,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 * **Gong, W.**, Ye, X., Yigitcanlar, T., Leung, R., Zheng, Z. Extreme Heat and Urban Systems: A Review of Interactions and AI-Enabled Systemic Resilience Pathways (Submitted)
 * Rui, J., **Gong, W.** Paying lip service? An investigation into the spatial mismatch between younger and older adults’ streetscape perceptual preference and visitation behavior (Submitted)
 * Rui, J., **Gong, W.**, Qin, L. A geo-embedded graph neural network framework for ride-hailing demand: Interpretable modeling of spatiotemporal dynamics driven by street contextual features (Submitted)
-* Rui, J., Shao, C., Hu, Z., **Gong, W.**, Li, X. Concerned with green scarcity or inequity? The impact of the quantity and equity of urban green space on green satisfaction and associated socioeconomic drivers (Under revision)
+* Rui, J., Shao, C., Hu, Z., **Gong, W.**, Li, X. Concerned with green scarcity or inequity? The impact of the quantity and equity of urban green space on green satisfaction and associated socioeconomic drivers (Submitted)
 
 
 
