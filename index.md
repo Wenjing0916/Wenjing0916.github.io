@@ -13,14 +13,17 @@ layout: homepage
 I'm a <a href="https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/" target="_blank"> Biostatistics</a> Ph.D. candidate at <a href="https://www.nyu.edu/" target="_blank"> New York University</a>'s <a href="https://med.nyu.edu/" target="_blank"> Grossman School of Medicine</a>, specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  
 working under the mentorship of Prof.<a href="https://med.nyu.edu/faculty/thaddeus-tarpey" target="_blank"> Thaddeus Tarpey</a>. My research involves developing statistical models that cater to high-dimensional complex data, such as functional and imaging data.
 I’m always open to collaborating with those who share similar research interests. Feel free to reach out via email—I’d be happy to connect and discuss further!  
+
+My research integrates <i style="color:black">Urban Analytics, Urban Planning, GIScience, and GeoAI</i> to address challenges in <i style="color:black">Climate Resilience, Human Mobility, and Public Health</i>.  
+
 -->
 
 
 ## About Me
 <span id="about" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
-Greetings,😀! I'm Wenjing Gong, a second-year Ph.D. student in Urban and Regional Science at Texas A&M University, co-advised by <a href="https://www.arch.tamu.edu/staff/lingqian-ivy-hu/" target="_blank">Dr. Lingqian Hu</a> and <a href="https://geography.ua.edu/people/xinyue-ye/" target="_blank">Dr. Xinyue Ye</a>. My research integrates <i style="color:black">Urban Analytics, Urban Planning, GIScience, and GeoAI</i> to address challenges in <i style="color:black">Climate Resilience, Human Mobility, and Public Health</i>.  
+Greetings,😀! I'm Wenjing Gong, a second-year Ph.D. student in Urban and Regional Science at Texas A&M University, co-advised by <a href="https://www.arch.tamu.edu/staff/lingqian-ivy-hu/" target="_blank">Dr. Lingqian Hu</a> and <a href="https://geography.ua.edu/people/xinyue-ye/" target="_blank">Dr. Xinyue Ye</a>. My research integrates Urban Analytics, Urban Planning, GIScience, and GeoAI to address challenges in Climate Resilience, Human Mobility, and Public Health.  
 
-Feel free to contact me via email at: wenjinggong@tamu.edu.  
+Feel free to contact me via email at: wenjinggong@tamu.edu. I’d be happy to connect!
 (Updated on 08/2025)
 
 <!-- 
