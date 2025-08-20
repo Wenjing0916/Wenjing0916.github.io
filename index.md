@@ -78,9 +78,10 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 
 *Selected Under Review Papers:*
 * **Gong, W.**, Ye, X., Wu, K., Jamonnak, S., Zhang, W., Yang, Y., Huang, X. Integrating Spatiotemporal Vision Transformer into Digital Twins for High-Resolution Heat Stress Forecasting in Campus Environments (Under revision in *Journal of Planning Education and Research*)
-* Rui, J., **Gong, W.** Paying lip service? An investigation into the spatial mismatch between younger and older adults’ streetscape perceptual preference and visitation behavior (Under review in *Cities*)
-* Rui, J., **Gong, W.**, Qin, L. A geo-embedded graph neural network framework for ride-hailing demand: Interpretable modeling of spatiotemporal dynamics driven by street contextual features (Under review in *Journal of Transport Geography*)
-* Rui, J., Shao, C., Hu, Z., **Gong, W.**, Li, X. Concerned with green scarcity or inequity? The impact of the quantity and equity of urban green space on green satisfaction and associated socioeconomic drivers (Under review in *Journal of Geographical Sciences*)
+* **Gong, W.**, Ye, X., Yigitcanlar, T., Leung, R., Zheng, Z. Extreme Heat and Urban Systems: A Review of Interactions and AI-Enabled Systemic Resilience Pathways (Submitted)
+* Rui, J., **Gong, W.** Paying lip service? An investigation into the spatial mismatch between younger and older adults’ streetscape perceptual preference and visitation behavior (Submitted)
+* Rui, J., **Gong, W.**, Qin, L. A geo-embedded graph neural network framework for ride-hailing demand: Interpretable modeling of spatiotemporal dynamics driven by street contextual features (Submitted)
+* Rui, J., Shao, C., Hu, Z., **Gong, W.**, Li, X. Concerned with green scarcity or inequity? The impact of the quantity and equity of urban green space on green satisfaction and associated socioeconomic drivers (Under revision)
 
 
 
