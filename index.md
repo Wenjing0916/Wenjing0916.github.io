@@ -112,7 +112,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 
 ## Awards & Honors
 <span id="awards" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
-* [2025] Travel Grant, Summer School on Cyberinfrastructure and Disaster Resilience, TAMU, $200.
+* [2025] Travel Grant, Summer School on Cyberinfrastructure and Disaster Resilience, TAMU (funded by NSF), $200.
 * [2025] Texas A&M Institute of Data Science (TAMIDS) Student Ambassador Scholarship, Domain Data Science Track (2025–2026 cohort), TAMU, $2,000.
 * [2025] Ashok K. Dutt Award for Best Graduate Student Paper (**1st place**), Regional Development and Planning Specialty Group, 2025 Annual Meeting of American Association of Geographers, $200.
 * [2025] UCGIS I-GUIDE 2024-2025 Community Champions Cohort (Student leader).
