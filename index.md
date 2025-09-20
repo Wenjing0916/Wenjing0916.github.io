@@ -86,6 +86,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 * **Gong, W.**, Huang, X., White, M., & Langenheim, N. (2023). <a href="https://doi.org/10.3390/land12071339" target="_blank">Walkability Perceptions and Gender Differences in Urban Fringe New Towns: A Case Study of Shanghai</a>. *Land*, 12(7), 1339.
 
 *Selected Under Review Papers:*
+<span id="publications" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * **Gong, W.**, Ye, X., Wu, K., Jamonnak, S., Zhang, W., Yang, Y., Huang, X. Integrating Spatiotemporal Vision Transformer into Digital Twins for High-Resolution Heat Stress Forecasting in Campus Environments (Minor revision in *Journal of Planning Education and Research*)
 * **Gong, W.**, Ye, X., Yigitcanlar, T., Leung, R., Zheng, Z. Extreme Heat and Urban Systems: A Review of Interactions and AI-Enabled Systemic Resilience Pathways (Submitted)
 * **Gong, W.**, Ye, X., Wu, L., Zhu, C., Song, Y. Revealing Park Visitation under Dual Environmental Threats in a Socially Stratified City: Evidence from Smartphone Mobility Data in Dallas (Submitted)
