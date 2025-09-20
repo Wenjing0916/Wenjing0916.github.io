@@ -147,7 +147,6 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 * Journal of Planning Education and Research
 * Applied Spatial Analysis and Policy
 * Computational Urban Science
-* Forum Geografi
 
 *Editorial Boards*
 <span id="services" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
