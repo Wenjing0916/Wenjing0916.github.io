@@ -134,7 +134,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 * [2018]	Bronze Award, Exhibition of Architectural Design in Developing Countries.
 * [2018]	Excellent Award, Shandong Province College Student Construction Design Competition.
 * [2017]	Excellence Award, China Architectural Education/TSINGRUN Award Students’ Paper Competition.
-* [2017]	Bronze Award, The 3rd Mainland, Taiwan and Hongkong Design Invitation Exhibition.
+* [2017]	Bronze Award, The 3rd Mainland, Taiwan and Hong Kong Design Invitation Exhibition.
 * [2017]	Second Prize, National Green Building Design Competition - Green Category.
 * [2016]	Excellent Award, National Green Building Knowledge Competition for Youth Students.
 * [2016]	Excellent Market Potential Award, Lion Award International Industrial Design Competition - 'Innovative Application Design Group: Industrial Robot Systems'.
