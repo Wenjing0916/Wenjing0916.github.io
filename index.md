@@ -76,7 +76,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 
 
 ## Peer-reviewed Publications
-* \*Denotes corresponding author.*
+\* *Denotes corresponding author.*
 <span id="publications" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * Ye, X., Li, S., **Gong, W.\***, Li, X., Li, X., Dadashova, B., Li, W., Du, J., & Wu, D. (2025). <a href="https://doi.org/10.1007/s12061-025-09653-7" target="_blank">Street View Imagery in Traffic Crash and Road Safety Analysis: A Review</a>. *Applied Spatial Analysis and Policy*, 18(2), 50. 
 * Ye, X., Yigitcanlar, T., Xu, Y., Head, M., Hang, Y., Sanchez, T., **Gong, W.**, & Niyogi, D. (2025). <a href="https://doi.org/10.1177/23998083251330940" target="_blank">Urban planning and IPCC-like city assessments integration for climate-resilient cities</a>. *Environment and Planning B*, 23998083251330940. 
