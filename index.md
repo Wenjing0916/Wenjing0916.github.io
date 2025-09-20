@@ -24,7 +24,7 @@ My research integrates <i style="color:black">Urban Analytics, Urban Planning, G
 Greetings,😀! I'm Wenjing Gong, a second-year Ph.D. student in Urban and Regional Science at Texas A&M University, co-advised by <a href="https://www.arch.tamu.edu/staff/lingqian-ivy-hu/" target="_blank">Dr. Lingqian Hu</a> and <a href="https://geography.ua.edu/people/xinyue-ye/" target="_blank">Dr. Xinyue Ye</a>. My research integrates Urban Analytics, Urban Planning, GIScience, and GeoAI to address challenges in Climate Resilience, Human Mobility, and Public Health.  
 
 Feel free to contact me via email at: wenjinggong@tamu.edu. I’d be happy to connect!  
-(Updated on 08/2025)
+(Updated on 09/2025)
 
 <!-- 
 ## News  
@@ -77,6 +77,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 
 ## Peer-reviewed Publications
 <span id="publications" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
+* Denotes corresponding author.
 * Ye, X., Li, S., **Gong, W.\***, Li, X., Li, X., Dadashova, B., Li, W., Du, J., & Wu, D. (2025). <a href="https://doi.org/10.1007/s12061-025-09653-7" target="_blank">Street View Imagery in Traffic Crash and Road Safety Analysis: A Review</a>. *Applied Spatial Analysis and Policy*, 18(2), 50. 
 * Ye, X., Yigitcanlar, T., Xu, Y., Head, M., Hang, Y., Sanchez, T., **Gong, W.**, & Niyogi, D. (2025). <a href="https://doi.org/10.1177/23998083251330940" target="_blank">Urban planning and IPCC-like city assessments integration for climate-resilient cities</a>. *Environment and Planning B*, 23998083251330940. 
 * Ye, X., Yigitcanlar, T., Goodchild, M., Huang, X., Li, W., Shaw, S.-L., Fu, Y., **Gong, W.**, & Newman, G. (2025). <a href="https://doi.org/10.1080/19475683.2025.2469110" target="_blank">Artificial intelligence in urban science: why does it matter?</a> *Annals of GIS*, 0(0), 1–9.
@@ -85,8 +86,10 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 * **Gong, W.**, Huang, X., White, M., & Langenheim, N. (2023). <a href="https://doi.org/10.3390/land12071339" target="_blank">Walkability Perceptions and Gender Differences in Urban Fringe New Towns: A Case Study of Shanghai</a>. *Land*, 12(7), 1339.
 
 *Selected Under Review Papers:*
-* **Gong, W.**, Ye, X., Wu, K., Jamonnak, S., Zhang, W., Yang, Y., Huang, X. Integrating Spatiotemporal Vision Transformer into Digital Twins for High-Resolution Heat Stress Forecasting in Campus Environments (Under revision in *Journal of Planning Education and Research*)
+* **Gong, W.**, Ye, X., Wu, K., Jamonnak, S., Zhang, W., Yang, Y., Huang, X. Integrating Spatiotemporal Vision Transformer into Digital Twins for High-Resolution Heat Stress Forecasting in Campus Environments (Minor revision in *Journal of Planning Education and Research*)
 * **Gong, W.**, Ye, X., Yigitcanlar, T., Leung, R., Zheng, Z. Extreme Heat and Urban Systems: A Review of Interactions and AI-Enabled Systemic Resilience Pathways (Submitted)
+* **Gong, W.**, Ye, X., Wu, L., Zhu, C., Song, Y. Revealing Park Visitation under Dual Environmental Threats in a Socially Stratified City: Evidence from Smartphone Mobility Data in Dallas (Submitted)
+* Ye, X., Zhao, K., **Gong, W.\***, Sui, D., Sanchez, T., Shaw, S., Fu, Y., Liu, H., Huang, X., Jiao, J. Mitigating the Environmental Impact of Generative AI for Sustainability (Submitted)
 * Rui, J., **Gong, W.** Paying lip service? An investigation into the spatial mismatch between younger and older adults’ streetscape perceptual preference and visitation behavior (Submitted)
 * Rui, J., **Gong, W.**, Qin, L. A geo-embedded graph neural network framework for ride-hailing demand: Interpretable modeling of spatiotemporal dynamics driven by street contextual features (Submitted)
 * Rui, J., Shao, C., Hu, Z., **Gong, W.**, Li, X. Concerned with green scarcity or inequity? The impact of the quantity and equity of urban green space on green satisfaction and associated socioeconomic drivers (Submitted)
@@ -109,6 +112,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 
 ## Awards & Honors
 <span id="awards" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
+* [2025] Travel Grant, Summer School on Cyberinfrastructure and Disaster Resilience, TAMU, $200.
 * [2025] Texas A&M Institute of Data Science (TAMIDS) Student Ambassador Scholarship, Domain Data Science Track (2025–2026 cohort), TAMU, $2,000.
 * [2025] Ashok K. Dutt Award for Best Graduate Student Paper (**1st place**), Regional Development and Planning Specialty Group, 2025 Annual Meeting of American Association of Geographers, $200.
 * [2025] UCGIS I-GUIDE 2024-2025 Community Champions Cohort (Student leader).
