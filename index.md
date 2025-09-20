@@ -161,6 +161,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 <span id="media" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 *	Throwing Shade at Heatwaves: Tracking campus “hot spots” could help students stay cool in the Texas heat. <a href="https://engineering.tamu.edu/news/2024/09/throwing-shade-at-heatwaves.html" target="_blank">[Link]</a>
 
+<!-- 
 ## Skills
 <span id="skills" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * **Programming:** Python (Data Processing, Visualization, and Analysis), SQL, HTML
@@ -168,6 +169,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 * **Spatial Data Analysis:** ArcGIS Pro, QGIS, Geoda, MGWR 2.2, Google Earth Engine
 * **Urban Climate Simulation:** SOLWEIG, Envi-met
 * **Design and Planning:** AutoCAD, SketchUp, Rhino, Photoshop, Illustrator, InDesign, Enscape, Lumion
+-->
 
 ------
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=d7d7d7&w=250&t=n&d=4UdtGSgGkd44K3rEOq5aS5MhEx9RLAhOIy1jzh1h2fM&co=ffffff&ct=808080&cmo=70a5d9&cmn=bc6356'></script>
