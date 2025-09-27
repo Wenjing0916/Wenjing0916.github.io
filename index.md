@@ -15,7 +15,7 @@ working under the mentorship of Prof.<a href="https://med.nyu.edu/faculty/thadde
 I’m always open to collaborating with those who share similar research interests. Feel free to reach out via email—I’d be happy to connect and discuss further!  
 
 My research integrates <i style="color:black">Urban Analytics, Urban Planning, GIScience, and GeoAI</i> to address challenges in <i style="color:black">Climate Resilience, Human Mobility, and Public Health</i>.  
-
+* <span style="color:#500000; font-weight:bold">Urban Analytics and Geospatial AI</span>: Advancing methods in spatiotemporal modeling and multimodal data fusion to enhance urban climate intelligence and data-driven decision support.  
 -->
 
 <span style="color:blue; font-weight:bold">Urban AI</span>
@@ -24,7 +24,7 @@ My research integrates <i style="color:black">Urban Analytics, Urban Planning, G
 Greetings,😀! I'm Wenjing Gong, a second-year Ph.D. student in Urban and Regional Science at Texas A&M University, co-advised by <a href="https://www.arch.tamu.edu/staff/lingqian-ivy-hu/" target="_blank">Dr. Lingqian Hu</a> and <a href="https://geography.ua.edu/people/xinyue-ye/" target="_blank">Dr. Xinyue Ye</a>.  
 
 My current research interests include:  
-* <span style="color:#500000; font-weight:bold">Urban Analytics and Geospatial AI</span>: Advancing methods in spatiotemporal modeling and multimodal data fusion to enhance urban climate intelligence and data-driven decision support.  
+* **Urban Analytics and Geospatial AI**: Advancing methods in spatiotemporal modeling and multimodal data fusion to enhance urban climate intelligence and data-driven decision support.  
 * **Human–Environment–Climate Nexus**: Investigating the coupled interactions of climate extremes, urban systems, and human behavior to foster sustainable, resilient, and healthy urban futures.  
 * **Urban Sensing and Visual Intelligence**: Harnessing social sensing, mobility records, and urban imagery to reveal urban dynamics and inform adaptive urban governance and policy.
 
