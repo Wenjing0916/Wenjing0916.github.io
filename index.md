@@ -21,7 +21,7 @@ My research integrates <i style="color:black">Urban Analytics, Urban Planning, G
 ## About Me
 <span id="about" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
 Greetings,😀! I'm Wenjing Gong, a second-year Ph.D. student in Urban and Regional Science at Texas A&M University, co-advised by <a href="https://www.arch.tamu.edu/staff/lingqian-ivy-hu/" target="_blank">Dr. Lingqian Hu</a> and <a href="https://geography.ua.edu/people/xinyue-ye/" target="_blank">Dr. Xinyue Ye</a>. My current research interests include:  
-* **Urban Analytics and Geospatial AI**: Advancing methods in spatiotemporal modeling and multimodal data fusion to enhance urban climate intelligence and data-driven decision support.  
+* **Urban Analytics and Geospatial AI**: Advancing methods in spatiotemporal modeling and multimodal data fusion to enhance urban climate assessment and data-driven decision support.  
 * **Human–Environment–Climate Nexus**: Investigating the coupled interactions of climate extremes, urban systems, and human behavior to foster sustainable, resilient, and healthy urban futures.  
 * **Social Sensing and Visual Intelligence**: Harnessing social sensing, mobility records, and urban imagery to reveal urban dynamics and inform adaptive urban governance and policy.
 
