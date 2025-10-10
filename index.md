@@ -26,7 +26,7 @@ Greetings,😀! I'm Wenjing Gong, a second-year Ph.D. student in Urban and Regio
 * **Social Sensing and Visual Intelligence**: Harnessing geospatial imagery, mobility data, and social media to reveal urban dynamics and inform urban planning and policy.
 
 Feel free to contact me via email or LinkedIn. I’d be happy to connect!
-(Updated on 09/2025)
+(Updated on 10/2025)
 
 <!-- 
 ## News  
@@ -34,6 +34,7 @@ Feel free to contact me via email or LinkedIn. I’d be happy to connect!
 -->
 <div style="max-height: 155px; overflow-y: auto; padding: 15px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); border-radius: 8px; background-color: #fafafa; font-size: 15px; line-height: 1.6;">
   <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
+  <li><strong>[Oct. 2025]</strong> 📝 My first-authored article was accepted for publication in the <em>Journal of Planning Education and Research (JPER)</em>, the flagship journal in planning.</li>
   <li><strong>[Jul. 2025]</strong> 👏 Honored to receive the Texas A&M Institute of Data Science (TAMIDS) Student Ambassador Scholarship.</li>
   <li><strong>[Jun. 2025]</strong> 🤝 Started serving as the <strong>Managing Editor</strong> for <em>Computational Urban Science</em> (IF: 3.2).</li>
   <li><strong>[Apr. 2025]</strong> 🗣️ Gave a talk on the Virtual Consulting Office for the <em>UCGIS I-GUIDE 2024–2025 Community Champions</em>.</li>
@@ -78,24 +79,28 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 
 
 ## Peer-reviewed Publications
-\* *Denotes corresponding author.*
+*Leading-authored Publications; \* denotes corresponding author.*
 <span id="publications" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
+* **Gong, W.**, Ye, X., Wu, K., Jamonnak, S., Zhang, W., Yang, Y., Huang, X. Integrating Spatiotemporal Vision Transformer into Digital Twins for High-Resolution Heat Stress Forecasting in Campus Environments (Accepted in *Journal of Planning Education and Research*)
 * Ye, X., Li, S., **Gong, W.\***, Li, X., Li, X., Dadashova, B., Li, W., Du, J., & Wu, D. (2025). <a href="https://doi.org/10.1007/s12061-025-09653-7" target="_blank">Street View Imagery in Traffic Crash and Road Safety Analysis: A Review</a>. *Applied Spatial Analysis and Policy*, 18(2), 50. 
-* Ye, X., Yigitcanlar, T., Xu, Y., Head, M., Hang, Y., Sanchez, T., **Gong, W.**, & Niyogi, D. (2025). <a href="https://doi.org/10.1177/23998083251330940" target="_blank">Urban planning and IPCC-like city assessments integration for climate-resilient cities</a>. *Environment and Planning B*, 23998083251330940. 
-* Ye, X., Yigitcanlar, T., Goodchild, M., Huang, X., Li, W., Shaw, S.-L., Fu, Y., **Gong, W.**, & Newman, G. (2025). <a href="https://doi.org/10.1080/19475683.2025.2469110" target="_blank">Artificial intelligence in urban science: why does it matter?</a> *Annals of GIS*, 0(0), 1–9.
 * **Gong, W.**, Lee, C.S., Li, S., Adkison, D., Li, N., Wu, L., & Ye, X. (2025). <a href="https://doi.org/10.1080/0735648X.2024.2448804" target="_blank">Cyber victimization in hybrid space: an analysis of employment scams using natural language processing and machine learning models</a>. *Journal of Crime and Justice*, 1–22.
 * **Gong, W.**, Rui, J., & Li, T. (2024). <a href="https://doi.org/10.1016/j.jtrangeo.2024.103799" target="_blank">Deciphering Urban Bike-Sharing Patterns: An In-depth Analysis of Natural Environment and Visual Quality in New York's Citi Bike System</a>. *Journal of Transport Geography*, 115, 103799.
 * **Gong, W.**, Huang, X., White, M., & Langenheim, N. (2023). <a href="https://doi.org/10.3390/land12071339" target="_blank">Walkability Perceptions and Gender Differences in Urban Fringe New Towns: A Case Study of Shanghai</a>. *Land*, 12(7), 1339.
 
-*Selected Under Review Papers:*
+
+*Co-authored Publications*
 <span id="publications" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
-* **Gong, W.**, Ye, X., Wu, K., Jamonnak, S., Zhang, W., Yang, Y., Huang, X. Integrating Spatiotemporal Vision Transformer into Digital Twins for High-Resolution Heat Stress Forecasting in Campus Environments (Minor revision in *Journal of Planning Education and Research*)
+* Rui, J., Shao, C., Hu, Z., **Gong, W.**, Li, X. Prioritizing Scarcity or Equity? Quantifying Socioeconomic Synergies in Urban Green Satisfaction through Interpretable Geographical Machine Learning (Accepted in *Journal of Geographical Sciences*)
+* Ye, X., Yigitcanlar, T., Xu, Y., Head, M., Hang, Y., Sanchez, T., **Gong, W.**, & Niyogi, D. (2025). <a href="https://doi.org/10.1177/23998083251330940" target="_blank">Urban planning and IPCC-like city assessments integration for climate-resilient cities</a>. *Environment and Planning B*, 23998083251330940. 
+* Ye, X., Yigitcanlar, T., Goodchild, M., Huang, X., Li, W., Shaw, S.-L., Fu, Y., **Gong, W.**, & Newman, G. (2025). <a href="https://doi.org/10.1080/19475683.2025.2469110" target="_blank">Artificial intelligence in urban science: why does it matter?</a> *Annals of GIS*, 0(0), 1–9.
+
+
+*Selected Papers Under Review*
+<span id="publications" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * **Gong, W.**, Ye, X., Yigitcanlar, T., Leung, R., Zheng, Z. Extreme Heat and Urban Systems: A Review of Interactions and AI-Enabled Systemic Resilience Pathways (Submitted)
 * **Gong, W.**, Ye, X., Wu, L., Zhu, C., Song, Y. Revealing Park Visitation under Dual Environmental Threats in a Socially Stratified City: Evidence from Smartphone Mobility Data in Dallas (Submitted)
 * Rui, J., **Gong, W.** Paying lip service? An investigation into the spatial mismatch between younger and older adults’ streetscape perceptual preference and visitation behavior (Submitted)
 * Rui, J., **Gong, W.**, Qin, L. A geo-embedded graph neural network framework for ride-hailing demand: Interpretable modeling of spatiotemporal dynamics driven by street contextual features (Submitted)
-* Rui, J., Shao, C., Hu, Z., **Gong, W.**, Li, X. Concerned with green scarcity or inequity? The impact of the quantity and equity of urban green space on green satisfaction and associated socioeconomic drivers (Submitted)
-
 
 
 ## Presentations
