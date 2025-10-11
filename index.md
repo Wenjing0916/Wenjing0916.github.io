@@ -16,6 +16,8 @@ I’m always open to collaborating with those who share similar research interes
 
 My research integrates <i style="color:black">Urban Analytics, Urban Planning, GIScience, and GeoAI</i> to address challenges in <i style="color:black">Climate Resilience, Human Mobility, and Public Health</i>.  
 * <span style="color:#500000; font-weight:bold">Urban Analytics and Geospatial AI</span>: Advancing methods in spatiotemporal modeling and multimodal data fusion to enhance urban climate intelligence and data-driven decision support.  
+
+*Leading-authored Publications; \* denotes corresponding author.*
 -->
 
 ## About Me
@@ -79,21 +81,13 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 
 
 ## Peer-reviewed Publications
-*Leading-authored Publications; \* denotes corresponding author.*
+*See Google Scholar for my full list of publications.*
 <span id="publications" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * **Gong, W.**, Ye, X., Wu, K., Jamonnak, S., Zhang, W., Yang, Y., Huang, X. Integrating Spatiotemporal Vision Transformer into Digital Twins for High-Resolution Heat Stress Forecasting in Campus Environments (Accepted in *Journal of Planning Education and Research*)
-* Ye, X., Li, S., **Gong, W.\***, Li, X., Li, X., Dadashova, B., Li, W., Du, J., & Wu, D. (2025). <a href="https://doi.org/10.1007/s12061-025-09653-7" target="_blank">Street View Imagery in Traffic Crash and Road Safety Analysis: A Review</a>. *Applied Spatial Analysis and Policy*, 18(2), 50. 
-* **Gong, W.**, Lee, C.S., Li, S., Adkison, D., Li, N., Wu, L., & Ye, X. (2025). <a href="https://doi.org/10.1080/0735648X.2024.2448804" target="_blank">Cyber victimization in hybrid space: an analysis of employment scams using natural language processing and machine learning models</a>. *Journal of Crime and Justice*, 1–22.
-* **Gong, W.**, Rui, J., & Li, T. (2024). <a href="https://doi.org/10.1016/j.jtrangeo.2024.103799" target="_blank">Deciphering Urban Bike-Sharing Patterns: An In-depth Analysis of Natural Environment and Visual Quality in New York's Citi Bike System</a>. *Journal of Transport Geography*, 115, 103799.
-* **Gong, W.**, Huang, X., White, M., & Langenheim, N. (2023). <a href="https://doi.org/10.3390/land12071339" target="_blank">Walkability Perceptions and Gender Differences in Urban Fringe New Towns: A Case Study of Shanghai</a>. *Land*, 12(7), 1339.
-
-
-*Co-authored Publications*
-<span id="publications" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
-* Rui, J., Shao, C., Hu, Z., **Gong, W.**, Li, X. Prioritizing Scarcity or Equity? Quantifying Socioeconomic Synergies in Urban Green Satisfaction through Interpretable Geographical Machine Learning (Accepted in *Journal of Geographical Sciences*)
 * Ye, X., Yigitcanlar, T., Xu, Y., Head, M., Hang, Y., Sanchez, T., **Gong, W.**, & Niyogi, D. (2025). <a href="https://doi.org/10.1177/23998083251330940" target="_blank">Urban planning and IPCC-like city assessments integration for climate-resilient cities</a>. *Environment and Planning B*, 23998083251330940. 
 * Ye, X., Yigitcanlar, T., Goodchild, M., Huang, X., Li, W., Shaw, S.-L., Fu, Y., **Gong, W.**, & Newman, G. (2025). <a href="https://doi.org/10.1080/19475683.2025.2469110" target="_blank">Artificial intelligence in urban science: why does it matter?</a> *Annals of GIS*, 0(0), 1–9.
-
+* **Gong, W.**, Rui, J., & Li, T. (2024). <a href="https://doi.org/10.1016/j.jtrangeo.2024.103799" target="_blank">Deciphering Urban Bike-Sharing Patterns: An In-depth Analysis of Natural Environment and Visual Quality in New York's Citi Bike System</a>. *Journal of Transport Geography*, 115, 103799.
+* **Gong, W.**, Huang, X., White, M., & Langenheim, N. (2023). <a href="https://doi.org/10.3390/land12071339" target="_blank">Walkability Perceptions and Gender Differences in Urban Fringe New Towns: A Case Study of Shanghai</a>. *Land*, 12(7), 1339.
 
 *Selected Papers Under Review*
 <span id="publications" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
@@ -118,32 +112,20 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 
 
 ## Awards & Honors
+*See my CV for the full list of awards and honors.*
 <span id="awards" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * [2025] Travel Grant, Summer School on Cyberinfrastructure and Disaster Resilience, TAMU (funded by NSF), $200.
 * [2025] Texas A&M Institute of Data Science (TAMIDS) Student Ambassador Scholarship, Domain Data Science Track (2025–2026 cohort), TAMU, $2,000.
 * [2025] Ashok K. Dutt Award for Best Graduate Student Paper (**1st place**), Regional Development and Planning Specialty Group, 2025 Annual Meeting of American Association of Geographers, $200.
 * [2025] UCGIS I-GUIDE 2024-2025 Community Champions Cohort (Student leader).
 * [2025] Travel Grant, LAUP Department, TAMU, $600.
-* [2024 - 2028]	Research Assistantship covering stipend and tuition, Center for Geospatial Sciences, Applications and Technology, TAMU.
 * [2019 - 2022]	Academic Scholarship covering all tuition fees, TJU.
 * [2014 - 2019]	First-class Scholarships in academic performance (5%, **8 times**), SDUST.
 * [2014 - 2019]	First-class Corporate Scholarships (5%, **2 times**), SDUST.
 * [2014 - 2019]	"Outstanding Student Pioneer" (5%, **3 times**), SDUST.
 * [2019]	"Outstanding Graduate" of Shandong Province (5%).
 * [2019]	"Outstanding Student" in Science, Technology, and Innovation (5%), SDUST.
-* [2018]	Gold Award, SINO-JAPAN Art & Design Exchange Exhibition.
-* [2018]	National Best Leader Award, National Green Building Design Competition.
-* [2018]	Grand Prize, National Green Building Design Competition - Deep Green Category.
-* [2018]	First Prize, The Fourth Academy Award National Art and Design Exhibition.
-* [2018]	Gold Award, Chinese Creative Design Annual 2016/2017.
-* [2018]	Silver Award, The Third Bauhaus Award International Design Competition.
-* [2018]	Bronze Award, Exhibition of Architectural Design in Developing Countries.
-* [2018]	Excellent Award, Shandong Province College Student Construction Design Competition.
-* [2017]	Excellence Award, China Architectural Education/TSINGRUN Award Students’ Paper Competition.
-* [2017]	Bronze Award, The 3rd Mainland, Taiwan and Hong Kong Design Invitation Exhibition.
-* [2017]	Second Prize, National Green Building Design Competition - Green Category.
-* [2016]	Excellent Award, National Green Building Knowledge Competition for Youth Students.
-* [2016]	Excellent Market Potential Award, Lion Award International Industrial Design Competition - 'Innovative Application Design Group: Industrial Robot Systems'.
+
 
 ## Services
 *Invited Reviewer*
