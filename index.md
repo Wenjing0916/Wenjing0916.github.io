@@ -126,8 +126,8 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 ## Teaching Experience
 *Teaching Assistant*
 <span id="teaching" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
-* 2025 Fall	PLAN626: Advanced GIS, Texas A&M University, College Station, USA
-* 2020 Fall	Design Studio III (Urban Planning), Tongji University, Shanghai, China
+* [2025 Fall]	PLAN626: Advanced GIS, Texas A&M University, College Station, USA
+* [2020 Fall]	Design Studio III (Urban Planning), Tongji University, Shanghai, China
 
 
 ## Services
