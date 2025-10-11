@@ -77,7 +77,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 
 
 ## Peer-reviewed Publications
-*See Google Scholar for my full list of publications.*
+*See Google Scholar/my CV for the full list of publications.*
 <span id="publications" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * **Gong, W.**, Ye, X., Wu, K., Jamonnak, S., Zhang, W., Yang, Y., Huang, X. Integrating Spatiotemporal Vision Transformer into Digital Twins for High-Resolution Heat Stress Forecasting in Campus Environments (Accepted in *Journal of Planning Education and Research*)
 * Ye, X., Yigitcanlar, T., Xu, Y., Head, M., Hang, Y., Sanchez, T., **Gong, W.**, & Niyogi, D. (2025). <a href="https://doi.org/10.1177/23998083251330940" target="_blank">Urban planning and IPCC-like city assessments integration for climate-resilient cities</a>. *Environment and Planning B*, 23998083251330940. 
