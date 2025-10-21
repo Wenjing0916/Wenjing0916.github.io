@@ -113,7 +113,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 * [2025] Travel Grant, Summer School on Cyberinfrastructure and Disaster Resilience, TAMU (funded by NSF), $200.
 * [2025] Texas A&M Institute of Data Science (TAMIDS) Student Ambassador Scholarship, Domain Data Science Track (2025–2026 cohort), TAMU, $2,000.
 * [2025] Ashok K. Dutt Award for Best Graduate Student Paper (**1st place**), Regional Development and Planning Specialty Group, 2025 Annual Meeting of American Association of Geographers, $200.
-* [2025] UCGIS I-GUIDE 2024-2025 Community Champions Cohort (Student leader).
+* [2025] UCGIS I-GUIDE 2024–2025 Community Champions, $3,000 (Student leader; project under Dr. Xinyue Ye).
 * [2025] Travel Grant, LAUP Department, TAMU, $600.
 * [2019 - 2022]	Academic Scholarship covering all tuition fees, TJU.
 * [2014 - 2019]	First-class Scholarships in academic performance (5%, **8 times**), SDUST.
