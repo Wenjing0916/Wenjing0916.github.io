@@ -28,7 +28,7 @@ Greetings,😀! I'm Wenjing Gong, a second-year Ph.D. student in Urban and Regio
 * **Social Sensing and Visual Intelligence**: Harnessing geospatial imagery, mobility data, and social media to reveal urban dynamics and inform urban planning and policy.
 
 Feel free to contact me via email or LinkedIn. I’d be happy to connect!
-(Updated on 10/2025)
+(Updated on 12/2025)
 
 <!-- 
 ## News  
@@ -76,21 +76,24 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 <i style="color:#500000">Architecture Design & Research Institute of Tongji University, Shanghai, China</i>  
 
 
-## Peer-reviewed Publications
+## Publications
 *See Google Scholar/my CV for the full list of publications.*
 <span id="publications" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
-* **Gong, W.**, Ye, X., Wu, K., Jamonnak, S., Zhang, W., Yang, Y., Huang, X. Integrating Spatiotemporal Vision Transformer into Digital Twins for High-Resolution Heat Stress Forecasting in Campus Environments (Accepted in *Journal of Planning Education and Research*)
+<!-- Projects Section -->
+{% include_relative _includes/projects.md %}
+
+<!-- * **Gong, W.**, Ye, X., Wu, K., Jamonnak, S., Zhang, W., Yang, Y., Huang, X. Integrating Spatiotemporal Vision Transformer into Digital Twins for High-Resolution Heat Stress Forecasting in Campus Environments (Accepted in *Journal of Planning Education and Research*)
 * Ye, X., Yigitcanlar, T., Xu, Y., Head, M., Hang, Y., Sanchez, T., **Gong, W.**, & Niyogi, D. (2025). <a href="https://doi.org/10.1177/23998083251330940" target="_blank">Urban planning and IPCC-like city assessments integration for climate-resilient cities</a>. *Environment and Planning B*, 23998083251330940. 
 * Ye, X., Yigitcanlar, T., Goodchild, M., Huang, X., Li, W., Shaw, S.-L., Fu, Y., **Gong, W.**, & Newman, G. (2025). <a href="https://doi.org/10.1080/19475683.2025.2469110" target="_blank">Artificial intelligence in urban science: why does it matter?</a> *Annals of GIS*, 0(0), 1–9.
 * **Gong, W.**, Rui, J., & Li, T. (2024). <a href="https://doi.org/10.1016/j.jtrangeo.2024.103799" target="_blank">Deciphering Urban Bike-Sharing Patterns: An In-depth Analysis of Natural Environment and Visual Quality in New York's Citi Bike System</a>. *Journal of Transport Geography*, 115, 103799.
-* **Gong, W.**, Huang, X., White, M., & Langenheim, N. (2023). <a href="https://doi.org/10.3390/land12071339" target="_blank">Walkability Perceptions and Gender Differences in Urban Fringe New Towns: A Case Study of Shanghai</a>. *Land*, 12(7), 1339.
+* **Gong, W.**, Huang, X., White, M., & Langenheim, N. (2023). <a href="https://doi.org/10.3390/land12071339" target="_blank">Walkability Perceptions and Gender Differences in Urban Fringe New Towns: A Case Study of Shanghai</a>. *Land*, 12(7), 1339. -->
 
-*Selected Papers Under Review*
+<!-- *Selected Papers Under Review*
 <span id="publications" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * **Gong, W.**, Ye, X., Yigitcanlar, T., Leung, R., Zheng, Z. Extreme Heat and Urban Systems: A Review of Interactions and AI-Enabled Systemic Resilience Pathways (Submitted)
 * **Gong, W.**, Ye, X., Wu, L., Zhu, C., Song, Y. Revealing Park Visitation under Dual Environmental Threats in a Socially Stratified City: Evidence from Smartphone Mobility Data in Dallas (Submitted)
 * Rui, J., **Gong, W.** Paying lip service? An investigation into the spatial mismatch between younger and older adults’ streetscape perceptual preference and visitation behavior (Submitted)
-* Rui, J., **Gong, W.**, Qin, L. A geo-embedded graph neural network framework for ride-hailing demand: Interpretable modeling of spatiotemporal dynamics driven by street contextual features (Submitted)
+* Rui, J., **Gong, W.**, Qin, L. A geo-embedded graph neural network framework for ride-hailing demand: Interpretable modeling of spatiotemporal dynamics driven by street contextual features (Submitted) -->
 
 
 ## Presentations
