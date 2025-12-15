@@ -36,7 +36,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://americanhealth.jhu.edu/open-case-studies" target="_blank">Integrating Spatiotemporal Vision Transformer into Digital Twins for High-Resolution Heat Stress Forecasting in Campus Environments</a></div>
+    <div class="title"><a href="https://doi.org/10.1177/0739456X251391121" target="_blank">Integrating Spatiotemporal Vision Transformer into Digital Twins for High-Resolution Heat Stress Forecasting in Campus Environments</a></div>
     <div class="author"><strong>Wenjing Gong</strong>, Xinyue Ye, Keshu Wu, Suphanut Jamonnak, Wenyu Zhang, Yifan Yang, Xiao Huang</div>
     <div class="periodical"><em>Journal of Planning Education and Research</em></div>
     <div class="links">
