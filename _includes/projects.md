@@ -31,7 +31,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/JPER2025.tif" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/JPER2025.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">JPER</abbr>
   </div>
 
@@ -52,14 +52,14 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/JTG2024.tiff" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/JTG2024.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">JTG</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.1016/j.jtrangeo.2024.103799" target="_blank">Deciphering urban bike-sharing patterns: An in-depth analysis of natural environment and visual quality in New York's Citi bike system</a></div>
     <div class="author"><strong>Wenjing Gong</strong>, Jin Rui, Tianyu Li</div>
-    <div class="periodical">Journal of Transport Geography<em></em></div>
+    <div class="periodical">Journal of Transport Geography</em></div>
     <div class="links">
       <a href="assets/files/JTG2024.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
@@ -80,7 +80,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.1080/19475683.2025.2469110" target="_blank">Artificial intelligence in urban science: why does it matter?</a></div>
     <div class="author">Xinyue Ye, Tan Yigitcanlar, Michael Goodchild, Xiao Huang, Wenwen Li, Shih-Lung Shaw, Yanjie Fu, <strong>Wenjing Gong</strong>, Galen Newman</div>
-    <div class="periodical">Annals of GIS<em></em></div>
+    <div class="periodical">Annals of GIS</em></div>
     <div class="links">
       <a href="assets/files/Ann. GIS2025.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
@@ -101,7 +101,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.1177/23998083251330940" target="_blank">Urban planning and IPCC-like city assessments integration for climate-resilient cities</a></div>
     <div class="author">Xinyue Ye, Tan Yigitcanlar, Yangyang Xu, Monique Head, Yun Hang, Tom Sanchez, <strong>Wenjing Gong</strong>, Dev Niyogi</div>
-    <div class="periodical">Environment and Planning B: Urban Analytics and City Science<em></em></div>
+    <div class="periodical">Environment and Planning B: Urban Analytics and City Science</em></div>
     <div class="links">
       <a href="assets/files/EPB2025.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
