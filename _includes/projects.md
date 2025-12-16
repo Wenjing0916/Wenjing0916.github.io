@@ -73,20 +73,21 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/Ann. GIS2025.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Ann. GIS</abbr>
+    <img src="assets/img/Cities2025.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Cities</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://doi.org/10.1080/19475683.2025.2469110" target="_blank">Artificial intelligence in urban science: why does it matter?</a></div>
-    <div class="author">Xinyue Ye, Tan Yigitcanlar, Michael Goodchild, Xiao Huang, Wenwen Li, Shih-Lung Shaw, Yanjie Fu, <strong>Wenjing Gong</strong>, Galen Newman</div>
-    <div class="periodical"><em>Annals of GIS</em>, Feb. 2025</div>
+    <div class="title"><a href="https://doi.org/10.1016/j.cities.2025.106750" target="_blank">Paying lip service? An investigation into the spatial mismatch between younger and older adults' streetscape perceptual preference and visitation behavior</a></div>
+    <div class="author">Jin Rui, <strong>Wenjing Gong</strong></div>
+    <div class="periodical"><em>Cities</em>, Dec. 2025</div>
     <div class="links">
-      <a href="assets/files/Ann. GIS2025.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="assets/files/Cities2025.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
 </li>
+
 
 
 
@@ -108,6 +109,30 @@
   </div>
 </div>
 </li>
+
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/Ann. GIS2025.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Ann. GIS</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://doi.org/10.1080/19475683.2025.2469110" target="_blank">Artificial intelligence in urban science: why does it matter?</a></div>
+    <div class="author">Xinyue Ye, Tan Yigitcanlar, Michael Goodchild, Xiao Huang, Wenwen Li, Shih-Lung Shaw, Yanjie Fu, <strong>Wenjing Gong</strong>, Galen Newman</div>
+    <div class="periodical"><em>Annals of GIS</em>, Feb. 2025</div>
+    <div class="links">
+      <a href="assets/files/Ann. GIS2025.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+
 
 <br>
 
