@@ -28,7 +28,7 @@ Greetings,😀! I'm Wenjing Gong, a second-year Ph.D. student in Urban and Regio
 * **Social Sensing and Visual Intelligence**: Harnessing geospatial imagery, mobility data, and social media to reveal urban dynamics and inform urban planning and policy.
 
 Feel free to contact me via email or LinkedIn. I’d be happy to connect!
-(Updated on 12/2025)
+(Updated on 01/2026)
 
 <!-- 
 ## News  
@@ -36,7 +36,8 @@ Feel free to contact me via email or LinkedIn. I’d be happy to connect!
 -->
 <div style="max-height: 155px; overflow-y: auto; padding: 15px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); border-radius: 8px; background-color: #fafafa; font-size: 15px; line-height: 1.6;">
   <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
-  <li><strong>[Oct. 2025]</strong> 📝 My first-authored article was accepted for publication in the <em>Journal of Planning Education and Research (JPER)</em>, the flagship journal in planning.</li>
+  <li><strong>[Jan. 2026]</strong> 📝 My first-authored article was published in <em>Urban Forestry & Urban Greening</em>.</li>
+  <li><strong>[Oct. 2025]</strong> 📝 My first-authored article was accepted for publication in <em>Journal of Planning Education and Research (JPER)</em>, the flagship journal in planning.</li>
   <li><strong>[Jul. 2025]</strong> 👏 Honored to receive the Texas A&M Institute of Data Science (TAMIDS) Student Ambassador Scholarship.</li>
   <li><strong>[Jun. 2025]</strong> 🤝 Started serving as the <strong>Managing Editor</strong> for <em>Computational Urban Science</em> (IF: 3.2).</li>
   <li><strong>[Apr. 2025]</strong> 🗣️ Gave a talk on the Virtual Consulting Office for the <em>UCGIS I-GUIDE 2024–2025 Community Champions</em>.</li>
@@ -51,7 +52,7 @@ Feel free to contact me via email or LinkedIn. I’d be happy to connect!
 
 ## Education
 <span id="education" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
-**[2024-] Ph.D. Student, Urban and Regional Science**  
+**[2024-pres.] Ph.D. Student, Urban and Regional Science**  
 <i style="color:#500000">Texas A&M University, College Station, USA</i>  
 Advisor: Dr. Lingqian Hu and Dr. Xinyue Ye  
 **[2019-2022] M.E., Architecture (Urban Study)**  
@@ -137,6 +138,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 *Invited Reviewer*
 <span id="services" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * International Journal of Geographical Information Science
+* Sustainable Cities and Society
 * Journal of Transport Geography
 * Journal of Planning Education and Research
 * Applied Spatial Analysis and Policy
