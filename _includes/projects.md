@@ -37,7 +37,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.1016/j.ufug.2026.129264" target="_blank">Revealing park visitation under dual environmental threats in a socially stratified city: Evidence from smartphone mobility data in Dallas</a></div>
     <div class="author"><strong>Wenjing Gong</strong>, Ling Wu, Chunwu Zhu, Yang Song, Xinyue Ye</div>
-    <div class="periodical"><em>Urban Forestry & Urban Greening</em>, Mar. 2026</div>
+    <div class="periodical"><em>Urban Forestry & Urban Greening</em>, Jan. 2026</div>
     <div class="links">
       <a href="assets/files/UFUG2026.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
