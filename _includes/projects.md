@@ -26,6 +26,7 @@
 </div>
 </li> -->
 
+
 <li>
 <div class="pub-row">
 
@@ -65,6 +66,27 @@
   </div>
 </div>
 </li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/EIAR2026.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">EIAR</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://doi.org/10.1016/j.eiar.2026.108363" target="_blank">Artificial intelligence applications in urban extreme heat management: A systematic review of forecasting, monitoring, mitigation and decision support</a></div>
+    <div class="author">Jin Rui, Zahratu Shabrina, <strong>Wenjing Gong*</strong></div>
+    <div class="periodical"><em>Environmental Impact Assessment Review</em>, Jan. 2026</div>
+    <div class="links">
+      <a href="assets/files/EIAR2026.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
 
 
 
