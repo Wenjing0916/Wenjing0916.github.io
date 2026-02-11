@@ -23,12 +23,12 @@ My research integrates <i style="color:black">Urban Analytics, Urban Planning, G
 ## About Me
 <span id="about" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
 Greetings,😀! I'm Wenjing Gong, a second-year Ph.D. student in Urban and Regional Science at Texas A&M University, co-advised by <a href="https://www.arch.tamu.edu/staff/lingqian-ivy-hu/" target="_blank">Dr. Lingqian Hu</a> and <a href="https://geography.ua.edu/people/xinyue-ye/" target="_blank">Dr. Xinyue Ye</a>. My current research interests include:  
-* **Urban Analytics and Geospatial AI**: Advancing methods in multimodal data fusion and AI-driven analytics to enhance urban extreme weather and environmental risk assessment and modeling.
+* **Urban Analytics and Geospatial AI**: Advancing methods in multimodal data fusion and AI-driven analytics to enhance urban climate and environmental risk assessment and modeling.
 * **Human–Environment–Climate Nexus**: Investigating the coupled interactions of climate extremes, urban systems, and human behavior to foster sustainable, resilient, and healthy urban futures.  
 * **Social Sensing and Visual Intelligence**: Harnessing geospatial imagery, mobility data, and social media to reveal urban dynamics and inform urban planning and policy.
 
 Feel free to contact me via email or LinkedIn. I’d be happy to connect!
-(Updated on 01/2026)
+(Updated on 02/2026)
 
 <!-- 
 ## News  
@@ -36,12 +36,13 @@ Feel free to contact me via email or LinkedIn. I’d be happy to connect!
 -->
 <div style="max-height: 155px; overflow-y: auto; padding: 15px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); border-radius: 8px; background-color: #fafafa; font-size: 15px; line-height: 1.6;">
   <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
+  <li><strong>[Feb. 2026]</strong> 👏 Honored to receive the <strong>Applied Geography Specialty Group Annual Meeting Award</strong> from <em>AAG 2026</em>.</li>
   <li><strong>[Jan. 2026]</strong> 📝 My first-authored article was published in <em>Urban Forestry & Urban Greening</em>.</li>
   <li><strong>[Oct. 2025]</strong> 📝 My first-authored article was accepted for publication in <em>Journal of Planning Education and Research (JPER)</em>, the flagship journal in planning.</li>
   <li><strong>[Jul. 2025]</strong> 👏 Honored to receive the Texas A&M Institute of Data Science (TAMIDS) Student Ambassador Scholarship.</li>
   <li><strong>[Jun. 2025]</strong> 🤝 Started serving as the <strong>Managing Editor</strong> for <em>Computational Urban Science</em> (IF: 3.2).</li>
   <li><strong>[Apr. 2025]</strong> 🗣️ Gave a talk on the Virtual Consulting Office for the <em>UCGIS I-GUIDE 2024–2025 Community Champions</em>.</li>
-  <li><strong>[Mar. 2025]</strong> 🏆 Received the <strong>Ashok K. Dutt Award for Best Graduate Student Paper (1st place)</strong> from the <em>Regional Development and Planning Specialty Group</em> at <em>AAG 2025</em>.</li>
+  <li><strong>[Mar. 2025]</strong> 🏆 Honored to receive the <strong>Ashok K. Dutt Award for Best Graduate Student Paper (1st place)</strong> from the <em>Regional Development and Planning Specialty Group</em> at <em>AAG 2025</em>.</li>
   <li><strong>[Mar. 2025]</strong> 👏 Chaired and organized the <em>Symposium on Human Dynamics Research: Urban Environmental Intelligence and Human–Climate Interactions</em> at <em>AAG 2025</em>.</li>
   <li><strong>[Nov. 2024]</strong> 🗣️ Gave an oral presentation at the <em>2024 Texas Weather Conference</em>.</li>
   <li><strong>[Oct. 2024]</strong> 🗣️ Presented a poster at the <em>College of Architecture's 26th Annual Showcase</em>, Texas A&M University.</li>
@@ -78,28 +79,16 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 
 
 ## Publications
-*See Google Scholar/my CV for the full list of publications.*
+*See Google Scholar for the full list of publications.*
 <span id="publications" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 <!-- Projects Section -->
 {% include_relative _includes/projects.md %}
-
-<!-- * **Gong, W.**, Ye, X., Wu, K., Jamonnak, S., Zhang, W., Yang, Y., Huang, X. Integrating Spatiotemporal Vision Transformer into Digital Twins for High-Resolution Heat Stress Forecasting in Campus Environments (Accepted in *Journal of Planning Education and Research*)
-* Ye, X., Yigitcanlar, T., Xu, Y., Head, M., Hang, Y., Sanchez, T., **Gong, W.**, & Niyogi, D. (2025). <a href="https://doi.org/10.1177/23998083251330940" target="_blank">Urban planning and IPCC-like city assessments integration for climate-resilient cities</a>. *Environment and Planning B*, 23998083251330940. 
-* Ye, X., Yigitcanlar, T., Goodchild, M., Huang, X., Li, W., Shaw, S.-L., Fu, Y., **Gong, W.**, & Newman, G. (2025). <a href="https://doi.org/10.1080/19475683.2025.2469110" target="_blank">Artificial intelligence in urban science: why does it matter?</a> *Annals of GIS*, 0(0), 1–9.
-* **Gong, W.**, Rui, J., & Li, T. (2024). <a href="https://doi.org/10.1016/j.jtrangeo.2024.103799" target="_blank">Deciphering Urban Bike-Sharing Patterns: An In-depth Analysis of Natural Environment and Visual Quality in New York's Citi Bike System</a>. *Journal of Transport Geography*, 115, 103799.
-* **Gong, W.**, Huang, X., White, M., & Langenheim, N. (2023). <a href="https://doi.org/10.3390/land12071339" target="_blank">Walkability Perceptions and Gender Differences in Urban Fringe New Towns: A Case Study of Shanghai</a>. *Land*, 12(7), 1339. -->
-
-<!-- *Selected Papers Under Review*
-<span id="publications" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
-* **Gong, W.**, Ye, X., Yigitcanlar, T., Leung, R., Zheng, Z. Extreme Heat and Urban Systems: A Review of Interactions and AI-Enabled Systemic Resilience Pathways (Submitted)
-* **Gong, W.**, Ye, X., Wu, L., Zhu, C., Song, Y. Revealing Park Visitation under Dual Environmental Threats in a Socially Stratified City: Evidence from Smartphone Mobility Data in Dallas (Submitted)
-* Rui, J., **Gong, W.** Paying lip service? An investigation into the spatial mismatch between younger and older adults’ streetscape perceptual preference and visitation behavior (Submitted)
-* Rui, J., **Gong, W.**, Qin, L. A geo-embedded graph neural network framework for ride-hailing demand: Interpretable modeling of spatiotemporal dynamics driven by street contextual features (Submitted) -->
 
 
 ## Presentations
 *Conferences*
 <span id="presentations" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
+* **Gong, W.**, Ye, X., Song, Y. Essential Infrastructure or Unavoidable Risk? Modeling Urban Park Visitation under Dual Climate and Crime Stressors with Large-Scale Mobility Data. *2026 Annual Meeting of American Association of Geographers*, March 17-21, 2026, San Francisco, California, USA (Oral).
 * **Gong, W.**, Ye, X., Wu, K., Jamonnak, S., Zhang, W., Yang, Y., Huang, X. Integrating Spatiotemporal Vision Transformer into Digital Twins for High-Resolution Heat Stress Forecasting in Campus Environments. *2025 Annual Meeting of American Association of Geographers*, March 24-28, 2025, Detroit, Michigan, USA (Oral).
 * **Gong, W.**, Wu, K., Yang, Y., Zhang, W., Ye, X., Huang, X. Integrating high-resolution simulations and transformer network predictions for mitigating human heat stress: A digital twin of a Texas campus. *2024 Texas Weather Conference*, November 9, 2024, College Station, Texas, USA (Oral).
 * **Gong, W.**, Yang, Y., Zhang, W., Wu, K., Ye, X., Huang, X. Integrating high-resolution simulations and transformer network predictions for mitigating human heat stress: A digital twin of a Texas campus. *College of Architecture's 26th Annual Showcase*, October 3, 2024, Texas A&M University, College Station, Texas, USA (Poster).
@@ -114,6 +103,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 ## Awards & Honors
 *See my CV for the full list of awards and honors.*
 <span id="awards" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
+* [2026] Applied Geography Specialty Group Annual Meeting Award, 2026 Annual Meeting of American Association of Geographers, $202.
 * [2025] Travel Grant, Summer School on Cyberinfrastructure and Disaster Resilience, TAMU (funded by NSF), $200.
 * [2025] Texas A&M Institute of Data Science (TAMIDS) Student Ambassador Scholarship, Domain Data Science Track (2025–2026 cohort), TAMU, $2,000.
 * [2025] Ashok K. Dutt Award for Best Graduate Student Paper (**1st place**), Regional Development and Planning Specialty Group, 2025 Annual Meeting of American Association of Geographers, $200.
@@ -130,7 +120,8 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 ## Teaching Experience
 *Teaching Assistant*
 <span id="teaching" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
-* [2025 Fall]	PLAN626: Advanced GIS, Texas A&M University, College Station, USA
+* [2026 Spring] PLAN626: Advanced GIS & PLAN625: Introduction to GIS, Texas A&M University, College Station, USA
+* [2025 Fall]	PLAN626: Advanced GIS & PLAN625: Introduction to GIS, Texas A&M University, College Station, USA
 * [2020 Fall]	Design Studio III (Urban Planning), Tongji University, Shanghai, China
 
 
@@ -150,12 +141,15 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 
 *Conference Organizations*
 <span id="services" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
-* Session Chair/Primary Organizer: Symposium on Human Dynamics Research: Urban Environmental Intelligence and Human-Climate Interactions. *2025 Annual Meeting of American Association of Geographers*, March 24-28, 2025, Detroit, Michigan, USA.
+* Session Co-chair: Symposium on Human Dynamics Research: Extreme Weather, Human Responses, and Urban Resilience (I & Ⅱ). *2026 Annual Meeting of American Association of Geographers*, March 17-21, 2026, San Francisco, California, USA.
+* Session Chair/Primary Organizer: Symposium on Human Dynamics Research: Urban Environmental Intelligence and Human-Climate Interactions (1 & 2). *2025 Annual Meeting of American Association of Geographers*, March 24-28, 2025, Detroit, Michigan, USA.
 
 
 ## Media Coverage
 <span id="media" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
-*	Throwing Shade at Heatwaves: Tracking campus “hot spots” could help students stay cool in the Texas heat. <a href="https://engineering.tamu.edu/news/2024/09/throwing-shade-at-heatwaves.html" target="_blank">[Link]</a>
+*	TAMIDS Announces 2025-2026 Cohort of Student Ambassadors. <a href="https://tamids.tamu.edu/2025/07/18/tamids-announces-2025-2026-cohort-of-student-ambassadors/" target="_blank">[Link]</a>
+* Throwing Shade at Heatwaves: Tracking campus “hot spots” could help students stay cool in the Texas heat. <a href="https://engineering.tamu.edu/news/2024/09/throwing-shade-at-heatwaves.html" target="_blank">[Link]</a>
+
 
 <!-- 
 ## Skills
