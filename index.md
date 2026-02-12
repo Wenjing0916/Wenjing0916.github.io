@@ -36,7 +36,8 @@ Feel free to contact me via email or LinkedIn. I’d be happy to connect!
 -->
 <div style="max-height: 155px; overflow-y: auto; padding: 15px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); border-radius: 8px; background-color: #fafafa; font-size: 15px; line-height: 1.6;">
   <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
-  <li><strong>[Feb. 2026]</strong> 👏 Honored to receive the <strong>Applied Geography Specialty Group Annual Meeting Award</strong> from <em>AAG 2026</em>.</li>
+  <li><strong>[Feb. 2026]</strong> 👏 Honored to receive <strong>International Geographic Information Fund (IGIF) Scholarship Award</strong> from <em>AAG 2026</em>.</li>
+  <li><strong>[Feb. 2026]</strong> 👏 Honored to receive <strong>Applied Geography Specialty Group Annual Meeting Award</strong> from <em>AAG 2026</em>.</li>
   <li><strong>[Jan. 2026]</strong> 📝 My first-authored article was published in <em>Urban Forestry & Urban Greening</em>.</li>
   <li><strong>[Oct. 2025]</strong> 📝 My first-authored article was accepted for publication in <em>Journal of Planning Education and Research (JPER)</em>, the flagship journal in planning.</li>
   <li><strong>[Jul. 2025]</strong> 👏 Honored to receive the Texas A&M Institute of Data Science (TAMIDS) Student Ambassador Scholarship.</li>
@@ -103,6 +104,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 ## Awards & Honors
 *See my CV for the full list of awards and honors.*
 <span id="awards" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
+* [2026] International Geographic Information Fund (IGIF) Scholarship Award, 2026 Annual Meeting of American Association of Geographers, $1,200.
 * [2026] Applied Geography Specialty Group Annual Meeting Award, 2026 Annual Meeting of American Association of Geographers, $202.
 * [2025] Travel Grant, Summer School on Cyberinfrastructure and Disaster Resilience, TAMU (funded by NSF), $200.
 * [2025] Texas A&M Institute of Data Science (TAMIDS) Student Ambassador Scholarship, Domain Data Science Track (2025–2026 cohort), TAMU, $2,000.
@@ -115,7 +117,9 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 * [2014 - 2019]	"Outstanding Student Pioneer" (5%, **3 times**), SDUST.
 * [2019]	"Outstanding Graduate" of Shandong Province (5%).
 * [2019]	"Outstanding Student" in Science, Technology, and Innovation (5%), SDUST.
-
+* [2018]	National Best Leader Award, National Green Building Design Competition.
+* [2018]	Grand Prize, National Green Building Design Competition - Deep Green Category.
+* [2017]	Excellence Award, China Architectural Education/TSINGRUN Award Students’ Paper Competition.
 
 ## Teaching Experience
 *Teaching Assistant*
