@@ -22,7 +22,7 @@ My research integrates <i style="color:black">Urban Analytics, Urban Planning, G
 
 ## About Me
 <span id="about" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
-Greetings,😀! I'm Wenjing Gong, a second-year Ph.D. student in Urban and Regional Science at Texas A&M University, co-advised by <a href="https://www.arch.tamu.edu/staff/lingqian-ivy-hu/" target="_blank">Dr. Lingqian Hu</a> and <a href="https://geography.ua.edu/people/xinyue-ye/" target="_blank">Dr. Xinyue Ye</a>. My current research interests include:  
+Greetings,😀! I'm Wenjing Gong, a second-year Ph.D. student in Urban and Regional Science at Texas A&M University, co-advised by <a href="https://www.arch.tamu.edu/staff/lingqian-ivy-hu/" target="_blank">Dr. Lingqian (Ivy) Hu</a> and <a href="https://geography.ua.edu/people/xinyue-ye/" target="_blank">Dr. Xinyue Ye</a>. My current research interests include:  
 * **Urban Analytics and Geospatial AI**: Advancing methods in multimodal data fusion and AI-driven analytics to enhance urban climate and environmental risk assessment and modeling.
 * **Human–Environment–Climate Nexus**: Investigating the coupled interactions of climate extremes, urban systems, and human behavior to foster sustainable, resilient, and healthy urban futures.  
 * **Social Sensing and Visual Intelligence**: Harnessing geospatial imagery, mobility data, and social media to reveal urban dynamics and inform urban planning and policy.
@@ -56,7 +56,7 @@ Feel free to contact me via email or LinkedIn. I’d be happy to connect!
 <span id="education" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
 **[2024-pres.] Ph.D. Student, Urban and Regional Science**  
 <i style="color:#500000">Texas A&M University, College Station, USA</i>  
-Advisor: Dr. Lingqian Hu and Dr. Xinyue Ye  
+Chair: Dr. Lingqian (Ivy) Hu, Co-Chair: Dr. Xinyue Ye  
 **[2019-2022] M.E., Architecture (Urban Study)**  
 <i style="color:#500000">Tongji University, Shanghai, China</i>  
 GPA: 88.5/100 (Entrance through the exam-free recommendation program)  
@@ -97,6 +97,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 
 *Workshops*
 <span id="presentations" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
+* Yang, Y., **Gong, W.**, Zhang, K. DisasterVLP: Perceiving Multidimensional Disaster Damages from Street-View Images Using Visual-Language Models. *Summer School on Cyberinfrastructure and Disaster Resilience*, August 15, 2025, Texas A&M University, College Station, USA (Oral).
 * Gu, J., **Gong, W.**, Zhang, X. Analysis of the Spatial Distribution of Express Courier Stations and Assessment of Site Selection Effectiveness. *DigitalFUTURES 12th Summer Workshops*, July 2, 2022, Virtual (Oral).
 * **Gong, W.**, Huang, H., Zhang, X. Undoing Sprawl: Urban Agriculture as a Social Innovation. *Resizing the Urban Form in the Era of “Negative Population Growth” Workshop*, December 9, 2019, Columbia University, New York City, USA (Oral).
 
@@ -124,8 +125,8 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 ## Teaching Experience
 *Teaching Assistant*
 <span id="teaching" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
-* [2026 Spring] PLAN626: Advanced GIS & PLAN625: Introduction to GIS, Texas A&M University, College Station, USA
-* [2025 Fall]	PLAN626: Advanced GIS & PLAN625: Introduction to GIS, Texas A&M University, College Station, USA
+* [2026 Spring] PLAN626:600: Advanced GIS & PLAN625:600: Introduction to GIS & PLAN625:700: Introduction to GIS (Online), Texas A&M University, College Station, USA
+* [2025 Fall]	PLAN626:600: Advanced GIS & PLAN625:700: Introduction to GIS  (Online), Texas A&M University, College Station, USA
 * [2020 Fall]	Design Studio III (Urban Planning), Tongji University, Shanghai, China
 
 
