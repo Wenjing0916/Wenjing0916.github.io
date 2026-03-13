@@ -22,13 +22,13 @@ My research integrates <i style="color:black">Urban Analytics, Urban Planning, G
 
 ## About Me
 <span id="about" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
-Greetings,😀! I'm Wenjing Gong, a second-year Ph.D. student in Urban and Regional Science at Texas A&M University, co-advised by <a href="https://www.arch.tamu.edu/staff/lingqian-ivy-hu/" target="_blank">Dr. Lingqian (Ivy) Hu</a> and <a href="https://geography.ua.edu/people/xinyue-ye/" target="_blank">Dr. Xinyue Ye</a>. My current research interests include:  
-* **Urban Analytics and Geospatial AI**: Advancing methods in multimodal data fusion and AI-driven analytics to enhance urban climate and environmental risk assessment and modeling.
+Greetings,😀! I'm Wenjing Gong, a second-year Ph.D. student in Urban and Regional Science at Texas A&M University, co-advised by <a href="https://www.arch.tamu.edu/staff/lingqian-ivy-hu/" target="_blank">Dr. Lingqian (Ivy) Hu</a> and <a href="https://geography.ua.edu/people/xinyue-ye/" target="_blank">Dr. Xinyue Ye</a>. My academic training spans planning, geography, and design, and my current research focuses on enhancing urban resilience to climate extremes and environmental risks through data-driven approaches. Specifically, my research interests include:  
+* **Urban Analytics and GeoAI**: Advancing methods in multimodal data fusion and AI-driven analytics to enhance urban climate and environmental risk assessment and modeling.
 * **Human–Environment–Climate Nexus**: Investigating the coupled interactions of climate extremes, urban systems, and human behavior to foster sustainable, resilient, and healthy urban futures.  
 * **Social Sensing and Visual Intelligence**: Harnessing geospatial imagery, mobility data, and social media to reveal urban dynamics and inform urban planning and policy.
 
 Feel free to contact me via email or LinkedIn. I’d be happy to connect!
-(Updated on 02/2026)
+(Updated on 03/2026)
 
 <!-- 
 ## News  
@@ -36,8 +36,10 @@ Feel free to contact me via email or LinkedIn. I’d be happy to connect!
 -->
 <div style="max-height: 155px; overflow-y: auto; padding: 15px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); border-radius: 8px; background-color: #fafafa; font-size: 15px; line-height: 1.6;">
   <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
+  <li><strong>[Mar. 2026]</strong> 👏 Honored to receive <strong>Environmental Perception and Behavior Geography (EPBG) Travel Grant</strong> from <em>AAG 2026</em>.</li>
   <li><strong>[Feb. 2026]</strong> 👏 Honored to receive <strong>International Geographic Information Fund (IGIF) Scholarship Award</strong> from <em>AAG 2026</em>.</li>
   <li><strong>[Feb. 2026]</strong> 👏 Honored to receive <strong>Applied Geography Specialty Group Annual Meeting Award</strong> from <em>AAG 2026</em>.</li>
+  <li><strong>[Jan. 2026]</strong> 📝 My corresponding-authored paper was published in <em>Environmental Impact Assessment Review</em>.</li>
   <li><strong>[Jan. 2026]</strong> 📝 My first-authored article was published in <em>Urban Forestry & Urban Greening</em>.</li>
   <li><strong>[Oct. 2025]</strong> 📝 My first-authored article was accepted for publication in <em>Journal of Planning Education and Research (JPER)</em>, the flagship journal in planning.</li>
   <li><strong>[Jul. 2025]</strong> 👏 Honored to receive the Texas A&M Institute of Data Science (TAMIDS) Student Ambassador Scholarship.</li>
@@ -54,9 +56,9 @@ Feel free to contact me via email or LinkedIn. I’d be happy to connect!
 
 ## Education
 <span id="education" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
-**[2024-pres.] Ph.D. Student, Urban and Regional Science**  
+**[2024-pres.] Ph.D. Student, Urban and Regional Science (Urban Analytics & GeoAI)**  
 <i style="color:#500000">Texas A&M University, College Station, USA</i>  
-Chair: Dr. Lingqian (Ivy) Hu, Co-Chair: Dr. Xinyue Ye  
+Chair: Dr. Lingqian (Ivy) Hu, Co-Chair: Dr. Xinyue Ye, Committee members: Dr. Galen Newman and Dr. Lei Zou  
 **[2019-2022] M.E., Architecture (Urban Study)**  
 <i style="color:#500000">Tongji University, Shanghai, China</i>  
 GPA: 88.5/100 (Entrance through the exam-free recommendation program)  
@@ -105,8 +107,10 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 ## Awards & Honors
 *See my CV for the full list of awards and honors.*
 <span id="awards" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
+* [2026] Environmental Perception and Behavior Geography (EPBG) Travel Grant, 2026 Annual Meeting of American Association of Geographers, $150.
 * [2026] International Geographic Information Fund (IGIF) Scholarship Award, 2026 Annual Meeting of American Association of Geographers, $1,200.
 * [2026] Applied Geography Specialty Group Annual Meeting Award, 2026 Annual Meeting of American Association of Geographers, $202.
+* [2026] Travel Grant, LAUP Department, TAMU, $600.
 * [2025] Travel Grant, Summer School on Cyberinfrastructure and Disaster Resilience, TAMU (funded by NSF), $200.
 * [2025] Texas A&M Institute of Data Science (TAMIDS) Student Ambassador Scholarship, Domain Data Science Track (2025–2026 cohort), TAMU, $2,000.
 * [2025] Ashok K. Dutt Award for Best Graduate Student Paper (**1st place**), Regional Development and Planning Specialty Group, 2025 Annual Meeting of American Association of Geographers, $200.
@@ -134,11 +138,17 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 *Invited Reviewer*
 <span id="services" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * International Journal of Geographical Information Science
+* Journal of Planning Education and Research
 * Sustainable Cities and Society
 * Journal of Transport Geography
-* Journal of Planning Education and Research
+* Journal of Transport and Land Use
+* Transportation Planning and Technology
+* Transactions in GIS
 * Applied Spatial Analysis and Policy
 * Computational Urban Science
+* Physics and Chemistry of the Earth
+* Frontiers in Environmental Science
+* Frontiers in Psychology
 
 *Editorial Boards*
 <span id="services" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
