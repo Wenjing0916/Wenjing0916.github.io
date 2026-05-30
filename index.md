@@ -187,5 +187,5 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 -->
 
 ------
-<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=ffffff&w=222&t=n&d=B96j9RWUHlZd1aDqf12swmcu7Uk5ihnXLECWrr2VavU&cmo=467abe&co=e9e9e9&cmn=cc3a3a"></script>
+<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=ffffff&w=284&t=n&d=B96j9RWUHlZd1aDqf12swmcu7Uk5ihnXLECWrr2VavU&cmo=467abe&co=e9e9e9&cmn=cc3a3a"></script>
 
