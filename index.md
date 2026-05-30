@@ -23,12 +23,12 @@ My research integrates <i style="color:black">Urban Analytics, Urban Planning, G
 ## About Me
 <span id="about" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
 Greetings,😀! I'm Wenjing Gong, a second-year Ph.D. student in Urban and Regional Science at Texas A&M University, co-advised by <a href="https://www.arch.tamu.edu/staff/lingqian-ivy-hu/" target="_blank">Dr. Lingqian (Ivy) Hu</a> and <a href="https://geography.ua.edu/people/xinyue-ye/" target="_blank">Dr. Xinyue Ye</a>. My academic training spans planning, geography, and design, and my current research focuses on enhancing urban resilience to climate extremes and environmental risks through data-driven approaches. Specifically, my research interests include:  
-* **Urban Analytics and GeoAI**: Advancing methods in multimodal data fusion and AI-driven analytics to enhance urban climate and environmental risk assessment and modeling.
+* **Urban Analytics and GeoAI**: Advancing multimodal data fusion, geospatial foundation models, and data-driven analytics to enhance urban climate and environmental risk assessment.
 * **Human–Environment–Climate Nexus**: Investigating the coupled interactions of climate extremes, urban systems, and human behavior to foster sustainable, resilient, and healthy urban futures.  
 * **Social Sensing and Visual Intelligence**: Harnessing geospatial imagery, mobility data, and social media to reveal urban dynamics and inform urban planning and policy.
 
 Feel free to contact me via email or LinkedIn. I’d be happy to connect!
-(Updated on 03/2026)
+(Updated on 05/2026)
 
 <!-- 
 ## News  
@@ -36,6 +36,8 @@ Feel free to contact me via email or LinkedIn. I’d be happy to connect!
 -->
 <div style="max-height: 155px; overflow-y: auto; padding: 15px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); border-radius: 8px; background-color: #fafafa; font-size: 15px; line-height: 1.6;">
   <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
+
+  <li><strong>[May. 2026]</strong> 👏 My abstract was accepted for an oral presentation at <em>ACSP 2026</em>, and another abstract with my major contribution was also accepted.</li>
   <li><strong>[Mar. 2026]</strong> 👏 Honored to receive <strong>Environmental Perception and Behavior Geography (EPBG) Travel Grant</strong> from <em>AAG 2026</em>.</li>
   <li><strong>[Feb. 2026]</strong> 👏 Honored to receive <strong>International Geographic Information Fund (IGIF) Scholarship Award</strong> from <em>AAG 2026</em>.</li>
   <li><strong>[Feb. 2026]</strong> 👏 Honored to receive <strong>Applied Geography Specialty Group Annual Meeting Award</strong> from <em>AAG 2026</em>.</li>
@@ -91,6 +93,8 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 ## Presentations
 *Conferences*
 <span id="presentations" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
+* **Gong, W.** Toward Climate-Responsive Campuses: A Digital Twin Framework for High-Resolution Heat Stress Forecasting and Planning. *2026 Association of Collegiate Schools of Planning*, October 8-10, 2026, Pittsburgh, Pennsylvania, USA (Oral).
+* **Gong, W.** Hyperlocal PM₂.₅ Imputation from Sparse Sensors with Earth Embeddings and State Space-Enhanced Spatial Learning. *2026 International Symposium on Spatiotemporal Data Science*, August 7-8, 2026, Virginia Tech, Virginia, USA (Oral).
 * **Gong, W.**, Ye, X., Song, Y. Essential Infrastructure or Unavoidable Risk? Modeling Urban Park Visitation under Dual Climate and Crime Stressors with Large-Scale Mobility Data. *2026 Annual Meeting of American Association of Geographers*, March 17-21, 2026, San Francisco, California, USA (Oral).
 * **Gong, W.**, Ye, X., Wu, K., Jamonnak, S., Zhang, W., Yang, Y., Huang, X. Integrating Spatiotemporal Vision Transformer into Digital Twins for High-Resolution Heat Stress Forecasting in Campus Environments. *2025 Annual Meeting of American Association of Geographers*, March 24-28, 2025, Detroit, Michigan, USA (Oral).
 * **Gong, W.**, Wu, K., Yang, Y., Zhang, W., Ye, X., Huang, X. Integrating high-resolution simulations and transformer network predictions for mitigating human heat stress: A digital twin of a Texas campus. *2024 Texas Weather Conference*, November 9, 2024, College Station, Texas, USA (Oral).
@@ -139,16 +143,22 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 <span id="services" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * International Journal of Geographical Information Science
 * Journal of Planning Education and Research
-* Sustainable Cities and Society
+* Landscape and Urban Planning
+* Cities
 * Journal of Transport Geography
+* Sustainable Cities and Society
+* Environmental Impact Assessment Review
+* Transactions in GIS
+* Urban Climate
 * Journal of Transport and Land Use
 * Transportation Planning and Technology
-* Transactions in GIS
 * Applied Spatial Analysis and Policy
 * Computational Urban Science
+* Environmental Monitoring and Assessment
 * Physics and Chemistry of the Earth
 * Frontiers in Environmental Science
 * Frontiers in Psychology
+* ...
 
 *Editorial Boards*
 <span id="services" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
@@ -177,6 +187,5 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 -->
 
 ------
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=d7d7d7&w=250&t=n&d=4UdtGSgGkd44K3rEOq5aS5MhEx9RLAhOIy1jzh1h2fM&co=ffffff&ct=808080&cmo=70a5d9&cmn=bc6356'></script>
-
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=n&d=B96j9RWUHlZd1aDqf12swmcu7Uk5ihnXLECWrr2VavU&co=ececec&cmo=3f77a4&cmn=cc3a3a'></script>
 
