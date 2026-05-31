@@ -79,6 +79,124 @@
         }
   }
     
+    @media only screen and (max-width: 760px) {
+    body {
+      padding-top: 48px;
+    }
+
+    nav {
+      display: flex;
+      justify-content: flex-start;
+      overflow-x: auto;
+      padding: 5px 10px;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+      white-space: nowrap;
+    }
+
+    nav::-webkit-scrollbar {
+      display: none;
+    }
+
+    .nav-title,
+    .nav-toggle {
+    display: none;
+  }
+    .nav-menu {
+    display: flex;
+    align-items: center;
+  }
+    .nav-link {
+      flex: 0 0 auto;
+      margin-right: 8px;
+      padding: 8px 10px;
+    }
+
+    .nav-title {
+      font-size: 17px;
+    }
+  }
+    
+    @media only screen and (max-width: 760px) {
+    nav {
+      align-items: stretch;
+      flex-direction: column;
+      overflow-x: visible;
+      padding: 0;
+      white-space: normal;
+    }
+
+    nav::-webkit-scrollbar {
+      display: none;
+    }
+
+    .nav-toggle {
+      align-items: center;
+      background: #ffffff;
+      border: 0;
+      color: #500000;
+      cursor: pointer;
+      display: flex;
+      font-size: 16px;
+      font-weight: bold;
+      justify-content: space-between;
+      min-height: 48px;
+      padding: 0 16px;
+      text-align: left;
+      width: 100%;
+    }
+
+    .nav-toggle::after {
+      content: "+";
+      font-size: 22px;
+      line-height: 1;
+    }
+
+    nav.is-open .nav-toggle::after {
+      content: "-";
+    }
+
+    .nav-menu {
+      align-items: stretch;
+      border-top: 1px solid #eee;
+      display: none;
+      flex-direction: column;
+    }
+
+    nav.is-open .nav-menu {
+      display: flex;
+    }
+
+    .nav-title,
+    .nav-link {
+      border-bottom: 1px solid #eee;
+      margin-right: 0;
+      padding: 11px 16px;
+    }
+
+    .nav-title {
+      font-size: 16px;
+    }
+  }
+    
+    @media only screen and (min-width: 761px) {
+    .nav-toggle {
+      display: none;
+    }
+
+    .nav-menu {
+      align-items: center;
+      display: flex;
+    }
+  }
+
+    @media only screen and (max-width: 760px) {
+    .nav-title,
+    .nav-link {
+      display: block;
+    }
+  }
+    
   </style>
   
 </head>
@@ -87,6 +205,8 @@
   <div class="wrapper">
     
     <nav>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav-menu">Menu</button>
+      <div class="nav-menu" id="site-nav-menu">
       <a href="#about" class="nav-title">Wenjing Gong</a>
       <a href="#education" class="nav-link">Education</a>
       <a href="#employment" class="nav-link">Employment</a>
@@ -97,6 +217,7 @@
       <a href="#teaching" class="nav-link">Teaching</a>
       <a href="#services" class="nav-link">Services</a>
       <a href="#media" class="nav-link">Media</a>
+      </div>
     </nav>
     
     <header>
@@ -227,6 +348,24 @@
   {% endif %}
   <script>
     document.addEventListener('DOMContentLoaded', function () {
+      var nav = document.querySelector('nav');
+      var navToggle = document.querySelector('.nav-toggle');
+      var navLinks = document.querySelectorAll('.nav-menu a');
+
+      if (nav && navToggle) {
+        navToggle.addEventListener('click', function () {
+          var isOpen = nav.classList.toggle('is-open');
+          navToggle.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+        });
+
+        navLinks.forEach(function (link) {
+          link.addEventListener('click', function () {
+            nav.classList.remove('is-open');
+            navToggle.setAttribute('aria-expanded', 'false');
+          });
+        });
+      }
+
       var teasers = document.querySelectorAll('.publications .teaser');
       if (!teasers.length) return;
 

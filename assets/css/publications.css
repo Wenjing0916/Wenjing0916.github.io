@@ -104,6 +104,7 @@ screen and (min-width: 480px) {
   position: absolute;
   top: 8px;
   left: 16px;
+  z-index: 30;
 }
 
 .publications ol.bibliography li .abbr abbr a {
@@ -216,7 +217,7 @@ screen and (min-width: 480px) {
   position: relative;
   transform-origin: left center;
   transition: box-shadow 0.18s ease, transform 0.18s ease;
-  z-index: 1;
+  z-index: 10;
 }
 
 .publications ol.bibliography li .teaser:hover,
@@ -275,8 +276,57 @@ screen and (min-width: 480px) {
 }
 
 @media only screen and (max-width: 680px) {
+  .publications {
+    margin-top: 1.25rem;
+  }
+
+  .publications ol.bibliography li {
+    margin-bottom: 1.25rem;
+    min-height: 0;
+  }
+
+  .publications ol.bibliography li .abbr {
+    height: auto;
+    margin-bottom: 0.75rem;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  .publications ol.bibliography li .abbr abbr {
+    left: 8px;
+    top: 8px;
+  }
+
+  .publications ol.bibliography li .teaser {
+    aspect-ratio: 270 / 123;
+    height: auto;
+    margin-left: 0;
+    max-width: 320px;
+    width: 100%;
+  }
+
   .publications ol.bibliography li .teaser:hover,
   .publications ol.bibliography li .teaser:focus {
     transform: none;
+  }
+
+  .publications ol.bibliography li .title {
+    line-height: 1.35;
+  }
+
+  .publications ol.bibliography li .author,
+  .publications ol.bibliography li .periodical {
+    line-height: 1.4;
+  }
+
+  .project-image-lightbox {
+    padding: 14px;
+  }
+
+  .project-image-lightbox button {
+    height: 38px;
+    right: 12px;
+    top: 12px;
+    width: 38px;
   }
 }
