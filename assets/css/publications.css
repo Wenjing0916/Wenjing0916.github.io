@@ -206,10 +206,77 @@ screen and (min-width: 480px) {
 .publications ol.bibliography li .teaser {
   border-radius: 8px;
   box-shadow: 3px 3px 6px #888;
+  cursor: zoom-in;
   height: 123px;
   width: 270px;
   margin-top: 5px;
   margin-left: 5px;
   margin-bottom: 5px;
   object-fit: cover;
+  position: relative;
+  transform-origin: left center;
+  transition: box-shadow 0.18s ease, transform 0.18s ease;
+  z-index: 1;
+}
+
+.publications ol.bibliography li .teaser:hover,
+.publications ol.bibliography li .teaser:focus {
+  box-shadow: 0 10px 24px rgb(0 0 0 / 24%);
+  outline: none;
+  transform: scale(1.35);
+  z-index: 20;
+}
+
+.project-image-lightbox {
+  align-items: center;
+  background: rgb(0 0 0 / 76%);
+  bottom: 0;
+  cursor: zoom-out;
+  display: none;
+  justify-content: center;
+  left: 0;
+  padding: 24px;
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: 2000;
+}
+
+.project-image-lightbox.is-open {
+  display: flex;
+}
+
+.project-image-lightbox img {
+  background: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 18px 48px rgb(0 0 0 / 40%);
+  cursor: default;
+  max-height: 88vh;
+  max-width: 92vw;
+  object-fit: contain;
+}
+
+.project-image-lightbox button {
+  align-items: center;
+  background: #ffffff;
+  border: 0;
+  border-radius: 999px;
+  color: #000000;
+  cursor: pointer;
+  display: flex;
+  font-size: 28px;
+  height: 42px;
+  justify-content: center;
+  line-height: 1;
+  position: absolute;
+  right: 18px;
+  top: 18px;
+  width: 42px;
+}
+
+@media only screen and (max-width: 680px) {
+  .publications ol.bibliography li .teaser:hover,
+  .publications ol.bibliography li .teaser:focus {
+    transform: none;
+  }
 }
