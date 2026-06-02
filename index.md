@@ -14,9 +14,6 @@ I'm a <a href="https://med.nyu.edu/departments-institutes/population-health/divi
 working under the mentorship of Prof.<a href="https://med.nyu.edu/faculty/thaddeus-tarpey" target="_blank"> Thaddeus Tarpey</a>. My research involves developing statistical models that cater to high-dimensional complex data, such as functional and imaging data.
 I’m always open to collaborating with those who share similar research interests. Feel free to reach out via email—I’d be happy to connect and discuss further!  
 
-My research integrates <i style="color:black">Urban Analytics, Urban Planning, GIScience, and GeoAI</i> to address challenges in <i style="color:black">Climate Resilience, Human Mobility, and Public Health</i>.  
-* <span style="color:#500000; font-weight:bold">Urban Analytics and Geospatial AI</span>: Advancing methods in spatiotemporal modeling and multimodal data fusion to enhance urban climate intelligence and data-driven decision support.  
-
 *Leading-authored Publications; \* denotes corresponding author.*
 -->
 
@@ -26,6 +23,7 @@ Greetings,😀! I'm Wenjing Gong, a second-year Ph.D. student in Urban and Regio
 * **Urban Analytics and GeoAI**: Advancing multimodal data fusion, geospatial foundation models, and data-driven analytics to enhance urban climate and environmental risk assessment.
 * **Human–Environment–Climate Nexus**: Investigating the coupled interactions of climate extremes, urban systems, and human behavior to foster sustainable, resilient, and healthy urban futures.  
 * **Environmental Intelligence and Urban Dynamics**: Leveraging remote sensing imagery, Earth observation embeddings, mobility data, and social sensing to reveal urban dynamics and inform planning, policy, and resilience decision-making.
+
 Feel free to contact me via email or LinkedIn. I’d be happy to connect!
 (Updated on 05/2026)
 
