@@ -22,11 +22,10 @@ My research integrates <i style="color:black">Urban Analytics, Urban Planning, G
 
 ## About Me
 <span id="about" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
-Greetings,😀! I'm Wenjing Gong, a second-year Ph.D. student in Urban and Regional Science at Texas A&M University, co-advised by <a href="https://www.arch.tamu.edu/staff/lingqian-ivy-hu/" target="_blank">Dr. Lingqian (Ivy) Hu</a> and <a href="https://geography.ua.edu/people/xinyue-ye/" target="_blank">Dr. Xinyue Ye</a>. My academic training spans planning, geography, and design, and my current research focuses on enhancing urban resilience to climate extremes and environmental risks through data-driven approaches. Specifically, my research interests include:  
+Greetings,😀! I'm Wenjing Gong, a second-year Ph.D. student in Urban and Regional Science at Texas A&M University, co-advised by <a href="https://www.arch.tamu.edu/staff/lingqian-ivy-hu/" target="_blank">Dr. Lingqian (Ivy) Hu</a> and <a href="https://geography.ua.edu/people/xinyue-ye/" target="_blank">Dr. Xinyue Ye</a>. My academic training spans urban planning and geography, and my current research focuses on understanding exposure to climate and environmental hazards, human–environment interactions, and urban resilience through data-driven approaches. Specifically, my research interests include:  
 * **Urban Analytics and GeoAI**: Advancing multimodal data fusion, geospatial foundation models, and data-driven analytics to enhance urban climate and environmental risk assessment.
 * **Human–Environment–Climate Nexus**: Investigating the coupled interactions of climate extremes, urban systems, and human behavior to foster sustainable, resilient, and healthy urban futures.  
-* **Social Sensing and Visual Intelligence**: Harnessing geospatial imagery, mobility data, and social media to reveal urban dynamics and inform urban planning and policy.
-
+* **Environmental Intelligence and Urban Dynamics**: Leveraging remote sensing imagery, Earth observation embeddings, mobility data, and social sensing to reveal urban dynamics and inform planning, policy, and resilience decision-making.
 Feel free to contact me via email or LinkedIn. I’d be happy to connect!
 (Updated on 05/2026)
 
