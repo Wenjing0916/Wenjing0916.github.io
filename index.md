@@ -34,10 +34,11 @@ Feel free to contact me via email or LinkedIn. I’d be happy to connect!
 <div style="max-height: 155px; overflow-y: auto; padding: 15px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); border-radius: 8px; background-color: #fafafa; font-size: 15px; line-height: 1.6;">
   <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
 
-  <li><strong>[May. 2026]</strong> 👏 My abstract was accepted for an oral presentation at <em>ACSP 2026</em>, and another abstract with my major contribution was also accepted.</li>
-  <li><strong>[Mar. 2026]</strong> 👏 Honored to receive <strong>Environmental Perception and Behavior Geography (EPBG) Travel Grant</strong> from <em>AAG 2026</em>.</li>
+  <li><strong>[May. 2026]</strong> 😊 My abstract was accepted for an oral presentation at <strong>ACSP 2026</strong>, and another abstract on LLMs and disaster recovery, for which I am the corresponding author, was also accepted.</li>
+  <li><strong>[Apr. 2026]</strong> 🗣️ Invited to join GISalon 42: Women in GIS, co-organized by <strong>GISphere</strong> and <strong>CPGIS</strong>. </li>
+  <li><strong>[Mar. 2026]</strong> 🏆 Honored to receive <strong>Environmental Perception and Behavior Geography (EPBG) Travel Grant</strong> from <em>AAG 2026</em>.</li>
   <li><strong>[Feb. 2026]</strong> 👏 Honored to receive <strong>International Geographic Information Fund (IGIF) Scholarship Award</strong> from <em>AAG 2026</em>.</li>
-  <li><strong>[Feb. 2026]</strong> 👏 Honored to receive <strong>Applied Geography Specialty Group Annual Meeting Award</strong> from <em>AAG 2026</em>.</li>
+  <li><strong>[Feb. 2026]</strong> 🏆 Honored to receive <strong>Applied Geography Specialty Group Annual Meeting Award</strong> from <em>AAG 2026</em>.</li>
   <li><strong>[Jan. 2026]</strong> 📝 My corresponding-authored paper was published in <em>Environmental Impact Assessment Review</em>.</li>
   <li><strong>[Jan. 2026]</strong> 📝 My first-authored article was published in <em>Urban Forestry & Urban Greening</em>.</li>
   <li><strong>[Oct. 2025]</strong> 📝 My first-authored article was accepted for publication in <em>Journal of Planning Education and Research (JPER)</em>, the flagship journal in planning.</li>
