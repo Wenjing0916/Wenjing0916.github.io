@@ -59,7 +59,7 @@ Feel free to contact me via email or LinkedIn. I’d be happy to connect!
 **[2024-pres.] Ph.D. Student, Urban and Regional Science (Urban Analytics & GeoAI)**  
 <i style="color:#500000">Texas A&M University, College Station, USA</i>  
 Chair: Dr. Lingqian (Ivy) Hu, Co-Chair: Dr. Xinyue Ye, Committee members: Dr. Galen Newman and Dr. Lei Zou  
-**[2026-pres.] Graduate Certificate in Geographic Information Science**, Dept. of Geography, in progress  
+**Graduate Certificate in Geographic Information Science**, Dept. of Geography, in progress  
 **[2019-2022] M.E., Architecture (Urban Study)**  
 <i style="color:#500000">Tongji University, Shanghai, China</i>  
 GPA: 88.5/100 (Entrance through the exam-free recommendation program)  
