@@ -34,7 +34,7 @@ Feel free to contact me via email or LinkedIn. I’d be happy to connect!
 <div style="max-height: 155px; overflow-y: auto; padding: 15px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); border-radius: 8px; background-color: #fafafa; font-size: 15px; line-height: 1.6;">
   <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
 
-  <li><strong>[May. 2026]</strong> 😊 My abstract was accepted for an oral presentation at <strong>ACSP 2026</strong>, and another abstract on LLMs and disaster recovery, for which I am the corresponding author, was also accepted.</li>
+  <li><strong>[May. 2026]</strong> 😊 My abstract was accepted for an oral presentation at <strong>ACSP 2026</strong>, and another abstract for which I am the corresponding author was also accepted.</li>
   <li><strong>[Apr. 2026]</strong> 🗣️ Invited to join GISalon 42: Women in GIS, co-organized by <strong>GISphere</strong> and <strong>CPGIS</strong>. </li>
   <li><strong>[Mar. 2026]</strong> 🏆 Honored to receive <strong>Environmental Perception and Behavior Geography (EPBG) Travel Grant</strong> from <em>AAG 2026</em>.</li>
   <li><strong>[Feb. 2026]</strong> 👏 Honored to receive <strong>International Geographic Information Fund (IGIF) Scholarship Award</strong> from <em>AAG 2026</em>.</li>
@@ -93,8 +93,10 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 *Conferences*
 <span id="presentations" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * **Gong, W.** Toward Climate-Responsive Campuses: A Digital Twin Framework for High-Resolution Heat Stress Forecasting and Planning. *2026 Association of Collegiate Schools of Planning*, October 8-10, 2026, Pittsburgh, Pennsylvania, USA (Oral).
+* Zhang, K., **Gong, W.*** Built Environment Disparities in Post-Wildfire Recovery: Evidence from California Using Cross-View Imagery and Large Language Models. *2026 Association of Collegiate Schools of Planning*, October 8-10, 2026, Pittsburgh, Pennsylvania, USA (Oral). 
 * **Gong, W.** Hyperlocal PM₂.₅ Imputation from Sparse Sensors with Earth Embeddings and State Space-Enhanced Spatial Learning. *2026 International Symposium on Spatiotemporal Data Science*, August 7-8, 2026, Virginia Tech, Virginia, USA (Oral).
 * **Gong, W.**, Ye, X., Song, Y. Essential Infrastructure or Unavoidable Risk? Modeling Urban Park Visitation under Dual Climate and Crime Stressors with Large-Scale Mobility Data. *2026 Annual Meeting of American Association of Geographers*, March 17-21, 2026, San Francisco, California, USA (Oral).
+* Yang, Y., Zou, L., **Gong, W.**, Fu, K., Li, Z., Wang, S., Zhou, B., Cai, H., Tian, H. DamageArbiter: A CLIP-Enhanced Multimodal Arbitration Framework for Hurricane Damage Assessment from Street-View Imagery. *2026 Annual Meeting of American Association of Geographers*, March 17-21, 2026, San Francisco, California, USA (Oral).
 * **Gong, W.**, Ye, X., Wu, K., Jamonnak, S., Zhang, W., Yang, Y., Huang, X. Integrating Spatiotemporal Vision Transformer into Digital Twins for High-Resolution Heat Stress Forecasting in Campus Environments. *2025 Annual Meeting of American Association of Geographers*, March 24-28, 2025, Detroit, Michigan, USA (Oral).
 * **Gong, W.**, Wu, K., Yang, Y., Zhang, W., Ye, X., Huang, X. Integrating high-resolution simulations and transformer network predictions for mitigating human heat stress: A digital twin of a Texas campus. *2024 Texas Weather Conference*, November 9, 2024, College Station, Texas, USA (Oral).
 * **Gong, W.**, Yang, Y., Zhang, W., Wu, K., Ye, X., Huang, X. Integrating high-resolution simulations and transformer network predictions for mitigating human heat stress: A digital twin of a Texas campus. *College of Architecture's 26th Annual Showcase*, October 3, 2024, Texas A&M University, College Station, Texas, USA (Poster).
@@ -113,6 +115,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 * [2026] Environmental Perception and Behavior Geography (EPBG) Travel Grant, 2026 Annual Meeting of American Association of Geographers, $150.
 * [2026] International Geographic Information Fund (IGIF) Scholarship Award, 2026 Annual Meeting of American Association of Geographers, $1,200.
 * [2026] Applied Geography Specialty Group Annual Meeting Award, 2026 Annual Meeting of American Association of Geographers, $202.
+* [2026] Second Place, Geographic Information Science and Systems Specialty Group (GISSG) Student Honors Paper Competition (Third Author), 2026 Annual Meeting of American Association of Geographers.
 * [2026] Travel Grant, LAUP Department, TAMU, $600.
 * [2025] Travel Grant, Summer School on Cyberinfrastructure and Disaster Resilience, TAMU (funded by NSF), $200.
 * [2025] Texas A&M Institute of Data Science (TAMIDS) Student Ambassador Scholarship, Domain Data Science Track (2025–2026 cohort), TAMU, $2,000.
@@ -151,12 +154,12 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 * Urban Climate
 * Journal of Transport and Land Use
 * Transportation Planning and Technology
+* Scientific Reports
 * Applied Spatial Analysis and Policy
 * Computational Urban Science
 * Environmental Monitoring and Assessment
 * Physics and Chemistry of the Earth
 * Frontiers in Environmental Science
-* Frontiers in Psychology
 * ...
 
 *Editorial Boards*
