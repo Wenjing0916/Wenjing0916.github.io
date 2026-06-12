@@ -148,6 +148,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 * Landscape and Urban Planning
 * Cities
 * Journal of Transport Geography
+* Applied Geography
 * Sustainable Cities and Society
 * Environmental Impact Assessment Review
 * Transactions in GIS
@@ -159,7 +160,6 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 * Computational Urban Science
 * Environmental Monitoring and Assessment
 * Physics and Chemistry of the Earth
-* Frontiers in Environmental Science
 * ...
 
 *Editorial Boards*
