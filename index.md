@@ -121,14 +121,14 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 *Conferences*
 <span id="presentations" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * **Gong, W.** Toward Climate-Responsive Campuses: A Digital Twin Framework for High-Resolution Heat Stress Forecasting and Planning. *2026 Association of Collegiate Schools of Planning*, October 8-10, 2026, Pittsburgh, Pennsylvania, USA (Oral).
-* Zhang, K., **Gong, W.*** Built Environment Disparities in Post-Wildfire Recovery: Evidence from California Using Cross-View Imagery and Large Language Models. *2026 Association of Collegiate Schools of Planning*, October 8-10, 2026, Pittsburgh, Pennsylvania, USA (Oral). 
+* Zhang, K., **Gong, W.*** Built Environment Disparities in Post-Wildfire Recovery: Evidence from California Using Cross-View Imagery and Large Language Models. *2026 Association of Collegiate Schools of Planning*, October 8-10, 2026, Pittsburgh, Pennsylvania, USA (Accepted). 
 * **Gong, W.** Hyperlocal PM₂.₅ Imputation from Sparse Sensors with Earth Embeddings and State Space-Enhanced Spatial Learning. *2026 International Symposium on Spatiotemporal Data Science*, August 7-8, 2026, Virginia Tech, Virginia, USA (Oral).
 * **Gong, W.**, Ye, X., Song, Y. Essential Infrastructure or Unavoidable Risk? Modeling Urban Park Visitation under Dual Climate and Crime Stressors with Large-Scale Mobility Data. *2026 Annual Meeting of American Association of Geographers*, March 17-21, 2026, San Francisco, California, USA (Oral).
 * Yang, Y., Zou, L., **Gong, W.**, Fu, K., Li, Z., Wang, S., Zhou, B., Cai, H., Tian, H. DamageArbiter: A CLIP-Enhanced Multimodal Arbitration Framework for Hurricane Damage Assessment from Street-View Imagery. *2026 Annual Meeting of American Association of Geographers*, March 17-21, 2026, San Francisco, California, USA (Oral).
 * **Gong, W.**, Ye, X., Wu, K., Jamonnak, S., Zhang, W., Yang, Y., Huang, X. Integrating Spatiotemporal Vision Transformer into Digital Twins for High-Resolution Heat Stress Forecasting in Campus Environments. *2025 Annual Meeting of American Association of Geographers*, March 24-28, 2025, Detroit, Michigan, USA (Oral).
 * **Gong, W.**, Wu, K., Yang, Y., Zhang, W., Ye, X., Huang, X. Integrating high-resolution simulations and transformer network predictions for mitigating human heat stress: A digital twin of a Texas campus. *2024 Texas Weather Conference*, November 9, 2024, College Station, Texas, USA (Oral).
 * **Gong, W.**, Yang, Y., Zhang, W., Wu, K., Ye, X., Huang, X. Integrating high-resolution simulations and transformer network predictions for mitigating human heat stress: A digital twin of a Texas campus. *College of Architecture's 26th Annual Showcase*, October 3, 2024, Texas A&M University, College Station, Texas, USA (Poster).
-* **Gong, W.** Simulating and Predicting Spatial-Temporal Human Outdoor Heat Exposure: A Case Study on a Texas Campus. *The 2024 Symposium on Spatiotemporal Data Science: GeoAI for Social Sciences*, July 24, 2024, Virtual (Abstract accepted).
+* **Gong, W.** Simulating and Predicting Spatial-Temporal Human Outdoor Heat Exposure: A Case Study on a Texas Campus. *The 2024 Symposium on Spatiotemporal Data Science: GeoAI for Social Sciences*, July 24, 2024, Virtual (Accepted).
 
 *Workshops*
 <span id="presentations" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
