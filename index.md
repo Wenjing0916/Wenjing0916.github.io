@@ -8,7 +8,15 @@ layout: homepage
   }
 
   .entry {
-    margin-bottom: 14px;
+    margin: 0;
+  }
+
+  .entry > p {
+    margin: 0;
+  }
+
+  .entry + .entry {
+    margin-top: 10px;
   }
 
 </style>
@@ -60,38 +68,46 @@ Feel free to contact me via email or LinkedIn. I’d be happy to connect!
 
 ## Education
 <span id="education" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
-<div class="entry" markdown="1">
-**[2024-pres.] Ph.D. Student, Urban and Regional Science (Urban Analytics & GeoAI)**  
-<i style="color:#500000">Texas A&M University, College Station, USA</i>  
-Chair: Dr. Lingqian (Ivy) Hu, Co-Chair: Dr. Xinyue Ye, Committee members: Dr. Galen Newman and Dr. Lei Zou  
-**Graduate Certificate in Geographic Information Science**, Dept. of Geography, in progress  
+<div class="entry">
+<strong>[2024-pres.] Ph.D. Student, Urban and Regional Science (Urban Analytics & GeoAI)</strong><br>
+<i style="color:#500000">Texas A&M University, College Station, USA</i><br>
+Chair: Dr. Lingqian (Ivy) Hu, Co-Chair: Dr. Xinyue Ye, Committee members: Dr. Galen Newman and Dr. Lei Zou<br>
+<strong>Graduate Certificate in Geographic Information Science</strong>, Dept. of Geography, in progress
 </div>
-<div class="entry" markdown="1">
-**[2019-2022] M.E., Architecture (Urban Study)**  
-<i style="color:#500000">Tongji University, Shanghai, China</i>  
-GPA: 88.5/100 (Entrance through the exam-free recommendation program)  
+<div class="entry">
+<strong>[2019-2022] M.E., Architecture (Urban Study)</strong><br>
+<i style="color:#500000">Tongji University, Shanghai, China</i><br>
+GPA: 88.5/100 (Entrance through the exam-free recommendation program)
 </div>
-<div class="entry" markdown="1">
-**[2019] Visiting Student, Graduate School of Architecture, Planning and Preservation**  
-<i style="color:#500000">Columbia University, New York, USA</i>  
+<div class="entry">
+<strong>[2019] Visiting Student, Graduate School of Architecture, Planning and Preservation</strong><br>
+<i style="color:#500000">Columbia University, New York, USA</i>
 </div>
-<div class="entry" markdown="1">
-**[2014-2019] B.E., Architecture**  
-<i style="color:#500000">Shandong University of Science & Technology, Qingdao, China</i>  
+<div class="entry">
+<strong>[2014-2019] B.E., Architecture</strong><br>
+<i style="color:#500000">Shandong University of Science & Technology, Qingdao, China</i><br>
 GPA: 90.5/100 (Rank: 1/60 each year)
 </div>
 
 
 ## Academic & Professional Experience
 <span id="employment" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
-**[2025-2026] Student Ambassador**  
-<i style="color:#500000">Texas A&M Institute of Data Science, College Station, USA</i>  
-**[2025-2026] Student Fellow**  
-<i style="color:#500000">Telehealth Institute, Texas A&M University, College Station, USA</i>  
-**[2024-2025] Research Assistant**  
-<i style="color:#500000">Center for Geospatial Sciences, Applications and Technology, Texas A&M University, College Station, USA</i>  
-**[2022-2024] Designer and Planner**  
-<i style="color:#500000">Architecture Design & Research Institute of Tongji University, Shanghai, China</i>  
+<div class="entry">
+<strong>[2025-2026] Student Ambassador</strong><br>
+<i style="color:#500000">Texas A&M Institute of Data Science, College Station, USA</i>
+</div>
+<div class="entry">
+<strong>[2025-2026] Student Fellow</strong><br>
+<i style="color:#500000">Telehealth Institute, Texas A&M University, College Station, USA</i>
+</div>
+<div class="entry">
+<strong>[2024-2025] Research Assistant</strong><br>
+<i style="color:#500000">Center for Geospatial Sciences, Applications and Technology, Texas A&M University, College Station, USA</i>
+</div>
+<div class="entry">
+<strong>[2022-2024] Designer and Planner</strong><br>
+<i style="color:#500000">Architecture Design & Research Institute of Tongji University, Shanghai, China</i>
+</div>
 
 
 ## Publications
