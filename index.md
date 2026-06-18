@@ -67,7 +67,7 @@ Feel free to contact me via email or LinkedIn. I’d be happy to connect!
 
 
 ## Education
-<span id="education" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
+<span id="education" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 <div class="entry">
 <strong>[2024-pres.] Ph.D. Student, Urban and Regional Science (Urban Analytics & GeoAI)</strong><br>
 <i style="color:#500000">Texas A&M University, College Station, USA</i><br>
@@ -91,7 +91,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 
 
 ## Academic & Professional Experience
-<span id="employment" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
+<span id="employment" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 <div class="entry">
 <strong>[2025-2026] Student Ambassador</strong><br>
 <i style="color:#500000">Texas A&M Institute of Data Science, College Station, USA</i>
