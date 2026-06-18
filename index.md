@@ -7,6 +7,10 @@ layout: homepage
     margin-top: 40px; /* 增加二级标题**的上边距 */
   }
 
+  .entry {
+    margin-bottom: 14px;
+  }
+
 </style>
 
 <!-- 
@@ -56,18 +60,26 @@ Feel free to contact me via email or LinkedIn. I’d be happy to connect!
 
 ## Education
 <span id="education" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
+<div class="entry" markdown="1">
 **[2024-pres.] Ph.D. Student, Urban and Regional Science (Urban Analytics & GeoAI)**  
 <i style="color:#500000">Texas A&M University, College Station, USA</i>  
 Chair: Dr. Lingqian (Ivy) Hu, Co-Chair: Dr. Xinyue Ye, Committee members: Dr. Galen Newman and Dr. Lei Zou  
 **Graduate Certificate in Geographic Information Science**, Dept. of Geography, in progress  
+</div>
+<div class="entry" markdown="1">
 **[2019-2022] M.E., Architecture (Urban Study)**  
 <i style="color:#500000">Tongji University, Shanghai, China</i>  
 GPA: 88.5/100 (Entrance through the exam-free recommendation program)  
+</div>
+<div class="entry" markdown="1">
 **[2019] Visiting Student, Graduate School of Architecture, Planning and Preservation**  
 <i style="color:#500000">Columbia University, New York, USA</i>  
+</div>
+<div class="entry" markdown="1">
 **[2014-2019] B.E., Architecture**  
 <i style="color:#500000">Shandong University of Science & Technology, Qingdao, China</i>  
 GPA: 90.5/100 (Rank: 1/60 each year)
+</div>
 
 
 ## Academic & Professional Experience
