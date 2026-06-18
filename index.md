@@ -70,22 +70,22 @@ Feel free to contact me via email or LinkedIn. I’d be happy to connect!
 <span id="education" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 <div class="entry">
 <strong>[2024-pres.] Ph.D. Student, Urban and Regional Science (Urban Analytics & GeoAI)</strong><br>
-<i style="color:#500000">Texas A&M University, College Station, USA</i><br>
+<strong style="color:#500000">Texas A&M University, College Station, USA</strong><br>
 Chair: Dr. Lingqian (Ivy) Hu, Co-Chair: Dr. Xinyue Ye, Committee members: Dr. Galen Newman and Dr. Lei Zou<br>
 <strong>Graduate Certificate in Geographic Information Science</strong>, Dept. of Geography, in progress
 </div>
 <div class="entry">
 <strong>[2019-2022] M.E., Architecture (Urban Study)</strong><br>
-<i style="color:#500000">Tongji University, Shanghai, China</i><br>
+<strong style="color:#500000">Tongji University, Shanghai, China</strong><br>
 GPA: 88.5/100 (Entrance through the exam-free recommendation program)
 </div>
 <div class="entry">
 <strong>[2019] Visiting Student, Graduate School of Architecture, Planning and Preservation</strong><br>
-<i style="color:#500000">Columbia University, New York, USA</i>
+<strong style="color:#500000">Columbia University, New York, USA</strong>
 </div>
 <div class="entry">
 <strong>[2014-2019] B.E., Architecture</strong><br>
-<i style="color:#500000">Shandong University of Science & Technology, Qingdao, China</i><br>
+<strong style="color:#500000">Shandong University of Science & Technology, Qingdao, China</strong><br>
 GPA: 90.5/100 (Rank: 1/60 each year)
 </div>
 
@@ -94,19 +94,19 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 <span id="employment" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 <div class="entry">
 <strong>[2025-2026] Student Ambassador</strong><br>
-<i style="color:#500000">Texas A&M Institute of Data Science, College Station, USA</i>
+<strong style="color:#500000">Texas A&M Institute of Data Science, College Station, USA</strong>
 </div>
 <div class="entry">
 <strong>[2025-2026] Student Fellow</strong><br>
-<i style="color:#500000">Telehealth Institute, Texas A&M University, College Station, USA</i>
+<strong style="color:#500000">Telehealth Institute, Texas A&M University, College Station, USA</strong>
 </div>
 <div class="entry">
 <strong>[2024-2025] Research Assistant</strong><br>
-<i style="color:#500000">Center for Geospatial Sciences, Applications and Technology, Texas A&M University, College Station, USA</i>
+<strong style="color:#500000">Center for Geospatial Sciences, Applications and Technology, Texas A&M University, College Station, USA</strong>
 </div>
 <div class="entry">
 <strong>[2022-2024] Designer and Planner</strong><br>
-<i style="color:#500000">Architecture Design & Research Institute of Tongji University, Shanghai, China</i>
+<strong style="color:#500000">Architecture Design & Research Institute of Tongji University, Shanghai, China</strong>
 </div>
 
 
