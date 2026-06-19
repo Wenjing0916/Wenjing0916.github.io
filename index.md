@@ -169,6 +169,17 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 
 
 ## Services
+*Professional Membership*
+<span id="services" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
+* American Association of Geographers (AAG)
+* Association of Collegiate Schools of Planning (ACSP)
+* American Geophysical Union (AGU)
+* American Planning Association (APA)
+
+*Editorial Boards*
+<span id="services" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
+* Managing Editor: Computational Urban Science
+
 *Invited Reviewer*
 <span id="services" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * International Journal of Geographical Information Science
@@ -189,10 +200,6 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 * Environmental Monitoring and Assessment
 * Physics and Chemistry of the Earth
 * ...
-
-*Editorial Boards*
-<span id="services" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
-* Managing Editor: Computational Urban Science
 
 *Conference Organizations*
 <span id="services" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
