@@ -31,7 +31,7 @@ I’m always open to collaborating with those who share similar research interes
 
 ## About Me
 <span id="about" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
-Greetings,😀! I'm Wenjing Gong, a second-year Ph.D. student in Urban and Regional Science at Texas A&M University, co-advised by <a href="https://www.arch.tamu.edu/staff/lingqian-ivy-hu/" target="_blank">Dr. Lingqian (Ivy) Hu</a> and <a href="https://geography.ua.edu/people/xinyue-ye/" target="_blank">Dr. Xinyue Ye</a>. My academic training spans urban planning and geography, and my current research focuses on risk assessment, adaptation, and resilience to climate and environmental hazards. Specifically, my research interests include:  
+Greetings,😀! I'm Wenjing Gong, a second-year Ph.D. student in Urban and Regional Science at Texas A&M University, co-advised by <a href="https://www.arch.tamu.edu/staff/lingqian-ivy-hu/" target="_blank">Dr. Lingqian (Ivy) Hu</a> and <a href="https://geography.ua.edu/people/xinyue-ye/" target="_blank">Dr. Xinyue Ye</a>. My academic training spans urban planning and geography, and my current research focuses on <strong>risk assessment, adaptation, and resilience to climate and environmental hazards</strong>. Specifically, my research interests include:  
 * **Urban Analytics and GeoAI**: Advancing multimodal data fusion, geospatial foundation models, and data-driven analytics to enhance fine-scale urban climate and environmental risk assessment.
 * **Human–Environment–Climate Nexus**: Investigating the coupled interactions of climate extremes, urban systems, and human behavior to foster sustainable, resilient, and healthy urban futures.  
 * **Earth Intelligence and Urban Dynamics**: Leveraging remote sensing imagery, Earth observation embeddings, mobility data, and social sensing to reveal urban dynamics and inform planning, policy, and decision-making.
@@ -70,9 +70,9 @@ Feel free to contact me via email or LinkedIn. I’d be happy to connect!
 <span id="education" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 <div class="entry">
 <strong>[2024-pres.] Ph.D. Student, Urban and Regional Science (Urban Analytics & GeoAI)</strong><br>
+<strong>Graduate Certificate in Geographic Information Science (Department of Geography)</strong><br>
 <strong style="color:#500000">Texas A&M University, College Station, USA</strong><br>
 Chair: Dr. Lingqian (Ivy) Hu, Co-Chair: Dr. Xinyue Ye, Committee members: Dr. Galen Newman and Dr. Lei Zou<br>
-<strong>Graduate Certificate in Geographic Information Science</strong>, Dept. of Geography, in progress
 </div>
 <div class="entry">
 <strong>[2019-2022] M.E., Architecture (Urban Study)</strong><br>

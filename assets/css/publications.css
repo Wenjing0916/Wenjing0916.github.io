@@ -19,6 +19,7 @@
 }
 
 :root {
+  color-scheme: light;
   --global-bg-color: #ffffff;
   --global-code-bg-color: rgba(181, 9, 172, 0.05);
   --global-text-color: #000000;
@@ -29,12 +30,6 @@
   --global-footer-text-color: #e8e8e8;
   --global-footer-link-color: #ffffff;
   --global-distill-app-color: #828282;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --global-theme-color: #500000;
-  }
 }
 
 blockquote {
@@ -145,18 +140,6 @@ screen and (min-width: 480px) {
   padding-right: 0.5rem;
   padding-top: 0.1rem;
   padding-bottom: 0.1rem;
-}
-
-@media (prefers-color-scheme: dark) {
-  .publications ol.bibliography li .links a.btn {
-    color: #FFFFFF;
-    border: 1px solid #FFFFFF;
-    padding-left: 0.5rem;
-    padding-right: 0.5rem;
-    padding-top: 0.1rem;
-    padding-bottom: 0.1rem;
-  }
-
 }
 
 .publications ol.bibliography li .links a.btn:hover {
