@@ -182,24 +182,11 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 
 *Invited Reviewer*
 <span id="services" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
-* International Journal of Geographical Information Science
-* Journal of Planning Education and Research
-* Landscape and Urban Planning
-* Cities
-* Journal of Transport Geography
-* Applied Geography
-* Sustainable Cities and Society
-* Environmental Impact Assessment Review
-* Transactions in GIS
-* Urban Climate
-* Journal of Transport and Land Use
-* Transportation Planning and Technology
-* Scientific Reports
-* Applied Spatial Analysis and Policy
-* Computational Urban Science
-* Environmental Monitoring and Assessment
-* Physics and Chemistry of the Earth
-* ...
+* **GIScience and Geography:** International Journal of Geographical Information Science, Transactions in GIS, Journal of Transport Geography, Applied Geography, Geocarto International, Applied Spatial Analysis and Policy
+* **Urban Planning and Urban Studies:** Journal of Planning Education and Research, Landscape and Urban Planning, Cities, Sustainable Cities and Society, Computational Urban Science, City and Environment Interactions, Sustainable Futures
+* **Environmental Science and Climate:** Environmental Impact Assessment Review, Urban Climate, Environmental Monitoring and Assessment, Physics and Chemistry of the Earth, Frontiers in Environmental Science
+* **Transportation:** Transportation Research Part C, Journal of Transport and Land Use, Transportation Planning and Technology
+* **Multidisciplinary:** Technology in Society, Scientific Reports, Frontiers in Psychology
 
 *Conference Organizations*
 <span id="services" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
