@@ -325,7 +325,7 @@ a:hover small {
 }
 
 .wrapper {
-  width: 960px;
+  width: 1120px;
   margin: 0 auto;
 }
 
@@ -447,7 +447,7 @@ header ul a strong {
 }
 
 section {
-  width: 650px;
+  width: 810px;
   float: right;
   padding-top: 4.0em;
   padding-bottom: 50px;
@@ -474,7 +474,7 @@ footer {
 }
 
 @media print,
-screen and (max-width: 960px) {
+screen and (max-width: 1120px) {
 
   .pub-row {
     display: flex;
@@ -541,7 +541,7 @@ screen and (max-width: 960px) {
 }
 
 @media print,
-screen and (max-width: 960px) {
+screen and (max-width: 1120px) {
   body {
     word-wrap: break-word;
     padding: 15px;
