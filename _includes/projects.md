@@ -111,27 +111,6 @@
 
 
 
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/Cities2025.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Cities</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://doi.org/10.1016/j.cities.2025.106750" target="_blank">Paying lip service? An investigation into the spatial mismatch between younger and older adults' streetscape perceptual preference and visitation behavior</a></div>
-    <div class="author">Jin Rui, <strong>Wenjing Gong</strong></div>
-    <div class="periodical"><em>Cities</em>, Dec. 2025</div>
-    <div class="links">
-      <a href="assets/files/Cities2025.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>
-  </div>
-</div>
-</li>
-
-
-
 
 <li>
 <div class="pub-row">

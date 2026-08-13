@@ -21,23 +21,16 @@ layout: homepage
 
 </style>
 
-<!-- 
-I'm a <a href="https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/" target="_blank"> Biostatistics</a> Ph.D. candidate at <a href="https://www.nyu.edu/" target="_blank"> New York University</a>'s <a href="https://med.nyu.edu/" target="_blank"> Grossman School of Medicine</a>, specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  
-working under the mentorship of Prof.<a href="https://med.nyu.edu/faculty/thaddeus-tarpey" target="_blank"> Thaddeus Tarpey</a>. My research involves developing statistical models that cater to high-dimensional complex data, such as functional and imaging data.
-I’m always open to collaborating with those who share similar research interests. Feel free to reach out via email—I’d be happy to connect and discuss further!  
-
-*Leading-authored Publications; \* denotes corresponding author.*
--->
 
 ## About Me
 <span id="about" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
-Greetings,😀! I'm Wenjing Gong, a second-year Ph.D. student in Urban and Regional Science at Texas A&M University, co-advised by <a href="https://www.arch.tamu.edu/staff/lingqian-ivy-hu/" target="_blank">Dr. Lingqian (Ivy) Hu</a> and <a href="https://geography.ua.edu/people/xinyue-ye/" target="_blank">Dr. Xinyue Ye</a>. My interdisciplinary academic training equips me with the diverse perspectives needed to tackle complex socio-environmental challenges. My current research <strong>uses data-driven and geospatial approaches to assess risks from climate extremes and environmental hazards and to inform adaptation and resilience</strong>. Specifically, my research interests center on three interconnected areas:  
-* **GeoAI for Climate and Environmental Assessment**: Advancing multimodal data fusion, geospatial foundation models, and data-driven analytics to characterize hyperlocal exposures to climate and environmental hazards.
+Greetings,😀! I'm Wenjing Gong, a Ph.D. student in Urban and Regional Science at Texas A&M University, co-advised by <a href="https://www.arch.tamu.edu/staff/lingqian-ivy-hu/" target="_blank">Dr. Lingqian (Ivy) Hu</a> and <a href="https://geography.ua.edu/people/xinyue-ye/" target="_blank">Dr. Xinyue Ye</a>. My interdisciplinary academic training equips me with the diverse perspectives needed to tackle complex socio-environmental challenges. My current research <strong>uses data-driven and geospatial approaches to assess risks from climate extremes and environmental hazards and to inform adaptation and resilience</strong>. Specifically, my research interests center on three interconnected areas:  
+* **GeoAI for Climate and Environment**: Advancing multimodal data fusion, geospatial foundation models, and data-driven analytics to characterize hyperlocal exposures to climate and environmental hazards.
 * **Human–Environment–Climate Nexus**: Investigating the coupled interactions among extreme weather, urban systems, and human behavior to support sustainable, resilient, and healthy urban futures.  
 * **Earth Intelligence and Urban Sensing**: Leveraging remote sensing imagery, Earth observation embeddings, mobility data, and social sensing to reveal urban dynamics and inform planning, policy, and decision-making.
 
 Feel free to contact me via email or LinkedIn. I’d be happy to connect!
-(Updated on 05/2026)
+(Updated on 08/2026)
 
 <!-- 
 ## News  
@@ -46,6 +39,7 @@ Feel free to contact me via email or LinkedIn. I’d be happy to connect!
 <div style="max-height: 155px; overflow-y: auto; padding: 15px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); border-radius: 8px; background-color: #fafafa; font-size: 15px; line-height: 1.6;">
   <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
 
+  <li><strong>[Aug. 2026]</strong> 📝 Our CS coursework paper on agents for disaster management has been accepted as a full paper in the Applications Track of the <strong>34th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems</strong>.</li>
   <li><strong>[May. 2026]</strong> 😊 My abstract was accepted for an oral presentation at <strong>ACSP 2026</strong>, and another abstract for which I am the corresponding author was also accepted.</li>
   <li><strong>[Apr. 2026]</strong> 🗣️ Invited to join GISalon 42: Women in GIS, co-organized by <strong>GISphere</strong> and <strong>CPGIS</strong>. </li>
   <li><strong>[Mar. 2026]</strong> 🏆 Honored to receive <strong>Environmental Perception and Behavior Geography (EPBG) Travel Grant</strong> from <em>AAG 2026</em>.</li>
