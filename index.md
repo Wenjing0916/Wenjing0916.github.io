@@ -27,7 +27,7 @@ layout: homepage
 Greetings,😀! I'm Wenjing Gong, a Ph.D. student in Urban and Regional Science at Texas A&M University, co-advised by <a href="https://www.arch.tamu.edu/staff/lingqian-ivy-hu/" target="_blank">Dr. Lingqian (Ivy) Hu</a> and <a href="https://geography.ua.edu/people/xinyue-ye/" target="_blank">Dr. Xinyue Ye</a>. My interdisciplinary academic training equips me with the diverse perspectives needed to tackle complex socio-environmental challenges. My current research <strong>uses data-driven and geospatial approaches to assess risks from climate extremes and environmental hazards and to inform adaptation and resilience</strong>. Specifically, my research interests center on three interconnected areas:  
 * **GeoAI for Climate and Environment**: Advancing multimodal data fusion, geospatial foundation models, and data-driven analytics to characterize hyperlocal exposures to climate and environmental hazards.
 * **Human–Environment–Climate Nexus**: Investigating the coupled interactions among extreme weather, urban systems, and human behavior to support sustainable, resilient, and healthy urban futures.  
-* **Earth Intelligence and Urban Sensing**: Leveraging remote sensing imagery, Earth observation embeddings, mobility data, and social sensing to reveal urban dynamics and inform planning, policy, and decision-making.
+* **Earth Observation and Urban Sensing**: Leveraging remote sensing imagery, Earth observation embeddings, mobility data, and social sensing to reveal urban dynamics and inform planning, policy, and decision-making.
 
 Feel free to contact me via email or LinkedIn. I’d be happy to connect!
 (Updated on 08/2026)
