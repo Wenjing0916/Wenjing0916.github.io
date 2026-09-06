@@ -37,6 +37,7 @@
     padding: 5px 20px;
     z-index: 1000;
     width: 100%;
+    box-sizing: border-box;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     display: flex;
     justify-content: center; /* 导航栏从左起：flex-start */
@@ -70,52 +71,12 @@
     scroll-behavior: smooth;
   }
 
-    /* 针对小屏幕设备（高像素密度屏幕）隐藏导航栏 */
-    @media only screen and (max-width: 414px) and (-webkit-min-device-pixel-ratio: 3) {
-    nav {
-    display: none; 
-        }
-  }
-    
-    @media only screen and (max-width: 760px) {
+    /* Collapse navigation on tablet and smaller screens. */
+    @media only screen and (max-width: 1200px) {
     body {
       padding-top: 48px;
     }
 
-    nav {
-      display: flex;
-      justify-content: flex-start;
-      overflow-x: auto;
-      padding: 5px 10px;
-      -webkit-overflow-scrolling: touch;
-      scrollbar-width: none;
-      white-space: nowrap;
-    }
-
-    nav::-webkit-scrollbar {
-      display: none;
-    }
-
-    .nav-title,
-    .nav-toggle {
-    display: none;
-  }
-    .nav-menu {
-    display: flex;
-    align-items: center;
-  }
-    .nav-link {
-      flex: 0 0 auto;
-      margin-right: 8px;
-      padding: 8px 10px;
-    }
-
-    .nav-title {
-      font-size: 17px;
-    }
-  }
-    
-    @media only screen and (max-width: 760px) {
     nav {
       align-items: stretch;
       flex-direction: column;
@@ -159,6 +120,8 @@
       border-top: 1px solid #eee;
       display: none;
       flex-direction: column;
+      max-height: calc(100dvh - 48px);
+      overflow-y: auto;
     }
 
     nav.is-open .nav-menu {
@@ -177,7 +140,7 @@
     }
   }
     
-    @media only screen and (min-width: 761px) {
+    @media only screen and (min-width: 1201px) {
     .nav-toggle {
       display: none;
     }
@@ -185,10 +148,11 @@
     .nav-menu {
       align-items: center;
       display: flex;
+      white-space: nowrap;
     }
   }
 
-    @media only screen and (max-width: 760px) {
+    @media only screen and (max-width: 1200px) {
     .nav-title,
     .nav-link {
       display: block;
