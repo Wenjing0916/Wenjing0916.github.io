@@ -167,7 +167,5 @@ Edit tags="..." in each paper's publication-tags include, directly above its tit
 
 
 
-<br>
-
 </ol>
 </div>
