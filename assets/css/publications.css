@@ -294,6 +294,16 @@ screen and (min-width: 480px) {
     margin-top: 1.25rem;
   }
 
+  .publications .pub-row {
+    display: block;
+  }
+
+  .publications .pub-row > .col-sm-9 {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    text-align: left;
+  }
+
   .publications ol.bibliography li {
     margin-bottom: 1.5rem;
     min-height: 0;
