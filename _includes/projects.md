@@ -1,3 +1,9 @@
+{% comment %}
+Publication tags: choose 1–2 per paper, separated by |.
+Available labels: GeoAI | Climate & Environmental Risk | Adaptation & Resilience | Mobility & Human Behavior
+Edit tags="..." in each paper's publication-tags include, directly above its title.
+{% endcomment %}
+
 <div class="publications">
 <ol class="bibliography">
 
@@ -36,6 +42,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    {% include publication-tags.html tags="Climate & Environmental Risk|Mobility & Human Behavior" %}
     <div class="title"><a href="https://doi.org/10.1016/j.ufug.2026.129264" target="_blank">Revealing park visitation under dual environmental threats in a socially stratified city: Evidence from smartphone mobility data in Dallas</a></div>
     <div class="author"><strong>Wenjing Gong</strong>, Ling Wu, Chunwu Zhu, Yang Song, Xinyue Ye</div>
     <div class="periodical"><em>Urban Forestry & Urban Greening</em>, Jan. 2026</div>
@@ -57,6 +64,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    {% include publication-tags.html tags="GeoAI|Adaptation & Resilience" %}
     <div class="title"><a href="https://doi.org/10.1177/0739456X251391121" target="_blank">Integrating Spatiotemporal Vision Transformer into Digital Twins for High-Resolution Heat Stress Forecasting in Campus Environments</a></div>
     <div class="author"><strong>Wenjing Gong</strong>, Xinyue Ye, Keshu Wu, Suphanut Jamonnak, Wenyu Zhang, Yifan Yang, Xiao Huang</div>
     <div class="periodical"><em>Journal of Planning Education and Research</em>, Nov. 2025</div>
@@ -77,6 +85,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    {% include publication-tags.html tags="Climate & Environmental Risk|GeoAI" %}
     <div class="title"><a href="https://doi.org/10.1016/j.eiar.2026.108363" target="_blank">Artificial intelligence applications in urban extreme heat management: A systematic review of forecasting, monitoring, mitigation and decision support</a></div>
     <div class="author">Jin Rui, Zahratu Shabrina, <strong>Wenjing Gong*</strong></div>
     <div class="periodical"><em>Environmental Impact Assessment Review</em>, Jan. 2026</div>
@@ -99,6 +108,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    {% include publication-tags.html tags="Climate & Environmental Risk|Mobility & Human Behavior" %}
     <div class="title"><a href="https://doi.org/10.1016/j.jtrangeo.2024.103799" target="_blank">Deciphering urban bike-sharing patterns: An in-depth analysis of natural environment and visual quality in New York's Citi bike system</a></div>
     <div class="author"><strong>Wenjing Gong</strong>, Jin Rui, Tianyu Li</div>
     <div class="periodical"><em>Journal of Transport Geography</em>, Feb. 2024</div>
@@ -121,6 +131,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    {% include publication-tags.html tags="Climate & Environmental Risk|Adaptation & Resilience" %}
     <div class="title"><a href="https://doi.org/10.1177/23998083251330940" target="_blank">Urban planning and IPCC-like city assessments integration for climate-resilient cities</a></div>
     <div class="author">Xinyue Ye, Tan Yigitcanlar, Yangyang Xu, Monique Head, Yun Hang, Tom Sanchez, <strong>Wenjing Gong</strong>, Dev Niyogi</div>
     <div class="periodical"><em>Environment and Planning B: Urban Analytics and City Science</em>, Mar. 2025</div>
@@ -142,6 +153,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    {% include publication-tags.html tags="GeoAI" %}
     <div class="title"><a href="https://doi.org/10.1080/19475683.2025.2469110" target="_blank">Artificial intelligence in urban science: why does it matter?</a></div>
     <div class="author">Xinyue Ye, Tan Yigitcanlar, Michael Goodchild, Xiao Huang, Wenwen Li, Shih-Lung Shaw, Yanjie Fu, <strong>Wenjing Gong</strong>, Galen Newman</div>
     <div class="periodical"><em>Annals of GIS</em>, Feb. 2025</div>

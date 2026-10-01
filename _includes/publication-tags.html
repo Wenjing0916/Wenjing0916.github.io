@@ -1,0 +1,9 @@
+{% assign publication_tags = include.tags | split: '|' %}
+<div class="publication-tags" aria-label="Research topics">
+  {% for tag in publication_tags limit: 2 %}
+    {% assign tag_label = tag | strip %}
+    {% if tag_label != '' %}
+      <span class="publication-tag">{{ tag_label | escape }}</span>
+    {% endif %}
+  {% endfor %}
+</div>
