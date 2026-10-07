@@ -64,13 +64,13 @@ Feel free to contact me via email or LinkedIn. I’d be happy to connect!
 ## Education
 <span id="education" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 <div class="entry">
-<strong>[2024-pres.] Ph.D. Student, Urban and Regional Science (Urban Analytics & GeoAI)</strong><br>
+<strong>[2024–pres.] Ph.D. Student, Urban and Regional Science (Urban Analytics & GeoAI)</strong><br>
 <strong>Graduate Certificate in Geographic Information Science (Department of Geography)</strong><br>
 <strong style="color:#500000">Texas A&M University, College Station, USA</strong><br>
 Chair: Dr. Lingqian (Ivy) Hu, Co-Chair: Dr. Xinyue Ye, Committee members: Dr. Galen Newman and Dr. Lei Zou<br>
 </div>
 <div class="entry">
-<strong>[2019-2022] M.E., Architecture (Urban Study)</strong><br>
+<strong>[2019–2022] M.E., Architecture (Urban Study)</strong><br>
 <strong style="color:#500000">Tongji University, Shanghai, China</strong><br>
 GPA: 88.5/100 (Entrance through the exam-free recommendation program)
 </div>
@@ -79,7 +79,7 @@ GPA: 88.5/100 (Entrance through the exam-free recommendation program)
 <strong style="color:#500000">Columbia University, New York, USA</strong>
 </div>
 <div class="entry">
-<strong>[2014-2019] B.E., Architecture</strong><br>
+<strong>[2014–2019] B.E., Architecture</strong><br>
 <strong style="color:#500000">Shandong University of Science & Technology, Qingdao, China</strong><br>
 GPA: 90.5/100 (Rank: 1/60 each year)
 </div>
@@ -88,19 +88,23 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 ## Academic & Professional Experience
 <span id="employment" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 <div class="entry">
-<strong>[2025-2026] Student Ambassador</strong><br>
+<strong>[2025–pres] Graduate Teaching Assistant</strong><br>
+<strong style="color:#500000">Texas A&M University, College Station, USA</strong>
+</div>
+<div class="entry">
+<strong>[2025–2026] Student Ambassador</strong><br>
 <strong style="color:#500000">Texas A&M Institute of Data Science, College Station, USA</strong>
 </div>
 <div class="entry">
-<strong>[2025-2026] Student Fellow</strong><br>
+<strong>[2025–2026] Student Fellow</strong><br>
 <strong style="color:#500000">Telehealth Institute, Texas A&M University, College Station, USA</strong>
 </div>
 <div class="entry">
-<strong>[2024-2025] Research Assistant</strong><br>
+<strong>[2024–2025] Graduate Research Assistant</strong><br>
 <strong style="color:#500000">Center for Geospatial Sciences, Applications and Technology, Texas A&M University, College Station, USA</strong>
 </div>
 <div class="entry">
-<strong>[2022-2024] Designer and Planner</strong><br>
+<strong>[2022–2024] Designer and Planner</strong><br>
 <strong style="color:#500000">Architecture Design & Research Institute of Tongji University, Shanghai, China</strong>
 </div>
 
@@ -133,44 +137,49 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 
 
 ## Awards & Honors
-*See my CV for the full list of awards and honors.*
 <span id="awards" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * [2026] Environmental Perception and Behavior Geography (EPBG) Travel Grant, 2026 Annual Meeting of American Association of Geographers, $150.
 * [2026] International Geographic Information Fund (IGIF) Scholarship Award, 2026 Annual Meeting of American Association of Geographers, $1,200.
 * [2026] Applied Geography Specialty Group Annual Meeting Award, 2026 Annual Meeting of American Association of Geographers, $202.
 * [2026] Second Place, Geographic Information Science and Systems Specialty Group (GISSG) Student Honors Paper Competition (Third Author), 2026 Annual Meeting of American Association of Geographers.
+* [2026] 2025–2026 NSF I-GUIDE Spatial AI Challenge — GeoAgent4Disaster (Accepted Project).
 * [2026] Travel Grant, LAUP Department, TAMU, $600.
 * [2025] Travel Grant, Summer School on Cyberinfrastructure and Disaster Resilience, TAMU (funded by NSF), $200.
-* [2025] Texas A&M Institute of Data Science (TAMIDS) Student Ambassador Scholarship, Domain Data Science Track (2025–2026 cohort), TAMU, $2,000.
 * [2025] Ashok K. Dutt Award for Best Graduate Student Paper (**1st place**), Regional Development and Planning Specialty Group, 2025 Annual Meeting of American Association of Geographers, $200.
-* [2025] UCGIS I-GUIDE 2024–2025 Community Champions, $3,000 (Student leader; project under Dr. Xinyue Ye).
+* [2025] UCGIS I-GUIDE 2024–2025 Community Champions, $3,000 (Student Lead; PI: Dr. Xinyue Ye).
+* [2025] NVIDIA Support for Short-Term Compute Needs on "using digital twins and transformer networks to model & mitigate human heat stress".
+* [2025] Texas A&M Institute of Data Science (TAMIDS) Student Ambassador Scholarship, Domain Data Science Track, TAMU, $2,000.
 * [2025] Travel Grant, LAUP Department, TAMU, $600.
-* [2019 - 2022]	Academic Scholarship covering all tuition fees, TJU.
-* [2014 - 2019]	First-class Scholarships in academic performance (5%, **8 times**), SDUST.
-* [2014 - 2019]	First-class Corporate Scholarships (5%, **2 times**), SDUST.
-* [2014 - 2019]	"Outstanding Student Pioneer" (5%, **3 times**), SDUST.
+* [2019–2022]	Academic Scholarship covering all tuition fees, TJU.
+* [2014–2019]	First-class Scholarships in academic performance (5%, **8 times**), SDUST.
+* [2014–2019]	First-class Corporate Scholarships (5%, **2 times**), SDUST.
+* [2014–2019]	"Outstanding Student Pioneer" (5%, **3 times**), SDUST.
 * [2019]	"Outstanding Graduate" of Shandong Province (5%).
 * [2019]	"Outstanding Student" in Science, Technology, and Innovation (5%), SDUST.
 * [2018]	National Best Leader Award, National Green Building Design Competition.
-* [2018]	Grand Prize, National Green Building Design Competition - Deep Green Category.
 * [2017]	Excellence Award, China Architectural Education/TSINGRUN Award Students’ Paper Competition.
+* [2016–2018]	Multiple national architecture and design competition awards (**11 times**)
 
 ## Teaching Experience
-*Teaching Assistant*
+**Texas A&M University**  
+*Guest Lecturer*
 <span id="teaching" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
-* [2026 Spring] PLAN626:600: Advanced GIS & PLAN625:600: Introduction to GIS & PLAN625:700: Introduction to GIS (Online), Texas A&M University, College Station, USA
-* [2025 Fall]	PLAN626:600: Advanced GIS & PLAN625:700: Introduction to GIS  (Online), Texas A&M University, College Station, USA
-* [2020 Fall]	Design Studio III (Urban Planning), Tongji University, Shanghai, China
+* [Fall 2026] PLAN626:600: Advanced GIS — *Demographic Analysis: Acquisition, Modeling and Analysis of Census Data With R*
+
+*Graduate Teaching Assistant*
+<span id="teaching" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
+* [Fall 2026, Spring 2026, Fall 2025] PLAN626:600: Advanced GIS
+* [Fall 2026] PLAN625:700: GIS in Landscape and Urban Planning (Online)
+* [Spring 2026, Fall 2025] PLAN625:700: Introduction to GIS (Online)
+* [Spring 2026] PLAN625:600: Introduction to GIS
+
+**Tongji University**  
+*Graduate Teaching Assistant*
+<span id="teaching" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
+* [Fall 2020] Design Studio III (Urban Planning)
 
 
 ## Services
-*Professional Membership*
-<span id="services" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
-* American Association of Geographers (AAG)
-* Association of Collegiate Schools of Planning (ACSP)
-* American Geophysical Union (AGU)
-* American Planning Association (APA)
-
 *Editorial Boards*
 <span id="services" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * Managing Editor: Computational Urban Science
@@ -187,6 +196,13 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 <span id="services" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * Session Co-chair: Symposium on Human Dynamics Research: Extreme Weather, Human Responses, and Urban Resilience (I & Ⅱ). *2026 Annual Meeting of American Association of Geographers*, March 17-21, 2026, San Francisco, California, USA.
 * Session Chair/Primary Organizer: Symposium on Human Dynamics Research: Urban Environmental Intelligence and Human-Climate Interactions (1 & 2). *2025 Annual Meeting of American Association of Geographers*, March 24-28, 2025, Detroit, Michigan, USA.
+
+*Professional Membership*
+<span id="services" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
+* American Association of Geographers (AAG)
+* Association of Collegiate Schools of Planning (ACSP)
+* American Geophysical Union (AGU)
+* American Planning Association (APA)
 
 
 ## Media Coverage
