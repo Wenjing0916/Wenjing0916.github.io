@@ -38,8 +38,8 @@ Feel free to contact me via email or LinkedIn. I’d be happy to connect!
 -->
 <div style="max-height: 230px; overflow-y: auto; padding: 15px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); border-radius: 8px; background-color: #fafafa; font-size: 15px; line-height: 1.6;">
   <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
-  <li><strong>[Oct. 2026]</strong> 😊 My two abstracts were accepted for presentation at <strong>AGU 2026</strong>, focusing on hyperlocal PM₂.₅ mapping with Earth embeddings and extreme heat exposure in African slums.
-  <li><strong>[Oct. 2026]</strong> 🏆 My poster on heat stress forecasting won <strong>Second Place (Jury Vote)</strong> in the Graduate Poster Session at the COA AI Symposium at TAMU.
+  <li><strong>[Oct. 2026]</strong> 😊 My two abstracts were accepted for presentation at <strong>AGU 2026</strong>, focusing on hyperlocal PM₂.₅ mapping with Earth embeddings and extreme heat exposure in African slums.</li>
+  <li><strong>[Oct. 2026]</strong> 🏆 My poster on heat stress forecasting won <strong>Second Place (Jury Vote)</strong> in the Graduate Poster Session at the COA AI Symposium at TAMU.</li>
   <li><strong>[Aug. 2026]</strong> 📝 Our CS coursework paper on agents for disaster management has been accepted as a full paper in the Applications Track of the <strong>34th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems</strong>.</li>
   <li><strong>[Aug. 2026]</strong> 🗣️ Invited to present my recent work on GeoAI for hyperlocal environmental hazards at the <strong>2026 International Symposium on Spatiotemporal Data Science</strong>.</li>
   <li><strong>[May. 2026]</strong> 😊 My abstract was accepted for an oral presentation at <strong>ACSP 2026</strong>, and another abstract for which I am the corresponding author was also accepted.</li>
