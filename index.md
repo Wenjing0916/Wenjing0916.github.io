@@ -25,20 +25,22 @@ layout: homepage
 ## About Me
 <span id="about" style="display: block; margin-top: -100px; padding-top: 100px;"></span>
 Greetings,😀! I'm Wenjing Gong, a Ph.D. student in Urban and Regional Science at Texas A&M University, co-advised by <a href="https://www.arch.tamu.edu/staff/lingqian-ivy-hu/" target="_blank">Dr. Lingqian (Ivy) Hu</a> and <a href="https://geography.ua.edu/people/xinyue-ye/" target="_blank">Dr. Xinyue Ye</a>. My interdisciplinary academic training equips me with the diverse perspectives needed to tackle complex socio-environmental challenges. My current research <strong>uses data-driven and geospatial approaches to assess risks from climate extremes and environmental hazards and to inform adaptation and resilience</strong>. Specifically, my research interests center on three interconnected areas:  
-* **GeoAI for Climate and Environment**: Advancing multimodal data fusion, geospatial foundation models, and data-driven analytics to characterize hyperlocal exposures to climate and environmental hazards.
-* **Human–Environment–Climate Nexus**: Investigating the coupled interactions among extreme weather, urban systems, and human behavior to support sustainable, resilient, and healthy urban futures.  
+* **GeoAI for Climate and Environment**: Advancing multimodal data fusion, geospatial foundation models, and data-driven analytics for multi-scale climate and environmental exposure assessment.
+* **Human–Environment–Climate Nexus**: Investigating how climate and environmental hazards interact with urban systems and human behavior to shape risk, adaptation, and resilience for sustainable and healthy urban futures.  
 * **Earth Observation and Urban Sensing**: Leveraging remote sensing imagery, Earth observation embeddings, mobility data, and social sensing to reveal urban dynamics and inform planning, policy, and decision-making.
 
 Feel free to contact me via email or LinkedIn. I’d be happy to connect!
-(Updated on 08/2026)
+(Updated on 10/2026)
 
 <!-- 
 ## News  
 <span id="news" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 -->
-<div style="max-height: 155px; overflow-y: auto; padding: 15px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); border-radius: 8px; background-color: #fafafa; font-size: 15px; line-height: 1.6;">
+<div style="max-height: 230px; overflow-y: auto; padding: 15px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); border-radius: 8px; background-color: #fafafa; font-size: 15px; line-height: 1.6;">
   <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
 
+  <li><strong>[Oct. 2026]</strong> 😊 My two abstracts were accepted for presentation at <strong>AGU 2026</strong>, focusing on hyperlocal PM₂.₅ mapping with Earth embeddings and extreme heat exposure in African slums.
+  <li><strong>[Oct. 2026]</strong> 🏆 My poster on heat stress forecasting won <strong>Second Place (Jury Vote)</strong> in the Graduate Poster Session at the COA AI Symposium at TAMU.
   <li><strong>[Aug. 2026]</strong> 📝 Our CS coursework paper on agents for disaster management has been accepted as a full paper in the Applications Track of the <strong>34th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems</strong>.</li>
   <li><strong>[Aug. 2026]</strong> 🗣️ Invited to present my recent work on GeoAI for hyperlocal environmental hazards at the <strong>2026 International Symposium on Spatiotemporal Data Science</strong>.</li>
   <li><strong>[May. 2026]</strong> 😊 My abstract was accepted for an oral presentation at <strong>ACSP 2026</strong>, and another abstract for which I am the corresponding author was also accepted.</li>
@@ -121,6 +123,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 <span id="presentations" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
 * **Gong, W.** Toward Climate-Responsive Campuses: A Digital Twin Framework for High-Resolution Heat Stress Forecasting and Planning. *2026 Association of Collegiate Schools of Planning*, October 8-10, 2026, Pittsburgh, Pennsylvania, USA (Oral).
 * Zhang, K., **Gong, W.*** Built Environment Disparities in Post-Wildfire Recovery: Evidence from California Using Cross-View Imagery and Large Language Models. *2026 Association of Collegiate Schools of Planning*, October 8-10, 2026, Pittsburgh, Pennsylvania, USA (Accepted). 
+* **Gong, W.** Forecasting Heat Stress with AI in Digital Twins. *2026 Texas A&M College of Architecture AI Symposium*, October 5–6, 2026, College Station, Texas, USA (Poster).
 * **Gong, W.** Hyperlocal PM₂.₅ Imputation from Sparse Sensors with Earth Embeddings and State Space-Enhanced Spatial Learning. *2026 International Symposium on Spatiotemporal Data Science*, August 7-8, 2026, Virginia Tech, Virginia, USA (Oral).
 * **Gong, W.**, Ye, X., Song, Y. Essential Infrastructure or Unavoidable Risk? Modeling Urban Park Visitation under Dual Climate and Crime Stressors with Large-Scale Mobility Data. *2026 Annual Meeting of American Association of Geographers*, March 17-21, 2026, San Francisco, California, USA (Oral).
 * Yang, Y., Zou, L., **Gong, W.**, Fu, K., Li, Z., Wang, S., Zhou, B., Cai, H., Tian, H. DamageArbiter: A CLIP-Enhanced Multimodal Arbitration Framework for Hurricane Damage Assessment from Street-View Imagery. *2026 Annual Meeting of American Association of Geographers*, March 17-21, 2026, San Francisco, California, USA (Oral).
@@ -138,6 +141,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 
 ## Awards & Honors
 <span id="awards" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
+* [2026] Second Place (Jury Vote), Graduate Poster Session, COA AI Symposium, TAMU, up to $500.
 * [2026] Environmental Perception and Behavior Geography (EPBG) Travel Grant, 2026 Annual Meeting of American Association of Geographers, $150.
 * [2026] International Geographic Information Fund (IGIF) Scholarship Award, 2026 Annual Meeting of American Association of Geographers, $1,200.
 * [2026] Applied Geography Specialty Group Annual Meeting Award, 2026 Annual Meeting of American Association of Geographers, $202.
