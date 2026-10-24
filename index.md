@@ -69,6 +69,7 @@ Feel free to contact me via email or LinkedIn. I’d be happy to connect!
 <strong>Graduate Certificate in Geographic Information Science (Department of Geography)</strong><br>
 <strong style="color:#500000">Texas A&M University, College Station, USA</strong><br>
 Chair: Dr. Lingqian (Ivy) Hu, Co-Chair: Dr. Xinyue Ye, Committee members: Dr. Galen Newman and Dr. Lei Zou<br>
+Selected Quantitative Coursework: CSCE689 SPTP: Generative AI; CSCE689 SPTP: Graph ML; STAT647 Spatial Statistics; GEOG678 WebGIS; GEOG660 Applications in GIS; GEOG665 GIS Modelling<br>
 </div>
 <div class="entry">
 <strong>[2019–2022] M.E., Architecture (Urban Study)</strong><br>
