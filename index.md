@@ -121,6 +121,8 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 ## Presentations
 *Conferences*
 <span id="presentations" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
+* **Gong, W.** Hyperlocal PM₂.₅ Inference with Low-Cost Sensors and Geospatial Foundation Model Embeddings for Environmental Hazard Assessment. *2026 American Geophysical Union*, December 7-11, 2026, San Francisco, California, USA (Poster).
+* **Gong, W.** Mapping Extreme Heat Exposure and Environmental Deprivation in Sub-Saharan African Slums. *2026 American Geophysical Union*, December 7-11, 2026, San Francisco, California, USA (Poster).
 * **Gong, W.** Toward Climate-Responsive Campuses: A Digital Twin Framework for High-Resolution Heat Stress Forecasting and Planning. *2026 Association of Collegiate Schools of Planning*, October 8-10, 2026, Pittsburgh, Pennsylvania, USA (Oral).
 * Zhang, K., **Gong, W.*** Built Environment Disparities in Post-Wildfire Recovery: Evidence from California Using Cross-View Imagery and Large Language Models. *2026 Association of Collegiate Schools of Planning*, October 8-10, 2026, Pittsburgh, Pennsylvania, USA (Accepted). 
 * **Gong, W.** Forecasting Heat Stress with AI in Digital Twins. *2026 Texas A&M College of Architecture AI Symposium*, October 5–6, 2026, College Station, Texas, USA (Poster).
@@ -168,14 +170,15 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 **Texas A&M University**  
 *Guest Lecturer*
 <span id="teaching" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
-* [Fall 2026] PLAN626:600: Advanced GIS — *Demographic Analysis: Acquisition, Modeling and Analysis of Census Data With R*
+* [Fall 2026] PLAN 625/URPN 325: GIS in Landscape and Urban Planning — *3D Tools in ArcGIS Pro: Mapping, Measuring, and Modeling the Vertical City*
+* [Fall 2026] PLAN 626/URPN 326: Advanced GIS — *Demographic Analysis: Acquisition, Modeling, and Analysis of Census Data With R*
 
 *Graduate Teaching Assistant*
 <span id="teaching" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
-* [Fall 2026, Spring 2026, Fall 2025] PLAN626:600: Advanced GIS
-* [Fall 2026] PLAN625:700: GIS in Landscape and Urban Planning (Online)
-* [Spring 2026, Fall 2025] PLAN625:700: Introduction to GIS (Online)
-* [Spring 2026] PLAN625:600: Introduction to GIS
+* [Fall 2026, Spring 2026, Fall 2025] PLAN 626/URPN 326: Advanced GIS
+* [Fall 2026] PLAN 625/URPN 325: GIS in Landscape and Urban Planning (Online)
+* [Spring 2026, Fall 2025] PLAN 625/URPN 325: Introduction to GIS (Online)
+* [Spring 2026] PLAN 625/URPN 325: Introduction to GIS
 
 **Tongji University**  
 *Graduate Teaching Assistant*
