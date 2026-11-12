@@ -43,7 +43,7 @@ Feel free to contact me via email or LinkedIn. I’d be happy to connect!
   <li><strong>[Aug. 2026]</strong> 📝 Our CS coursework paper on agents for disaster management has been accepted as a full paper in the Applications Track of the <strong>34th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems</strong>.</li>
   <li><strong>[Aug. 2026]</strong> 🗣️ Invited to present my recent work on GeoAI for hyperlocal environmental hazards at the <strong>2026 International Symposium on Spatiotemporal Data Science</strong>.</li>
   <li><strong>[May. 2026]</strong> 😊 My abstract was accepted for an oral presentation at <strong>ACSP 2026</strong>, and another abstract for which I am the corresponding author was also accepted.</li>
-  <li><strong>[Apr. 2026]</strong> 🗣️ Invited to talk at GISalon 42: Women in GIS, co-organized by <strong>GISphere</strong> and <strong>CPGIS</strong>. </li>
+  <li><strong>[Apr. 2026]</strong> 🗣️ Invited to speak at GISalon 42: Women in GIS, co-organized by <strong>GISphere</strong> and <strong>CPGIS</strong>. </li>
   <li><strong>[Mar. 2026]</strong> 🏆 Honored to receive <strong>Environmental Perception and Behavior Geography (EPBG) Travel Grant</strong> from <em>AAG 2026</em>.</li>
   <li><strong>[Feb. 2026]</strong> 👏 Honored to receive <strong>International Geographic Information Fund (IGIF) Scholarship Award</strong> from <em>AAG 2026</em>.</li>
   <li><strong>[Feb. 2026]</strong> 🏆 Honored to receive <strong>Applied Geography Specialty Group Annual Meeting Award</strong> from <em>AAG 2026</em>.</li>
