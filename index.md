@@ -144,7 +144,7 @@ GPA: 90.5/100 (Rank: 1/60 each year)
 
 ## Awards & Honors
 <span id="awards" style="display: block; margin-top: -100px; padding-top: 80px;"></span>
-* [2026] Second Place (Jury Vote), Graduate Poster Session, COA AI Symposium, TAMU, up to $500.
+* [2026] Second Place (Jury Vote), Graduate Poster Session, COA AI Symposium, TAMU, $250.
 * [2026] Environmental Perception and Behavior Geography (EPBG) Travel Grant, 2026 Annual Meeting of American Association of Geographers, $150.
 * [2026] International Geographic Information Fund (IGIF) Scholarship Award, 2026 Annual Meeting of American Association of Geographers, $1,200.
 * [2026] Applied Geography Specialty Group Annual Meeting Award, 2026 Annual Meeting of American Association of Geographers, $202.
